@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Access Code Page</title>
+</head>
+<body>
+  <h1>Enter Access Code</h1>
+  <input type="password" id="accessCode" placeholder="Enter access code">
+  <button onclick="checkAccessCode()">Submit</button>
+
+  <script>
+    function checkAccessCode() {
+      var enteredCode = document.getElementById("accessCode").value;
+      var correctCode = "Emarat2023";
+
+      if (enteredCode === correctCode) {
+        // Redirect to the next page
+        window.location.href = "category_management.html";
+      } else {
+        alert("Incorrect access code. Please try again.");
+      }
+    }
+  </script>
+</body>
+</html>
