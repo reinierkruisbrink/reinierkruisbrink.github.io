@@ -18,8 +18,21 @@ $(function() {
     items: 1,
   });
   
-  // Nice select
-  $('.vg-select').niceSelect();
+  // Search
+  ;(function search () {
+    ;[...document.querySelectorAll('.searchable')].forEach(makeSearchable)
+    function makeSearchable ($searchable) {
+      const $searchableItems = [...$searchable.querySelectorAll('.searchable-item')]
+      const $search = $searchable.querySelector('input')
+      $search.addEventListener('keyup', (e) => {
+        $searchableItems.forEach(function ($el) {
+          const text = $el.getAttribute('data-search') || $el.innerText
+          const show = new RegExp(e.target.value, 'i').test(text)
+          $el.style.display = show ? '' : 'none'
+        })
+      })
+    }
+  })()
   
   // Tooltip
   $('[data-toggle="tooltip"]').tooltip();
@@ -31,10 +44,10 @@ $(function() {
   var backTop = $(".btn-back_to_top");
   
   $(window).scroll(function() {
-    if($(document).scrollTop() > 400) {
+    if($(document).scrollTop() > 200) {
       backTop.css('visibility', 'visible');
     }
-    else if($(document).scrollTop() < 400) {
+    else if($(document).scrollTop() < 200) {
       backTop.css('visibility', 'hidden');
     }
   });
@@ -42,7 +55,7 @@ $(function() {
   backTop.click(function() {
     $('html').animate({
       scrollTop: 0
-    }, 1000);
+    }, 600);
     return false;
   });
   
@@ -69,7 +82,7 @@ $(function() {
 
 $(document).ready(function () {
   
-  /* Sticky nvigation */
+  /* Sticky navigation */
   
   var sticky = {
     $sticky: $('.sticky'),
@@ -202,30 +215,30 @@ $(document).ready(function() {
  *
  *  Require(" jquery.animateNumber.min.js ", " jquery.waypoints.min.js ")
  */
-$(document).ready(function() {
-  var counterInit = function() {
-    if ( $('.section-counter').length > 0 ) {
-      $('.section-counter').waypoint( function( direction ) {
+// $(document).ready(function() {
+//   var counterInit = function() {
+//     if ( $('.section-counter').length > 0 ) {
+//       $('.section-counter').waypoint( function( direction ) {
 
-        if( direction === 'down' && !$(this.element).hasClass('ftco-animated') ) {
+//         if( direction === 'down' && !$(this.element).hasClass('ftco-animated') ) {
 
-          var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',')
-          $('.number').each(function(){
-            var $this = $(this),
-              num = $this.data('number');
-            $this.animateNumber(
-              {
-                number: num,
-                numberStep: comma_separator_number_step
-              }, 5000
-            );
-          });
+//           var comma_separator_number_step = $.animateNumber.numberStepFactories.separator(',')
+//           $('.number').each(function(){
+//             var $this = $(this),
+//               num = $this.data('number');
+//             $this.animateNumber(
+//               {
+//                 number: num,
+//                 numberStep: comma_separator_number_step
+//               }, 5000
+//             );
+//           });
           
-        }
+//         }
 
-      } , { offset: '95%' } );
-    }
+//       } , { offset: '95%' } );
+//     }
 
-  }
-  counterInit();
-});
+//   }
+//   counterInit();
+// });

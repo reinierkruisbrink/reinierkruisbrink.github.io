@@ -3,33 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  
   <meta name="copyright" content="MACode ID, https://www.macodeid.com/">
   
-  <title>Virtual Folio - Portfolio HTML5 Template</title>
+  <title>Reinier Kruisbrink | Portfolio</title>
+  <link rel="shortcut icon" href="assets/img/polygon.png" type="image/x-icon">
 
-  <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
-  
   <link rel="stylesheet" type="text/css" href="assets/css/themify-icons.css">
-  
+  <link rel="stylesheet" type="text/css" href="assets/css/carousel.css">  
   <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
-
   <link rel="stylesheet" type="text/css" href="assets/vendor/animate/animate.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/vendor/owl-carousel/owl.carousel.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/vendor/nice-select/css/nice-select.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/vendor/fancybox/css/jquery.fancybox.min.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/css/virtual.css">
-  
   <link rel="stylesheet" type="text/css" href="assets/css/topbar.virtual.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/flickity.css" media="screen">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
+
 <body class="theme-red">
   
   <!-- Back to top button -->
@@ -37,6 +30,7 @@
     <span class="ti-arrow-up"></span>
   </div>
   
+
   <!-- Setting button -->
   <div class="config">
     <div class="template-config">
@@ -44,14 +38,10 @@
       <div class="d-block">
         <button class="btn btn-fab btn-sm" id="sideel" title="Settings"><span class="ti-settings"></span></button>
       </div>
-      <!-- Puschase -->
-      <div class="d-block">
+      <!-- Download -->
+      <!-- <div class="d-block">
         <a href="https://macodeid.com/projects/virtual-folio/" class="btn btn-fab btn-sm" title="Get this template" data-toggle="tooltip" data-placement="left"><span class="ti-download"></span></a>
-      </div>
-      <!-- Help -->
-      <div class="d-block">
-        <a href="#" class="btn btn-fab btn-sm" title="Help" data-toggle="tooltip" data-placement="left"><span class="ti-help"></span></a>
-      </div>
+      </div> -->
     </div>
     <div class="set-menu">
       <p>Select Color</p>
@@ -62,21 +52,19 @@
         <span class="color-item bg-theme-orange" data-class="theme-orange"></span>
         <span class="color-item bg-theme-purple" data-class="theme-purple"></span>
       </div>
-      <select class="custom-select d-block my-2" id="change-page">
-        <option value="">Choose Page</option>
-        <option value="index">Topbar</option>
-        <option value="blog-topbar">Blog (Topbar)</option>
-        <option value="index-2">Minibar</option>
-        <option value="blog-minibar">Blog (Minibar)</option>
-      </select>
     </div>
   </div>
   
-  <div class="vg-page page-home" id="home" style="background-image: url(assets/img/bg_image_1.jpg)">
+
+  <!-- Navbar & Background header banner -->
+  <div class="vg-page page-home" id="home" style="background-image: url(assets/img/bg_banner.jpg)">
     <!-- Navbar -->
     <div class="navbar navbar-expand-lg navbar-dark sticky" data-offset="500">
       <div class="container">
-        <a href="" class="navbar-brand">V-Folio</a>
+        <a href="https://github.com/reinierkruisbrink" class="navbar-brand"> <i class="fa fa-github" style="font-size:40px"></i></a>
+        <a href="https://nl.linkedin.com/in/reinier-kruisbrink-846795153" class="navbar-brand"> <i class="fa fa-linkedin-square" style="font-size:40px"></i></a>
+        <a href="https://www.goodreads.com/user/show/157295953-reinier" class="navbar-brand">  <img src="assets/img/logo/goodreads.png" alt="GoodReads" width="35" height="35"> </a>
+        <a href="https://www.instagram.com/reinierkruisbrink/" class="navbar-brand">  <i class="fa fa-instagram" style="font-size:40px"></i> </a>
         <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar" aria-expanded="true">
           <span class="ti-menu"></span>
         </button>
@@ -92,15 +80,10 @@
               <a href="#portfolio" class="nav-link" data-animate="scrolling">Portfolio</a>
             </li>
             <li class="nav-item">
-              <a href="#blog" class="nav-link" data-animate="scrolling">Blog</a>
+              <a href="#blog" class="nav-link" data-animate="scrolling">Book Blog</a>
             </li>
             <li class="nav-item">
               <a href="#contact" class="nav-link" data-animate="scrolling">Contact</a>
-            </li>
-          </ul>
-          <ul class="nav ml-auto">
-            <li class="nav-item">
-              <button class="btn btn-fab btn-theme no-shadow">En</button>
             </li>
           </ul>
         </div>
@@ -108,148 +91,127 @@
     </div> <!-- End Navbar -->
     <!-- Caption header -->
     <div class="caption-header text-center wow zoomInDown">
-      <h5 class="fw-normal">Welcome</h5>
+      <h5 class="fw-normal">Welcome 👋</h5>
       <h1 class="fw-light mb-4">I'm <b class="fg-theme">Reinier</b> Kruisbrink</h1>
-      <div class="badge">UI/UX & Web Designer</div>
+      <div class="badge">Data Scientist // Data Engineer</div>
     </div> <!-- End Caption header -->
     <div class="floating-button"><span class="ti-mouse"></span></div>
   </div>
   
+
+  <!-- About -->
   <div class="vg-page page-about" id="about">
     <div class="container py-5">
       <div class="row">
-        <div class="col-lg-4 py-3">
+        <div class="col-lg-3 py-3">
           <div class="img-place wow fadeInUp">
-            <img src="assets/img/person.jpg" alt="">
+            <img id="profileImage" src="assets/img/pic2_1.png" alt="Profile Image" onclick="toggleImage()">
           </div>
         </div>
-        <div class="col-lg-6 offset-lg-1 wow fadeInRight">
-          <h1 class="fw-light">Stephen Doe</h1>
-          <h5 class="fg-theme mb-3">UI/UX & Web Designer</h5>
-          <p class="text-muted">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form but the majority have suffered alteration in some</p>
+        <div class="col-lg-8 offset-lg-1 wow fadeInRight">
+          <h1 class="fw-light">Who am I?</h1>
+          <h5 class="fg-theme mb-3">Curious // Resourceful // Analytic // Goal Oriented</h5>
+          <p class="text-muted"> 
+            I'm passionate about exploring the patterns and relationships that underlie our world, driving my curiosity in both technology and science. 
+            Beyond the realms of technology, I find inspiration in the fascinating domains of biology, physics, and chemistry, especially in bioinformatics and at the intersection of AI and life & health sciences. 
+            Additionally, my interest in linguistics adds to my belief that, while language is subjective, commonalities in language usage expose a richer and more open way of understanding and sharing knowledge. 
+            Similarly, advances in neuroscience (and behaviours such as perception and action) enable better communication and understanding by realising the similarities and differencesand their respective consequences accross people.
+
+            I firmly believe that the synergy and complementarity across different fields are rich sources of knowledge, pushing the boundaries of understanding.   
+          </p>
           <ul class="theme-list">
-            <li><b>From:</b> Texas, US</li>
-            <li><b>Lives In:</b> Texas, US</li>
+            <li><b>From:</b> Amsterdam ❌❌❌ The Netherlands  🇳🇱</li>
             <li><b>Age:</b> 25</li>
-            <li><b>Gender:</b> Male</li>
+            <li><b>Interests:</b> AI <b class="fg-theme"> | </b> Biology <b class="fg-theme"> | </b> Linguistics <b class="fg-theme"> | </b> Neuroscience <b class="fg-theme"> | </b> Classics</li>
+            <li><b>Hobbies:</b> Hockey <b class="fg-theme"> | </b> Football <b class="fg-theme"> | </b> Reading <b class="fg-theme"> | </b> Hiking <b class="fg-theme"> | </b> Skiing  <b class="fg-theme"> | </b> Photography</li>
+            <!-- <li><b>Languages:</b> <br>NL 🇳🇱 : Native <b class="fg-theme">| </b> EN 🇬🇧 : Fluent <b class="fg-theme"> | </b> DE 🇩🇪 : B2 <br>NO 🇳🇴 : B2 <b class="fg-theme"> | </b> FR 🇫🇷 : B1 <b class="fg-theme"> | </b> ES 🇪🇸 : B1</li> -->
+            <li><b>Languages:</b> 🇳🇱  🇬🇧  🇩🇪  🇳🇴  🇫🇷  🇪🇸 </li>
           </ul>
-          <button class="btn btn-theme-outline">Download CV</button>
+          <!-- <form method="get" action="assets/docs/RKruisbrink_CV.pdf">
+            <button class="btn btn-theme-outline" type="submit">Download CV</button>
+         </form> -->
         </div>
       </div>
     </div>
-    <div class="container py-5">
-      <h1 class="text-center fw-normal wow fadeIn">My Skills</h1>
-      <div class="row py-3">
-        <div class="col-md-6">
-          <div class="px-lg-3">
-            <h4 class="wow fadeInUp">Coding skills</h4>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">JavaScript</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 86%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">86%</div>
-              </div>
-            </div>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">PHP</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">80%</div>
-              </div>
-            </div>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">HTML + CSS</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 100%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">100%</div>
-              </div>
-            </div>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">Phyton</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 90%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">90%</div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="px-lg-3">
-            <h4 class="wow fadeInUp">Design Skills</h4>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">UI / UX Design</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 92%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">92%</div>
-              </div>
-            </div>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">Web Design</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 99%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">99%</div>
-              </div>
-            </div>
-            <div class="progress-wrapper wow fadeInUp">
-              <span class="caption">Logo Design</span>
-              <div class="progress">
-                <div class="progress-bar" role="progressbar" style="width: 79%;" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">79%</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <div class="container pt-5">
       <div class="row">
-        <div class="col-md-6 wow fadeInRight">
-          <h2 class="fw-normal">Education</h2>
-          <ul class="timeline mt-4 pr-md-5">
+        <div class="col-md-6 wow fadeInRight" style="height: 700px; overflow: hidden;">
+          <h2 class="fw-normal">Education & Certifications</h2>
+          <ul class="timeline mt-4 pr-md-5" style="height: 100%; overflow-y: scroll; padding-right: 10px; box-sizing: content-box;">
             <li>
-              <div class="title">2010</div>
+              <div class="title">Bionformatics Specialization</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme"><a href="https://www.coursera.org/specializations/bioinformatics" class="fg-theme"> UC San Diego [Remote]</a> (2024)</h5>
+                <p>...</p>
               </div>
             </li>
             <li>
-              <div class="title">2009</div>
+              <div class="title">Data Engineering & DevOps</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme">Online Certificates (2023-2024)</h5>
+                <p>
+                  <!-- <a href="https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift"><span class="none"><i>Containers & Orchestration:</i></span></a> Docker, kubernetes <br> -->
+                  <!-- <a href="https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka"><span class="none"><i>Data Pipelines:</i></span></a> ETL, ELT, Shell, Airflow, kafka, ... <br> -->
+                  <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering#courses"><span class="none"><i>DevOps & Software Engineering:</i></span></a> A track of mutliple courses on DevOps, Cloud Computing, Agile, Linux, Git, Docker & Kubernetes, CI/CD, and more! <br>
+                  <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/"><span class="none"><i>Azure Data Engineering:</i></span></a> Designing efficient (big) data processing pipelines using Azure services, implementing Data Warehouses and Lakehouses, leveraging SQL, Python, and Spark. <br>
+                </p>
               </div>
             </li>
             <li>
-              <div class="title">2008</div>
+              <div class="title">MSc Artificial Intelligence</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme">University of Amsterdam (2020-2022)</h5>
+                <p>
+                  I followed courses on the theoretical aspects (calculus, probability & information theory) and practical applications (model architectures and training) of machine and deep learning. My electives specialized in NLP and computational biology/neuroscience, leading to a thesis exploring the intersection of these fields, focusing on information extraction from biomedical/chemical patents using NLP techniques.
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="title">BSc Artificial Intelligence</div>
+              <div class="details">
+                <h5 class="fg-theme">University of Amsterdam (2016-2020)</h5>
+                <p>
+                  During this programme I acquired a solid understanding of AI and computational fundamentals, ranging from logic and mathematics to ethics and cognitive sciences, and a diverse range of software knowledge such as datatypes, algorithms and databases, as well as the hardware basics. In my thesis I explored hardware acceleration of neural networks on FPGAs.
+                </p>
+                <br>
+                <br>
               </div>
             </li>
           </ul>
         </div>
-        <div class="col-md-6 wow fadeInRight" data-wow-delay="200ms">
+
+        <div class="col-md-6 wow fadeInRight" style="height: 700px; overflow: hidden;" data-wow-delay="200ms">
           <h2 class="fw-normal">Experience</h2>
-          <ul class="timeline mt-4 pr-md-5">
+          <ul class="timeline mt-4 pr-md-5" style="height: 100%; overflow-y: scroll; padding-right: 10px; box-sizing: content-box;">
             <li>
-              <div class="title">2017 - Current</div>
+              <div class="title">AI & Data Engineering Consultant</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme"><a href="https://www.sia-partners.com/en" class="fg-theme"> Sia Partners</a> (2023 - Present)</h5>
+                <p>
+                  As a consultant I mostly do data engineering projects at our clients in sectors such as Energy, Finance, and Retail to prepare/maintain the infrastructure for data related applications such as AI models and reporting. Next to implementation I employ project delivery strategies to track, explain and validate progress with the client and/or other stakeholders.
+                </p>
               </div>
             </li>
             <li>
-              <div class="title">2014</div>
+              <div class="title">Data Engineering Team Lead</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme"><a href="https://www.baise.nl/" class="fg-theme"> Baise</a> (2022)</h5>
+                <p>
+                  I led a team of 5 students and was responsible for the division of and guidance on tasks within the project and the total streamlining of the development process. In this project we advised a datacenter security company to collect informative data and implement adequate infrastructure in the process of getting their data ready for models to forecast increased risk of security incidents. 
+                </p>
+                
               </div>
             </li>
             <li>
-              <div class="title">2011</div>
+              <div class="title">Data Science Research Intern</div>
               <div class="details">
-                <h5>Specialize of course</h5>
-                <small class="fg-theme">University of Study</small>
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered</p>
+                <h5 class="fg-theme"><a href="https://www.elsevier.com/" class="fg-theme"> Elsevier</a> (2022)</h5>
+                <p>
+                  Research and development of deep learning models to extract information on genes and proteins as drug targets from chemical patents and biomedical literature. 
+                </p>
+                <br>
+                <br>
               </div>
             </li>
           </ul>
@@ -257,55 +219,62 @@
       </div>
     </div>
   </div>
+
+
+  <!-- Gap Banner -->
+  <div class="vg-page page-funfact" style="background-image: url(assets/img/bg_gaps.jpg); padding: 50px 0;">
+  </div>
   
+
+  <!-- Services -->
   <div class="vg-page page-service">
     <div class="container">
       <div class="text-center wow fadeInUp">
-        <div class="badge badge-subhead">Service</div>
+        <div class="badge badge-subhead">Skillsets</div>
       </div>
-      <h1 class="fw-normal text-center wow fadeInUp">What can i do?</h1>
+      <h1 class="fw-normal text-center wow fadeInUp">What can I do?</h1>
       <div class="row mt-5">
         <div class="col-md-6 col-lg-4 col-xl-3">
           <div class="card card-service wow fadeInUp">
             <div class="icon">
-              <span class="ti-paint-bucket"></span>
+              <img src="assets/img/logo/ai.png" height="59" width="59"> 
             </div>
             <div class="caption">
-              <h4 class="fg-theme">Web Design</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">Data Science</h4>
+              <p>I can analyze data and develop ML & DL models, with a theoretical background in probability & information theory, and practical knowledge of feature engineering and model choices.</p>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 col-xl-3">
           <div class="card card-service wow fadeInUp">
             <div class="icon">
-              <span class="ti-search"></span>
+              <img src="assets/img/logo/mlops.png" height="55" width="55"> 
             </div>
             <div class="caption">
-              <h4 class="fg-theme">SEO</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">MLOps</h4>
+              <p>I can ensure seamless integration between machine learning models and operational processes with scheduling, containers, and model serving.</p>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 col-xl-3">
           <div class="card card-service wow fadeInUp">
             <div class="icon">
-              <span class="ti-vector"></span>
+              <img src="assets/img/logo/de.png" height="55" width="55"> 
             </div>
             <div class="caption">
-              <h4 class="fg-theme">UI/UX Design</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">Data Engineering</h4>
+              <p>I can implement effective and scalable data workflows by (big) data processing, transformation, and integration in various cloud infrastructures and database types.</p>
             </div>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 col-xl-3">
           <div class="card card-service wow fadeInUp">
             <div class="icon">
-              <span class="ti-desktop"></span>
+              <img src="assets/img/logo/do.png" height="55" width="55"> 
             </div>
             <div class="caption">
-              <h4 class="fg-theme">Web Development</h4>
-              <p>There are many variations of passages of Lorem Ipsum available</p>
+              <h4 class="fg-theme">DevOps</h4>
+              <p>I can streamline software delivery by automating processes with CI/CD, Git and Unit Test scripting.</p>
             </div>
           </div>
         </div>
@@ -313,385 +282,346 @@
     </div>
   </div>
   
-  <div class="vg-page page-funfact" style="background-image: url(assets/img/bg_banner.jpg);">
+
+  <!-- Tool logos -->
+  <div class="vg-page page-client" data-flickity='{ "wrapAround": true }'>
     <div class="container">
-      <div class="row section-counter">
-        <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="768">768</h1>
-          <span>Clients</span>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/python-svgrepo-com.png"> 
+          </div>
         </div>
-        <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="230">230</h1>
-          <span>Project Compleate</span>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/sql-database-generic-svgrepo-com.png"> 
+          </div>
         </div>
-        <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="97">97</h1>
-          <span>Project Ongoing</span>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/powershell-svgrepo-com.png" > 
+          </div>
         </div>
-        <div class="col-md-6 col-lg-3 py-4 wow fadeIn">
-          <h1 class="number" data-number="699">699</h1>
-          <span>Client Satisfaction</span>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/cpp2-svgrepo-com.png" > 
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/pytorch-svgrepo-com.png" > 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/huggingface.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/airflow-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/rdkit.png">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/git-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/docker-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/kubernetes-svgrepo-com.png" > 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/ubuntu-svgrepo-com.png" > 
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/apache_spark_logo_icon_170560.png" > 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/kafka-icon-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/dbt.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/microsoft-windows-svgrepo-com.png"> 
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/azure-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/gcp-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/aws-svgrepo-com.png" > 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/databricks-svgrepo-com.png" > 
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/snowflake.png" > 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/postgresql-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/neo4j-svgrepo-com.png"> 
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4 col-xl-3 item">
+          <div class="img-place wow fadeInUp">
+            <img src="assets/img/logo/elasticsearch-logo-svgrepo-com.png"> 
+          </div>
         </div>
       </div>
     </div>
   </div>
-  
-  <!-- Portfolio page -->
+
+
+  <!-- TODO: width buttons & fill projects | Portfolio page -->
   <div class="vg-page page-portfolio" id="portfolio">
     <div class="container">
       <div class="text-center wow fadeInUp">
         <div class="badge badge-subhead">Portfolio</div>
       </div>
-      <h1 class="text-center fw-normal wow fadeInUp">See my work</h1>
+      <h1 class="text-center fw-normal wow fadeInUp">What did I do?</h1>
       <div class="filterable-button py-3 wow fadeInUp" data-toggle="selected">
         <button class="btn btn-theme-outline selected" data-filter="*">All</button>
-        <button class="btn btn-theme-outline" data-filter=".apps">Apps</button>
-        <button class="btn btn-theme-outline" data-filter=".template">Template</button>
-        <button class="btn btn-theme-outline" data-filter=".ios">IOS</button>
-        <button class="btn btn-theme-outline" data-filter=".ui-ux">UI/UX</button>
-        <button class="btn btn-theme-outline" data-filter=".graphic">Graphic</button>
-        <button class="btn btn-theme-outline" data-filter=".wireframes">Wireframes</button>
+        <button class="btn btn-theme-outline" data-filter=".AI">AI</button>
+        <button class="btn btn-theme-outline" data-filter=".NLP">NLP</button>
+        <button class="btn btn-theme-outline" data-filter=".DE">DE</button>
+        <button class="btn btn-theme-outline" data-filter=".Bio">Bioinformatics</button>
       </div>
 
       <div class="gridder my-3">
-        <div class="grid-item apps wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-1.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Mobile Travel App</h5> <p>Travel, Discovery</p>">
-            <img src="assets/img/work/work-1.jpg" alt="">
+
+        <div class="grid-item wow zoomIn Bio">
+          <div class="img-place" data-src="assets/img/work/genesmirrorgeography.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Genes Mirror Geography</h5> <p>Reproducing and extending the research done in <a href='https://www.researchgate.net/publication/23469983_Genes_Mirror_Geography_within_Europe'>this paper</a> to investigate the similarities in gene and population distributions. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/genesmirrorgeography.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Mobile Travel App</h5>
-              <p>Travel, Discovery</p>
+              <h5 class="fg-theme">Genes Mirror Geography</h5>
+              <p>2024, Personal Research, <a href="https://github.com/reinierkruisbrink/GeneGeography">GitHuB repo</a></p>
             </div>
           </div>
         </div>
-        <div class="grid-item template wireframes wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-2.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Music App</h5> <p>Musics</p>">
-            <img src="assets/img/work/work-2.jpg" alt="">
+        <div class="grid-item wow zoomIn AI NLP DE">
+          <div class="img-place" data-src="assets/img/work/GreenJobs.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Green Job Market Analysis</h5> <p>Classifying the amount of green jobs (per company, country, and sector) over 2023. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/GreenJobs.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Music App</h5>
-              <p>Musics</p>
+              <h5 class="fg-theme">Green Job Market Analysis</h5>
+              <p>2023, Sia Partners, <a href="">Whitepaper</a></p>
             </div>
           </div>
         </div>
-        <div class="grid-item apps ios wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-3.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Gaming Dashboard</h5> <p>Games, Streaming</p>">
-            <img src="assets/img/work/work-3.jpg" alt="">
+        <div class="grid-item wow zoomIn DE">
+          <div class="img-place" data-src="assets/img/work/ETLoptim.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Entso-e</h5> <p>Optimizing ETL scripts and implementing good and robust DE practices in the client's datapipelines. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ETLoptim.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Gaming Dashboard</h5>
-              <p>Games, Streaming</p>
+              <h5 class="fg-theme">Entso-e</h5>
+              <p>2024, Sia Partners</p>
             </div>
           </div>
         </div>
-        <div class="grid-item graphic ui-ux wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-4.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Drugs Delivery App</h5> <p>Health, Drugs</p>">
-            <img src="assets/img/work/work-4.jpg" alt="">
+        <div class="grid-item wow zoomIn AI NLP">
+          <div class="img-place" data-src="assets/img/work/DrugTargets.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Classifying Relevant Drug Targets</h5> <p>Classifying Genes and Proteins as Drug Targets in Chemical Patents with Contextual Embeddings <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/DrugTargets.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Drugs Delivery App</h5>
-              <p>Health, Drugs</p>
+              <h5 class="fg-theme">Classifying Relevant Drug Targets</h5>
+              <p>2022, Elsevier, <a href="assets/docs/rkruisbrink_thesis.pdf">Thesis</a></p>
             </div>
           </div>
         </div>
-        <div class="grid-item apps ios wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-5.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Musics Discover</h5> <p>Musics, Dashboard</p>">
-            <img src="assets/img/work/work-5.jpg" alt="">
+        <div class="grid-item wow zoomIn AI Bio">
+          <div class="img-place" data-src="assets/img/work/ProtFunc.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Predicting Protein Function</h5> <p>Predicting the function of a set of proteins based on the amino-acid sequences of the proteins and on other data (CAFA-5 dataset). <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ProtFunc.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Musics Discover</h5>
-              <p>Musics, Dashboard</p>
+              <h5 class="fg-theme">Predicting Protein Function</h5>
+              <p>2024, Personal Research, <a href="">GitHub repo</a></p>
             </div>
           </div>
         </div>
-        <div class="grid-item graphic ui-ux wireframes wow zoomIn">
-          <div class="img-place" data-src="assets/img/work/work-6.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Game Streaming</h5> <p>Games, Streaming</p>">
-            <img src="assets/img/work/work-6.jpg" alt="">
+        <div class="grid-item wow zoomIn DE AI NLP">
+          <div class="img-place" data-src="assets/img/work/SentimentTracker.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Company Reviews Sentiment Tracker</h5> <p>... <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/SentimentTracker.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Game Streaming</h5>
-              <p>Games, Streaming</p>
+              <h5 class="fg-theme">Company Reviews Sentiment Tracker</h5>
+              <p>2023, Sia Partners</p>
             </div>
           </div>
         </div>
+
       </div> <!-- End gridder -->
       <div class="text-center wow fadeInUp">
-        <a href="javascript:void(0)" class="btn btn-theme">Load More</a>
+        <a href="portfolio.html" class="btn btn-theme">See All Projects & Details</a>
       </div>
     </div>
-  </div> <!-- End Portfolio page -->
+  </div>
   
-  <!-- Testimonial -->
-  <div class="vg-page page-testimonial">
-    <div class="container">
-      <h1 class="text-center fw-normal wow fadeInUp">What Clients are Saying</h1>
-      <div class="row justify-content-center mt-5 wow fadeInUp">
-        <div class="col-md-9">
-          <div class="owl-carousel testi-carousel">
-            <div class="item">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="img-place">
-                    <img src="assets/img/testimonials/testimonials_1.jpg" alt="">
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="caption">
-                    <div class="testi-content">There are many variations of passages of Lorem Ipsum available, but the majority have suffered</div>
-                    <div class="testi-info">
-                      <div class="thumb-profile">
-                        <img src="assets/img/testimonials/testimonials_1.jpg" alt="">
-                      </div>
-                      <div class="tagline">
-                        <h5 class="mb-0">Satria Nugraha</h5>
-                        <span class="text-muted">CEO Nutshell</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="img-place">
-                    <img src="assets/img/testimonials/testimonials_2.jpg" alt="">
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="caption">
-                    <div class="testi-content">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Saepe natus expedita ab facilis ut, animi explicabo amet. Voluptatibus possimus iste enim, doloremque, fugiat accusamus nisi optio fugit ratione expedita harum?</div>
-                    <div class="testi-info">
-                      <div class="thumb-profile">
-                        <img src="assets/img/testimonials/testimonials_2.jpg" alt="">
-                      </div>
-                      <div class="tagline">
-                        <h5 class="mb-0">Selena Arrini</h5>
-                        <span class="text-muted">CEO BigTree</span>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> <!-- End testimonial -->
+
+  <!-- Gap Banner -->
+  <div class="vg-page page-funfact" style="background-image: url(assets/img/bg_gaps.jpg);">
+  </div>
   
-  <!-- Client -->
-  <div class="vg-page page-client">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_1.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_2.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_3.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_4.svg" alt="">
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_5.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_6.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_7.svg" alt="">
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-4 col-xl-3 item">
-          <div class="img-place wow fadeInUp">
-            <img src="assets/img/logo/company_8.svg" alt="">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> <!-- End client -->
-  
+
   <!-- Blog -->
   <div class="vg-page page-blog" id="blog">
     <div class="container">
       <div class="text-center">
-        <div class="badge badge-subhead wow fadeInUp">Blog</div>
+        <div class="badge badge-subhead wow fadeInUp">Book Blog</div>
       </div>
-      <h1 class="text-center fw-normal wow fadeInUp">Latest Post</h1>
+      <h1 class="text-center fw-normal wow fadeInUp">What do I read?</h1>
       <div class="row post-grid">
+
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="assets/img/work/work-9.jpg" alt="">
+              <img src="assets/img/books/bio.jpg" alt="">
             </div>
             <div class="caption">
-              <a href="javascript:void(0)" class="post-category">Technology</a>
-              <a href="#" class="post-title">Invision design forward fund</a>
-              <span class="post-date"><span class="sr-only">Published on</span> May 22, 2018</span>
+              <h6 class="post-category">Biology</h6>
+              <h5 class="post-title">Back to the Roots</h5>
+              <a class="post-date" style="font-size: 18px;">From Biochemistry to Ecology and Everything in Between</a>
             </div>
           </div>
         </div>
+
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="assets/img/work/work-6.jpg" alt="">
+              <img src="assets/img/books/neuro.png" alt="">
             </div>
             <div class="caption">
-              <a href="javascript:void(0)" class="post-category">Business</a>
-              <a href="#" class="post-title">Announcing a plan for small teams</a>
-              <span class="post-date"><span class="sr-only">Published on</span> May 22, 2018</span>
+              <h6 class="post-category">Neuroscience, Linguistics</h6>
+              <h5 class="post-title">Cognitive Crossroads</h5>
+              <a class="post-date" style="font-size: 18px;">From the Synaptic Symphony to Consciousness and Culture</a>
             </div>
           </div>
         </div>
+
         <div class="col-md-6 col-lg-4 wow fadeInUp">
           <div class="card">
             <div class="img-place">
-              <img src="assets/img/work/work-1.jpg" alt="">
+              <img src="assets/img/books/classic.jpg" alt="">
             </div>
             <div class="caption">
-              <a href="javascript:void(0)" class="post-category">Design</a>
-              <a href="#" class="post-title">5 basic tips for illustrating</a>
-              <span class="post-date"><span class="sr-only">Published on</span> May 22, 2018</span>
+              <h6 class="post-category">Classics, Philosophy</h6>
+              <h5 class="post-title">Threads of Wisdom</h5>
+              <a class="post-date" style="font-size: 18px;">The Woven Narratives of Classics and Philosophy</a>
             </div>
           </div>
         </div>
         <div class="col-12 text-center py-3 wow fadeInUp">
-          <a href="blog-fullbar.html" class="btn btn-theme">See All Post</a>
+          <a href="blog.html" class="btn btn-theme">See All Books & Summaries</a>
         </div>
       </div>
     </div>
-  </div> <!-- End blog -->
-  
-  <!-- Contact -->
-  <div class="vg-page page-contact" id="contact">
-    <div class="container-fluid">
-      <div class="text-center wow fadeInUp">
-        <div class="badge badge-subhead">Contact</div>
-      </div>
-      <h1 class="text-center fw-normal wow fadeInUp">Get in touch</h1>
-      <div class="row py-5">
-        <div class="col-lg-7 px-0 pr-lg-3 wow zoomIn">
-          <div class="vg-maps">
-            <div id="google-maps" style="width: 100%; height: 100%;"></div>
-          </div>
-        </div>
-        <div class="col-lg-5">
-          <form class="vg-contact-form">
-            <div class="form-row">
-              <div class="col-12 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Name" placeholder="Your Name">
-              </div>
-              <div class="col-6 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Email" placeholder="Email Address">
-              </div>
-              <div class="col-6 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Subject" placeholder="Subject">
-              </div>
-              <div class="col-12 mt-3 wow fadeInUp">
-                <textarea class="form-control" name="Message" rows="6" placeholder="Enter message here.."></textarea>
-              </div>
-              <button type="submit" class="btn btn-theme mt-3 wow fadeInUp ml-1">Send Message</button>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div> <!-- End Contact -->
-  
+  </div> 
+
+
   <!-- Footer -->
-  <div class="vg-footer">
-    <h1 class="text-center">Virtual Folio</h1>
+  <div class="vg-footer page-contact" id="contact">
+    <h1 class="text-center">Contact & References</h1>
     <div class="container">
       <div class="row">
         <div class="col-lg-4 py-3">
           <div class="footer-info">
-            <p>Where to find me</p>
+            <p>Contact</p>
             <hr class="divider">
-            <p class="fs-large fg-white">1600 Amphitheatre Parkway Mountain View, California 94043 US</p>
+            <span class="fs-small fg-white">reinierkruisbrink (at) gmail (dot) com</span><br>
+            <span class="fs-small fg-white">reinier (dot) kruisbrink (at) sia-partners (dot) com</span><br>
+            <span class="fs-small fg-white">Or connect with me on <a href="linkedin.com/in/reinier-kruisbrink-846795153">LinkedIn</a>!</span>
           </div>
         </div>
+        
         <div class="col-md-6 col-lg-3 py-3">
-          <div class="float-lg-right">
-            <p>Follow me</p>
-            <hr class="divider">
-            <ul class="list-unstyled">
-              <li><a href="#">Instagram</a></li>
-              <li><a href="#">Facebook</a></li>
-              <li><a href="#">Twitter</a></li>
-              <li><a href="#">Youtube</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-6 col-lg-3 py-3">
-          <div class="float-lg-right">
-            <p>Contact me</p>
-            <hr class="divider">
-            <ul class="list-unstyled">
-              <li>info@virtual.com</li>
-              <li>+8890234</li>
-              <li>+813023</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="row justify-content-center mt-3">
-        <div class="col-12 mb-3">
-          <h3 class="fw-normal text-center">Subscribe</h3>
-        </div>
-        <div class="col-lg-6">
-          <form class="mb-3">
-            <div class="input-group">
-              <input type="text" class="form-control" placeholder="Email address">
-              <input type="submit" class="btn btn-theme no-shadow" value="Subscribe">
+            <div class="float-lg-right">
+              <p>Interesting Playlists & Channels</p>
+              <hr class="divider">
+              <ul class="list-unstyled">
+                <li><a href="https://www.youtube.com/@TheRoyalInstitution/playlists">The Royal Institution</a></li>
+                <li><a href="https://www.youtube.com/@3blue1brown/playlists">3Blue1Brown</a></li>
+                <li><a href="https://www.youtube.com/@Fireship/playlists">Fireship</a></li>
+                <li><a href="https://www.youtube.com/@crashcourse/playlists">CrashCourse</a></li>
+                <!-- <li><a href="#">...</a></li> -->
+              </ul>
             </div>
-          </form>
-        </div>
-        <div class="col-12">
-          <p class="text-center mb-0 mt-4">Copyright &copy;2020. All right reserved | This template is made with <span class="ti-heart fg-theme-red"></span> by <a href="https://www.macodeid.com/">MACode ID</a></p>
+          </div>
+        <div class="col-md-6 col-lg-3 py-3">
+          <div class="float-lg-right">
+            <p>Interesting Courses & Tutorials</p>
+            <hr class="divider">
+            <ul class="list-unstyled">
+              <li><a href="https://uvadlc-notebooks.readthedocs.io/en/latest/index.html">Deep Learning Course</a></li>
+              <li><a href="https://rosalind.info/problems/tree-view/">Rosalind Bionformatics</a></li>
+              <li><a href="#">...</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
   </div> <!-- End footer -->
   
-  
+  <script src="assets/js/rk_own.js"></script>
   <script src="assets/js/jquery-3.5.1.min.js"></script>
-    
   <script src="assets/js/bootstrap.bundle.min.js"></script>
-    
   <script src="assets/vendor/owl-carousel/owl.carousel.min.js"></script>
-    
   <script src="assets/vendor/perfect-scrollbar/js/perfect-scrollbar.js"></script>
-    
   <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
-    
-  <script src="assets/vendor/nice-select/js/jquery.nice-select.min.js"></script>
-    
+  <script src="assets/vendor/nice-select/js/jquery.nice-select.min.js"></script> 
   <script src="assets/vendor/fancybox/js/jquery.fancybox.min.js"></script>
-
   <script src="assets/vendor/wow/wow.min.js"></script>
-
-  <script src="assets/vendor/animateNumber/jquery.animateNumber.min.js"></script>
-
-  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
-
-  <script src="assets/js/google-maps.js"></script>
-    
+  <script src="assets/js/flickity.pkgd.min.js"></script>
   <script src="assets/js/topbar-virtual.js"></script>
-
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIA_zqjFMsJM_sxP9-6Pde5vVCTyJmUHM&callback=initMap"></script>
   
 </body>
 </html>

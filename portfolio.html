@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="copyright" content="MACode ID, https://www.macodeid.com/">
+  
+  <title>Reinier Kruisbrink | Projects</title>
+  <link rel="shortcut icon" href="assets/img/polygon.png" type="image/x-icon">
+
+  <link rel="stylesheet" type="text/css" href="assets/css/themify-icons.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/carousel.css">  
+  <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="assets/vendor/animate/animate.css">
+  <link rel="stylesheet" type="text/css" href="assets/vendor/owl-carousel/owl.carousel.css">
+  <link rel="stylesheet" type="text/css" href="assets/vendor/perfect-scrollbar/css/perfect-scrollbar.css">
+  <link rel="stylesheet" type="text/css" href="assets/vendor/nice-select/css/nice-select.css">
+  <link rel="stylesheet" type="text/css" href="assets/vendor/fancybox/css/jquery.fancybox.min.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/virtual.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/topbar.virtual.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/flickity.css" media="screen">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body class="theme-red">
+  
+  <!-- Back to top button -->
+  <div class="btn-back_to_top">
+    <span class="ti-arrow-up"></span>
+  </div>
+  
+
+  <!-- Setting button -->
+  <div class="config">
+    <div class="template-config">
+      <!-- Settings -->
+      <div class="d-block">
+        <button class="btn btn-fab btn-sm" id="sideel" title="Settings"><span class="ti-settings"></span></button>
+      </div>
+      <!-- Download -->
+      <!-- <div class="d-block">
+        <a href="https://macodeid.com/projects/virtual-folio/" class="btn btn-fab btn-sm" title="Get this template" data-toggle="tooltip" data-placement="left"><span class="ti-download"></span></a>
+      </div> -->
+    </div>
+    <div class="set-menu">
+      <p>Select Color</p>
+      <div class="color-bar" data-toggle="selected">
+        <span class="color-item bg-theme-red selected" data-class="theme-red"></span>
+        <span class="color-item bg-theme-blue" data-class="theme-blue"></span>
+        <span class="color-item bg-theme-green" data-class="theme-green"></span>
+        <span class="color-item bg-theme-orange" data-class="theme-orange"></span>
+        <span class="color-item bg-theme-purple" data-class="theme-purple"></span>
+      </div>
+    </div>
+  </div>
+  
+
+  <!-- Navbar -->
+  <div class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a href="https://github.com/reinierkruisbrink" class="navbar-brand"> <i class="fa fa-github" style="font-size:40px"></i></a>
+      <a href="https://nl.linkedin.com/in/reinier-kruisbrink-846795153" class="navbar-brand"> <i class="fa fa-linkedin-square" style="font-size:40px"></i></a>
+      <a href="https://www.goodreads.com/user/show/157295953-reinier" class="navbar-brand">  <img src="assets/img/logo/goodreads.png" alt="GoodReads" width="35" height="35"> </a>
+      <a href="https://www.instagram.com/reinierkruisbrink/" class="navbar-brand">  <i class="fa fa-instagram" style="font-size:40px"></i> </a>
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#main-navbar" aria-expanded="true">
+        <span class="ti-menu"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="main-navbar">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="index.html#home" class="nav-link">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="index.html#about" class="nav-link">About</a>
+          </li>
+          <li class="nav-item active">
+            <a href="index.html#portfolio" class="nav-link">Portfolio</a>
+          </li>
+          <li class="nav-item">
+            <a href="index.html#blog" class="nav-link">Book Blog</a>
+          </li>
+          <li class="nav-item">
+            <a href="index.html#contact" class="nav-link">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Select categories | Projects -->
+  <div class="vg-page page-blog">
+    <div class="container searchable">
+
+      <div class="row widget-grid wow fadeIn">
+        <div class="col-lg-8">
+          <div class="input-group py-2">
+            <input type="text" class="form-control" placeholder="Search...">
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="d-flex py-2 mx-n2">
+            <div class="fg-theme input-group px-2">
+              <b>Topic</b>
+              <select class="vg-select" id="filterTopics" onchange="filterProjects()">
+                <option value="alltopics">All Topics</option>
+                <option value="AI">Artificial Intelligence</option>
+                <option value="DE">Data Engineering</option>
+                <option value="Bio">Bioinformatics</option>
+                <option value="NLP">Natural Language Processing</option>
+                <option value="CV">Computer Vision</option>
+                <option value="Misc1">Miscellaneous</option>
+            </select>
+            </div>
+            <div class="fg-theme input-group px-2">
+              <b>Sector</b>
+              <select class="vg-select" id="filterSectors" onchange="filterProjects()">
+                <option value="allsectors">All Sectors</option>
+                <option value="Energy">Energy</option>
+                <option value="LSHS">Life & Health Sciences</option>
+                <option value="Finance">Finance</option>
+                <option value="HR">Human Resources</option>
+                <option value="Misc2">Miscellaneous</option>
+            </select>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="projectGrid wow fadeInUp" id="projectGrid">
+
+        <!-- <div class="grid-project searchable-item t s">
+          <div class="img-place" data-src="" data-fancybox data-caption="<h5 class='fg-theme'>Title</h5> <p>some text <br> Image generated by DALL-E 3.</p>">
+            <img src="" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Title</a>
+            <h6>t, s</h6>
+            <span class="post-date"> Date </span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div> -->
+
+        <!-- TODO: fill in project descriptions -->
+
+        <div class="grid-project searchable-item Misc1 Energy">
+          <div class="img-place" data-src="" data-fancybox data-caption="<h5 class='fg-theme'>Invoice Data Quality</h5> <p>some text <br> Image generated by DALL-E 3.</p>">
+            <img src="" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Invoice Data Quality</a>
+            <h6>Data Quality, Energy</h6>
+            <span class="post-date"> January 2024 </span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item DE Energy">
+          <div class="img-place" data-src="assets/img/work/ETLoptim.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Entso-e</h5> <p>Optimizing ETL scripts and implementing good and robust DE practices in the client's datapipelines. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ETLoptim.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">entsoe</a>
+            <h6>Data Engineering, Energy</h6>
+            <span class="post-date"> January 2024 - February 2024 </span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item AI NLP DE DO HR">
+          <div class="img-place" data-src="assets/img/work/GreenJobs.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Green Job Market Analysis</h5> <p> Classifying the amount of green jobs (per company, country, and sector) over 2023. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/GreenJobs.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Green Job Market Analysis</a>
+            <h6>Artificial Intelligence, Natural Language Processing, Data Engineering, Human Resources</h6>
+            <span class="post-date"> September 2023 - December 2023</span>
+            <details class="text-muted">
+              <summary>
+                In this project we gathered job ad texts from online job boards and developed a method and model to classify the amount of green jobs (per company, country, and sector). 
+              </summary>
+              <p>
+                <br>I built and maintained a job board webscraper that ran daily in 2023. This was a docker container deployed on GCP via K8S on GitLab. After a job ad text and additional information was scraped they were stored in our Postgres DB.
+                The next step was to classify the job ad text based on the skills and tasks present in the text. This means that a green company description does not count towards the job itself being green.
+                Our method was to match the job ad texts with a exstensive set of 570 <i>green skills</i> from the <a href="https://esco.ec.europa.eu/en">ESCO framework</a>. Because this framework was made by the EU it is available in several languages; useful for job ads across different countries.
+                The first version of our model used Elasticsearch to match word stems efficiently while losing out on word order. We manually labelled a 200 job ad set to evaluate our model. After qualitative inspection we discovered that the complexity in job ad texts was too large for simple word matching.
+                The second version used OpenAI's LLM (chatgpt-3.5-turbo) in combination with a vector database of embedded green skills as a knowledge base to refer to when deciding whether a job ad text contained the green skills, making the job ad green. 
+                This version performed significantly better and was great for demos as it explained why the job ad was green and linked to the specific top three green skills found.
+                Our final version was a lightweight version to save on (costs, runtime and carbon emissions) used to do the classification on all ~50k job ads. This version only contained the encoder part of the LLM and computed the cosine similariy of the job ad text embeddings and the green skill embedding from the vector DB. 
+                If this similarity passed a threshold (optimized through our small test set), the job ad was considered green and the green skill with highest similarity was added as explanation/proof.
+                Finally, we divided all 570 (rather specific) green skills by clustering their embeddings to generate more general groups to gain insights in what area companies or sector may be lacking or on track to reach climate goals. 
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">green jobs job ads natural language processing human resources llm large language model embeddings</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item Bio LSHS">
+          <div class="img-place" data-src="assets/img/work/genesmirrorgeography.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Genes Mirror Geography</h5> <p>Reproducing and extending the research done in <a href='https://www.researchgate.net/publication/23469983_Genes_Mirror_Geography_within_Europe'>this paper</a> to investigate the similarities in gene and population distributions. <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/genesmirrorgeography.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Genes Mirror Geography</a>
+            <h6>Bioinformatics, Life & Health Sciences</h6>
+            <span class="post-date"> ... 2024</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item DE DB Finance">
+          <div class="img-place" data-src="assets/img/work/LegacyReporting.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Legacy Reporting</h5> <p>some text <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/LegacyReporting.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Legacy Reporting</a>
+            <h6>Data Engineering, Databases, Finance</h6>
+            <span class="post-date"> September 2023 - December 2023</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item AI Bio LSHS">
+          <div class="img-place" data-src="assets/img/work/ProtFunc.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Title</h5> <p>Predicting the function of a set of proteins based on the amino-acid sequences of the proteins and on other data (CAFA-5 dataset). <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ProtFunc.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Prediction Protein Function</a>
+            <h6>AI, Bioinformatics, Life & Health Sciences</h6>
+            <span class="post-date"> Date</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item DB Misc2">
+          <div class="img-place" data-src="assets/img/work/TDE.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Transparent Database Encryption (TDE)</h5> <p>TDE is encryption at rest and secures against physical theft of data.  <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/TDE.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Transparent Database Encryption</a>
+            <h6>Databases</h6>
+            <span class="post-date"> December 2023</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item NLP DE Misc2">
+          <div class="img-place" data-src="assets/img/work/SentimentTracker.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Company Reviews Sentiment Tracker</h5> <p>some text <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/SentimentTracker.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Company Reviews Sentiment Tracker</a>
+            <h6>Natural Language Processing, Web Scraping</h6>
+            <span class="post-date"> November 2023 - ... 2024</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item Misc1 Misc2">
+          <div class="img-place" data-src="" data-fancybox data-caption="<h5 class='fg-theme'>Data Quality & Completion</h5> <p>some text <br> Image generated by DALL-E 3.</p>">
+            <img src="" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Data Quality & Completion</a>
+            <h6>Data Quality</h6>
+            <span class="post-date"> May 2023</span>
+            <details class="text-muted">
+              <summary>
+                some text (github page or other link if applicable)
+              </summary>
+              <p>
+                short summary and tools used etc...
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">keywords</span>
+          </div>
+        </div>
+
+        <div class="grid-project searchable-item AI NLP LSHS">
+          <div class="img-place" data-src="assets/img/work/DrugTargets.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Classifying Relevant Drug Targets</h5> <p>Classifying Genes and Proteins as Drug Targets in Chemical Patents with Contextual Embeddings <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/DrugTargets.jpg" alt="">
+          </div>
+          <div class="caption">
+            <a href="#" class="fg-theme post-title">Classifying Relevant Drug Targets</a>
+            <h6>Artificial Intelligence, Natural Language Processing, Information Extraction, Life & Health Science</h6>
+            <span class="post-date"> November 2021 - August 2022</span>
+            <details class="text-muted">
+              <summary>
+                In my MSc. thesis I researched the use of contextual embeddings to classify relevant drug targets in chemical patents w.r.t. the invention of the patent. 
+              </summary>
+              <p>
+                <br>In commercial research and development projects, new chemical entities are often disclosed in patent applications, primarily providing information on drug compounds and their targets. However, only a small percentage of these interactions are found in scientific literature within a year, with an average delay of 1 to 3 years before being published. Extracting information about drug targets from patents is challenging due to the obscure language and mentions of unrelated genes and proteins. Manual annotation is currently required for this process, making it time-consuming and expensive.
+                To address the growing volume of biomedical and chemistry-related publications, automatic approaches, including NLP and text-mining, have become popular. Relevancy scoring aims to predict the importance of an entity to a document based on signals from its context and domain knowledge.
+                The automatic extraction of information from chemical patents faces challenges, including the absence of a suitable dataset for training deep learning models. Patents' textual complexity and obfuscating language contribute to the limited interest in this field compared to scientific publications. This work focused on predicting the relevancy of drug targets in patents, defining relevant entities as genes or proteins targeted by at least one drug or chemical compound mentioned in the patent.
+                <hr class="divider2"><br>
+              </p>
+            </details>
+            <span class="sr-only">drug targets information extraction chemical patents embeddings transformer lstm lightgbm</span>
+          </div>
+        </div> 
+
+    </div>
+  </div>
+  
+
+  <script src="assets/js/rk_own.js"></script>
+  <script src="assets/js/jquery-3.5.1.min.js"></script>
+  <script src="assets/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/owl-carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/perfect-scrollbar/js/perfect-scrollbar.js"></script>
+  <script src="assets/vendor/isotope/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/nice-select/js/jquery.nice-select.min.js"></script> 
+  <script src="assets/vendor/fancybox/js/jquery.fancybox.min.js"></script>
+  <script src="assets/vendor/wow/wow.min.js"></script>
+  <script src="assets/js/topbar-virtual.js"></script>
+  
+</body>
+</html>

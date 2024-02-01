@@ -29,10 +29,10 @@
 
 :root {
     --theme-red: #ef3724;
-    --theme-blue: #2960f7;
-    --theme-green: #8cc63f;
-    --theme-orange: #fd7e14;
-    --theme-purple: #6f42c1;
+    --theme-blue: #0d43d6;
+    --theme-green: #579408;
+    --theme-orange: #cf6209;
+    --theme-purple: #6847a7;
 }
 
 /* Light */
@@ -88,7 +88,8 @@ body {
 }
 
 .fs-large {
-    font-size: 21px;
+    color: #333;
+    font-size: 24px;
 }
 
 .fs-normal {
@@ -260,7 +261,7 @@ a:hover, a:active {
 /* Template Config */
 .config {
     position: fixed;
-    top: 50%;
+    top: 2%;
     right: -282px;
     padding: 5px;
     background-color: transparent;
@@ -341,19 +342,19 @@ a:hover, a:active {
 }
 
 .bg-theme-blue {
-    background-color: #2960f7 !important;
+    background-color: #0d43d6 !important;
 }
 
 .bg-theme-green {
-    background-color: #8cc63f !important;
+    background-color: #579408 !important;
 }
 
 .bg-theme-orange {
-    background-color: #fd7e14 !important;
+    background-color: #cf6209 !important;
 }
 
 .bg-theme-purple {
-    background-color: #6f42c1 !important;
+    background-color: #6847a7 !important;
 }
 
 .fg-theme-red {
@@ -361,19 +362,19 @@ a:hover, a:active {
 }
 
 .fg-theme-blue {
-    color: #2960f7 !important;
+    color: #0d43d6 !important;
 }
 
 .fg-theme-green {
-    color: #8cc63f !important;
+    color: #579408 !important;
 }
 
 .fg-theme-orange {
-    color: #fd7e14 !important;
+    color: #cf6209 !important;
 }
 
 .fg-theme-purple {
-    color: #6f42c1 !important;
+    color: #6847a7 !important;
 }
 
 .fg-dark {
@@ -614,6 +615,7 @@ a:hover, a:active {
     border-radius: 6px;
     border: 2px solid #c2c6ce;
     font-weight: 500;
+    font-size: 30px;
 }
 
 .form-control:focus {
@@ -639,26 +641,29 @@ a:hover, a:active {
  *  10. Select
  */
 .vg-select {
-    width: 100%;
+    width: 150px;
     height: unset;
     line-height: unset;
     padding: 10px 30px 10px 18px;
     font-size: 16px;
-    border-width: 2px;
+    border-width: 3px;
     z-index: 11;
+    background-color: #fff;
+    color: #000;
+    border-radius: 5px;
+}
+
+.searchable-item {
+    display: none;
+}
+
+.show {
+    display: block;
 }
 
 .vg-select:focus {
     border-color: #80bdff;
 }
-
-.nice-select::after {
-    width: 7px;
-    height: 7px;
-    margin-top: -5px;
-    right: 15px;
-}
-
 
 /*
  *  8. Page Animation
@@ -1043,6 +1048,20 @@ a:hover, a:active {
     .og-grid li {
         max-width: 33.3333%;
     }
+}
+
+/* Project grids */
+
+.grid-project {
+    width: 500px;
+    height: 250px;
+    margin: 20px;
+    display: inline-block;
+}
+
+.grid-project .img-place {
+    border-radius: 4px;
+    cursor: pointer;
 }
 
 /* Isotope */

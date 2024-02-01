@@ -5,6 +5,13 @@
   border-bottom: 2px dashed #9FA2AB;
 }
 
+.divider2 {
+  display: block;
+  margin: -5px 0 16px 0;
+  max-width: 600px;
+  border-bottom: 2px dashed #9FA2AB;
+}
+
 .badge-subhead {
   margin-bottom: 8px;
   padding: 10px 30px;
@@ -55,7 +62,7 @@
 .vg-page {
   position: relative;
   display: block;
-  padding: 80px 0;
+  padding: 20px 0;
   width: 100%;
   overflow: hidden;
 }
@@ -200,8 +207,8 @@
 }
 
 .timeline li .title {
-  width: 150px;
-  padding: 6px 20px;
+  width: 300px;
+  padding: 6px 15px;
   background-color: #747474;
   color: #fff;
   font-weight: 500;
@@ -211,8 +218,13 @@
 .timeline li .details {
   background-color: #f4f5f8;
   margin-top: 8px;
-  padding: 20px;
+  padding: 10px;
   border-radius: 4px;
+}
+
+.none {
+  color: #747474;
+  text-decoration: none;
 }
 
 .timeline li .details h5,
@@ -244,7 +256,7 @@
   margin: 0 auto;
   width: 100px;
   height: 100px;
-  line-height: 100px;
+  line-height: 90px;
   text-align: center;
   font-size: 32px;
   border-radius: 50%;
@@ -253,13 +265,14 @@
 
 .card-service .caption {
   margin-top: 16px;
-  text-align: center;
+  text-align: left;
+  width: 250px;
   color: #747474;
 }
 
 
 .page-funfact {
-  padding: 100px 0;
+  padding: 60px 0;
   text-align: center;
   color: #fff;
   background-position: center center;
@@ -331,11 +344,11 @@
 }
 
 .page-client .row .item {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  border-width: 0 1px 1px 1px;
-  border-style: solid;
-  border-color: #292e3b;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  /* border-width: 0 1px 1px 1px;
+  border-style: dashed;
+  border-color: #292e3b; */
 }
 
 .page-client .row:last-child .item {
@@ -423,6 +436,53 @@
   color: #777;
 }
 
+.projectGrid {
+  justify-content: center;
+}
+
+.projectGrid .card {
+  margin: 2rem auto;
+  max-width: 320px;
+  border: 0;
+  background-color: #fff;
+  -webkit-transition: box-shadow .3s ease;
+  -moz-transition: box-shadow .3s ease;
+  transition: box-shadow .3s ease;
+  box-shadow: 0 4px 30px rgba(140, 152, 164, 0.2);
+}
+
+.projectGrid .card:hover {
+  box-shadow: 0 4px 30px rgba(140, 152, 164, 0.4);
+}
+
+.projectGrid .card .caption {
+  padding: 20px 16px;
+}
+
+.projectGrid .post-category {
+  font-weight: 500;
+  color: #EF3724;
+  text-decoration: none;
+}
+
+.projectGrid .post-title {
+  display: table-row;
+  color: #6c727c;
+  font-weight: 500;
+  font-size: 21px;
+  text-decoration: none;
+}
+
+.projectGrid .post-title:hover,
+.projectGrid .post-title:focus {
+  color: #52565c;
+}
+
+.projectGrid .post-date {
+  font-size: 13px;
+  color: #777;
+}
+
 .widget-grid .form-control {
   border-width: 0 0 2px 0;
   border-radius: 0;
@@ -437,18 +497,6 @@
 
 .page-contact {
   background-color: #fff;
-}
-
-.vg-maps {
-  width: 100%;
-  height: 450px;
-  background-color: #f8f9fa;
-}
-
-.vg-contact-form {
-  margin: 0 auto;
-  padding: 30px 0;
-  max-width: 400px;
 }
 
 /* Footer */
