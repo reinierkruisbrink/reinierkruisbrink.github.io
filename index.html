@@ -44,7 +44,14 @@
       </div> -->
     </div>
     <div class="set-menu">
-      <p>Select Color</p>
+      <!-- <p>Light/Dark Mode</p>
+      <div class="d-block">
+        <label class="switch">
+          <input type="checkbox" id="darkModeToggle">
+          <span class="slider round"></span>
+        </label>
+      </div> -->
+      <p>Select Highlight Color</p>
       <div class="color-bar" data-toggle="selected">
         <span class="color-item bg-theme-red selected" data-class="theme-red"></span>
         <span class="color-item bg-theme-blue" data-class="theme-blue"></span>
@@ -93,7 +100,7 @@
     <div class="caption-header text-center wow zoomInDown">
       <h5 class="fw-normal">Welcome 👋</h5>
       <h1 class="fw-light mb-4">I'm <b class="fg-theme">Reinier</b> Kruisbrink</h1>
-      <div class="badge">Data Scientist // Data Engineer</div><br><br>
+      <div class="badge">Data Scientist // Data Engineer</div><br>
       <div class="fw-normal"><i>It is not about perfection, it is about progress.</i></div>
     </div> <!-- End Caption header -->
     <div class="floating-button"><span class="ti-mouse"></span></div>
@@ -113,7 +120,7 @@
           <h1 class="fw-light">Who am I?</h1>
           <h5 class="fg-theme mb-3">Curious // Resourceful // Open Minded // Goal Oriented</h5>
           <p class="text-muted"> 
-            I am passionate about learning and exploring the patterns that underlie both life and nature.  While my formal education lies in technology and informatics, I find inspiration in the fascinating domain of biology, from organic chemistry and botany to ecology. 
+            I am passionate about learning and exploring the patterns that underlie both life and nature. While my formal education lies in technology and informatics, I find inspiration in the fascinating domain of biology, from organic chemistry and botany to ecology. 
             In my experience, there are striking similarities in the patterns that govern processes on all scales and in different fields from an abstract point of view. Unraveling these connections and combining this understanding with data enables the automation in technology and the intuition in life to make smarter, more efficient, and more robust choices.
             Additionally, my interests in linguistics and neuroscience add to my belief that, while language and thought are subjective, unraveling similarities and differences herein expose a richer and more open way of understanding and communicating. 
             I am especially interested in applying this knowledge in bioinformatics and at the intersection of AI and life & health sciences.
@@ -142,7 +149,7 @@
             <li>
               <div class="title">Bionformatics</div>
               <div class="details">
-                <h5 class="fg-theme">UC San Diego [remote] (2024)</h5>
+                <h5 class="fg-theme">UC San Diego [remote] (2024-Present)</h5>
                 <p>
                   <a href="https://www.coursera.org/specializations/bioinformatics#courses"><span class="none"><i>Bioinformatics Specialization:</i></span></a> This specialization addresses contemporary biological questions, ranging from DNA processing, genome sequencing to proteomics and molecular evolution, and ending with a big data project annotating the covid-19 genome. <br>
                   <!-- computational neuroscience -->
@@ -152,33 +159,20 @@
             <li>
               <div class="title">Data Engineering & DevOps</div>
               <div class="details">
-                <h5 class="fg-theme">IBM & Azure Certificates (2023-2024)</h5>
+                <h5 class="fg-theme">IBM & Azure Certificates (2023, 2024)</h5>
                 <p>
-                  <!-- <a href="https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift"><span class="none"><i>Containers & Orchestration:</i></span></a> Docker, kubernetes <br> -->
-                  <!-- <a href="https://www.coursera.org/learn/etl-and-data-pipelines-shell-airflow-kafka"><span class="none"><i>Data Pipelines:</i></span></a> ETL, ELT, Shell, Airflow, kafka, ... <br> -->
                   <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering#courses"><span class="none"><i>DevOps & Software Engineering:</i></span></a> A track of mutliple courses on DevOps, Cloud Computing, Agile, Linux, Git, Docker & Kubernetes, CI/CD, and more. <br>
                   <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/dp-203/"><span class="none"><i>Azure Data Engineering:</i></span></a> Designing efficient (big) data processing pipelines using Azure services, implementing Data Warehouses and Lakehouses, leveraging SQL, Python, and Spark. <br>
                 </p>
               </div>
             </li>
             <li>
-              <div class="title">MSc Artificial Intelligence</div>
+              <div class="title">BSc & MSc Artificial Intelligence</div>
               <div class="details">
-                <h5 class="fg-theme">University of Amsterdam (2020-2022)</h5>
+                <h5 class="fg-theme">University of Amsterdam (2016-2020, 2020-2022)</h5>
                 <p>
-                  I followed courses on the theoretical aspects (calculus, probability & information theory) and practical applications (model architectures and training) of machine and deep learning. My electives specialized in NLP and computational biology/neuroscience, leading to a thesis exploring the intersection of these fields, focusing on information extraction from biomedical/chemical patents using NLP techniques.
+                  I followed courses on the theoretical aspects (calculus, probability & information theory) and practical applications (model architectures and training) of machine and deep learning. My electives specialized in NLP and computational biology/neuroscience, leading to a MSc thesis exploring the intersection of these fields, focusing on information extraction from biomedical/chemical patents using NLP techniques. In my BSc thesis I explored hardware acceleration of neural networks on FPGAs.
                 </p>
-              </div>
-            </li>
-            <li>
-              <div class="title">BSc Artificial Intelligence</div>
-              <div class="details">
-                <h5 class="fg-theme">University of Amsterdam (2016-2020)</h5>
-                <p>
-                  During this programme I acquired a solid understanding of AI and computational fundamentals, ranging from logic and mathematics to ethics and cognitive sciences, and a diverse range of software knowledge such as datatypes, algorithms and databases, as well as the hardware basics. In my thesis I explored hardware acceleration of neural networks on FPGAs.
-                </p>
-                <br>
-                <br>
               </div>
             </li>
           </ul>
@@ -443,12 +437,31 @@
         <button class="btn btn-theme-outline" data-filter=".AI">AI</button>
         <button class="btn btn-theme-outline" data-filter=".NLP">NLP</button>
         <button class="btn btn-theme-outline" data-filter=".DE">DE</button>
-        <button class="btn btn-theme-outline" data-filter=".Bio">Bioinformatics</button>
+        <button class="btn btn-theme-outline" data-filter=".RD">R&D</button>
+        <button class="btn btn-theme-outline" data-filter=".DO">DevOps</button>
+        <button class="btn btn-theme-outline" data-filter=".LSHS">Life & Health Sciences</button>
       </div>
 
       <div class="gridder my-3">
-
-        <div class="grid-item wow zoomIn Bio">
+        <!-- <div class="grid-item wow zoomIn AI LSHS">
+          <div class="img-place" data-src="assets/img/work/ProtFunc.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Predicting Protein Function</h5> <p>Predicting the function of a set of proteins based on the amino-acid sequences of the proteins and on other data (CAFA-5 dataset). <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ProtFunc.jpg" alt="">
+            <div class="img-caption">
+              <h5 class="fg-theme">Predicting Protein Function</h5>
+              <p>2024, Personal Research, <a href="">GitHub repo (put link in on-click caption)</a></p>
+            </div>
+          </div>
+        </div> -->
+        <!-- <div class="grid-item wow zoomIn DE AI NLP">
+          <div class="img-place" data-src="assets/img/work/SentimentTracker.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Company Reviews Sentiment Tracker</h5> <p>... <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/SentimentTracker.jpg" alt="">
+            <div class="img-caption">
+              <h5 class="fg-theme">Company Reviews Sentiment Tracker</h5>
+              <p>2023, Sia Partners</p>
+            </div>
+          </div>
+        </div> -->
+        <!-- <div class="grid-item wow zoomIn LSHS">
           <div class="img-place" data-src="assets/img/work/genesmirrorgeography.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Genes Mirror Geography</h5> <p>Reproducing and extending the research done in <a href='https://www.researchgate.net/publication/23469983_Genes_Mirror_Geography_within_Europe'>this paper</a> to investigate the similarities in gene and population distributions. <br> Image generated by DALL-E 3.</p>">
             <img src="assets/img/work/genesmirrorgeography.jpg" alt="">
             <div class="img-caption">
@@ -456,49 +469,34 @@
               <p>2024, Personal Research, <a href="https://github.com/reinierkruisbrink/GeneGeography">GitHuB repo</a></p>
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="grid-item wow zoomIn AI NLP DE">
-          <div class="img-place" data-src="assets/img/work/GreenJobs.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Green Job Market Analysis</h5> <p>Classifying the amount of green jobs (per company, country, and sector) over 2023. <br> Image generated by DALL-E 3.</p>">
+          <div class="img-place" data-src="assets/img/work/GreenJobs.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Green Job Market Analysis</h5> <p>Classifying the amount of Green Jobs Ads (per company, country, and sector) over 2023. <br>Tags: Webscraping, NLP, LLM, Sustainability <br> Image generated by DALL-E 3.</p>">
             <img src="assets/img/work/GreenJobs.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Green Job Market Analysis</h5>
-              <p>2023, Sia Partners, <a href="">Whitepaper</a></p>
+              <h5 class="fg-theme">Green Job Ads Market Analysis</h5>
+              <p>Webscraping, NLP, LLM, Sustainability</p>
+              <p>2023, Sia Partners</p>
             </div>
           </div>
         </div>
-        <div class="grid-item wow zoomIn DE">
-          <div class="img-place" data-src="assets/img/work/ETLoptim.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Entso-e</h5> <p>Optimizing ETL scripts and implementing good and robust DE practices in the client's datapipelines. <br> Image generated by DALL-E 3.</p>">
-            <img src="assets/img/work/ETLoptim.jpg" alt="">
+        <div class="grid-item wow zoomIn DE DO">
+          <div class="img-place" data-src="assets/img/work/ERAA.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Entso-e</h5> <p>Implementing best and robust DE practices in the client's datapipelines, and developing GitLab CI pipeline for automated testing. <br>Tags: ETL, CI/CD, API, Grid Adequacy Forecasting <br> Image generated by DALL-E 3.</p>">
+            <img src="assets/img/work/ERAA.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Entso-e</h5>
+              <h5 class="fg-theme">EU Grid Adequacy Forecasting</h5>
+              <p>ETL, CI/CD, API, Grid Adequacy Forecasting</p>
               <p>2024, Sia Partners</p>
             </div>
           </div>
         </div>
-        <div class="grid-item wow zoomIn AI NLP">
-          <div class="img-place" data-src="assets/img/work/DrugTargets.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Classifying Relevant Drug Targets</h5> <p>Classifying Genes and Proteins as Drug Targets in Chemical Patents with Contextual Embeddings <br> Image generated by DALL-E 3.</p>">
+        <div class="grid-item wow zoomIn LSHS AI NLP RD">
+          <div class="img-place" data-src="assets/img/work/DrugTargets.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Classifying Relevant Drug Targets</h5> <p>Classifying Genes and Proteins as Drug Targets in Chemical Patents with Contextual Embeddings <br>Tags: R&D, NLP, Embeddings, Drug Discovery <br> Image generated by DALL-E 3.</p>">
             <img src="assets/img/work/DrugTargets.jpg" alt="">
             <div class="img-caption">
-              <h5 class="fg-theme">Classifying Relevant Drug Targets</h5>
-              <p>2022, Elsevier, <a href="assets/docs/rkruisbrink_thesis.pdf">Thesis</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="grid-item wow zoomIn AI Bio">
-          <div class="img-place" data-src="assets/img/work/ProtFunc.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Predicting Protein Function</h5> <p>Predicting the function of a set of proteins based on the amino-acid sequences of the proteins and on other data (CAFA-5 dataset). <br> Image generated by DALL-E 3.</p>">
-            <img src="assets/img/work/ProtFunc.jpg" alt="">
-            <div class="img-caption">
-              <h5 class="fg-theme">Predicting Protein Function</h5>
-              <p>2024, Personal Research, <a href="">GitHub repo</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="grid-item wow zoomIn DE AI NLP">
-          <div class="img-place" data-src="assets/img/work/SentimentTracker.jpg" data-fancybox data-caption="<h5 class='fg-theme'>Company Reviews Sentiment Tracker</h5> <p>... <br> Image generated by DALL-E 3.</p>">
-            <img src="assets/img/work/SentimentTracker.jpg" alt="">
-            <div class="img-caption">
-              <h5 class="fg-theme">Company Reviews Sentiment Tracker</h5>
-              <p>2023, Sia Partners</p>
+              <h5 class="fg-theme">Classifying Relevant Drug Targets in Patents</h5>
+              <p>R&D, NLP, Embeddings, Drug Discovery</p>
+              <p>2022, Elsevier</p>
             </div>
           </div>
         </div>
