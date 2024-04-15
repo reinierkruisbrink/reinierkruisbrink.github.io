@@ -76,3 +76,19 @@ function filterProjects() {
       }
   });
 }
+
+function toggleDarkMode() {
+  var darkmode = document.querySelector('.theme-switch input[type="checkbox"]');
+  var isDarkMode = darkmode.checked;
+  if (isDarkMode) {
+    console.log('Dark mode enabled');
+    DarkReader.enable({
+      brightness: 100,
+      contrast: 90,
+      sepia: 10
+  });
+  } else {
+    console.log('Dark mode disabled');
+    DarkReader.disable();
+  }
+}
