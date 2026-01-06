@@ -8,7 +8,7 @@ tags:
 
 # Cupressus
 
-*Parent: [[Cupressoideae]]*
+**Parent:** [[Cupressoideae]]
 
 **Common name:** True cypress  
 **Dutch:** Cipres

@@ -21,4 +21,4 @@ The Pinaceae is the largest family of conifers, comprising 11 genera and about 2
 
 ---
 
-*Parent: [[Plantae]]*
+**Parent:** [[Plantae]]

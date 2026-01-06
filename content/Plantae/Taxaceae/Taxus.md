@@ -8,7 +8,7 @@ tags:
 
 # Taxus
 
-*Parent: [[Taxaceae]]*
+**Parent:** [[Taxaceae]]
 
 **Common name:** Yew  
 **Dutch:** Taxus

@@ -21,4 +21,4 @@ The Taxaceae is a small family of conifers comprising about 6 genera and 30 spec
 
 ---
 
-*Parent: [[Plantae]]*
+**Parent:** [[Plantae]]

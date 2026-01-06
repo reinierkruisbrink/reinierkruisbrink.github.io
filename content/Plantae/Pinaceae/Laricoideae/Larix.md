@@ -8,7 +8,7 @@ tags:
 
 # Larix
 
-*Parent: [[Laricoideae]]*
+**Parent:** [[Laricoideae]]
 
 **Common name:** Larch  
 **Dutch:** Lariks
