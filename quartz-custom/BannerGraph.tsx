@@ -68,6 +68,14 @@ const BannerGraph: QuartzComponentConstructor<Partial<Options>> = (userOpts?: Pa
     .popover .banner-graph {
       display: none;
     }
+    /* Hide entire beforeBody section in popovers (graph, breadcrumbs, title, meta, tags) */
+    .popover .popover-inner > .banner-graph,
+    .popover .popover-inner > .breadcrumb-container,
+    .popover .popover-inner > .article-title,
+    .popover .popover-inner > .content-meta,
+    .popover .popover-inner > .tags {
+      display: none;
+    }
   `
 
   Component.afterDOMLoaded = GraphComponent.afterDOMLoaded
