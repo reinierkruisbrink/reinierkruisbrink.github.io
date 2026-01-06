@@ -55,8 +55,7 @@ jobs:
           # Register custom components in the index
           echo 'import HomeLink from "./HomeLink"' >> quartz-build/quartz/components/index.ts
           echo 'import BannerGraph from "./BannerGraph"' >> quartz-build/quartz/components/index.ts
-          echo 'import Banner from "./Banner"' >> quartz-build/quartz/components/index.ts
-          sed -i 's/export {/export { HomeLink, BannerGraph, Banner,/' quartz-build/quartz/components/index.ts
+          sed -i 's/export {/export { HomeLink, BannerGraph,/' quartz-build/quartz/components/index.ts
 
       - name: Build Quartz
         run: |

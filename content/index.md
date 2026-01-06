@@ -4,12 +4,12 @@ title: Home
 
 # Welcome to My Notes
 
-This is a minimal knowledge graph powered by [Quartz](https://quartz.jzhao.xyz/).
+Explore my knowledge collections:
 
-## Getting Started
+## 🌿 [Plantae](Plantae/)
+A botanical database cataloging plant species, their characteristics, and habitats.
 
-...
-
-
+## 📝 [Essays](Essays/)
+A collection of essays and written reflections on learning, simplicity, and life.
 
 ---
