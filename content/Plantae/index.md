@@ -2,6 +2,6 @@
 title: Plantae 
 ---
 
-# Welcome to plant base
+# Welcome to my plant base
 
 [[Abies]] is a plant.

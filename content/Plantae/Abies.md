@@ -1,14 +1,14 @@
 ---
-title: Home
+title: Abies
 tags:
   - Conifer
 ---
 
-## Overview
+## Abies
 
 Abies, commonly known as firs, is a genus of evergreen coniferous trees in the family Pinaceae.
 
-[[index|Plantae]]
+[[Plantae/index|Plantae]]
 
 ## Characteristics
 
