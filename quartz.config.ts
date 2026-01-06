@@ -6,7 +6,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Reinier's Notes",
+    pageTitle: "Reinier Kruisbrink",
+    pageTitleSuffix: " | Reinier Kruisbrink",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -82,6 +83,7 @@ const config: QuartzConfig = {
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.NotFoundPage(),
+      Plugin.Favicon(),
     ],
   },
 }

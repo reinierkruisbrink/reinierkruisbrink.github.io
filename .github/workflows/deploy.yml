@@ -47,6 +47,11 @@ jobs:
           # Copy custom components
           cp quartz-custom/*.tsx quartz-build/quartz/components/
           
+          # Copy favicon icon if it exists
+          if [ -f "assets/icon.png" ]; then
+            cp assets/icon.png quartz-build/quartz/static/icon.png
+          fi
+          
           # Register custom components in the index
           echo 'import HomeLink from "./HomeLink"' >> quartz-build/quartz/components/index.ts
           echo 'import BannerGraph from "./BannerGraph"' >> quartz-build/quartz/components/index.ts
