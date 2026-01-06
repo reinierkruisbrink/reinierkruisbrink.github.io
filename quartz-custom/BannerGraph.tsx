@@ -23,7 +23,7 @@ const defaultOptions: Options = {
     linkDistance: 45,
     fontSize: 0.75,
     opacityScale: 1.15,
-    showTags: true,
+    showTags: false,
   },
   globalGraph: {
     depth: -1,
@@ -58,6 +58,10 @@ const BannerGraph: QuartzComponentConstructor<Partial<Options>> = (userOpts?: Pa
       height: 420px;
       margin: 0;
       border-radius: 10px;
+    }
+    /* Hide the global graph button - it doesn't work properly with banner layout */
+    .banner-graph .global-graph-icon {
+      display: none;
     }
     @media (max-width: 768px) {
       .banner-graph .graph > .graph-outer {
