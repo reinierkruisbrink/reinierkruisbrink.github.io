@@ -2,12 +2,5 @@
   "name": "reinierkruisbrink-github-io",
   "version": "1.0.0",
   "description": "Personal website with Quartz-powered notes",
-  "type": "module",
-  "scripts": {
-    "build": "npx quartz build",
-    "serve": "npx quartz build --serve"
-  },
-  "dependencies": {
-    "quartz": "^4.0.0"
-  }
+  "type": "module"
 }

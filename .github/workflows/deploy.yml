@@ -29,17 +29,29 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install dependencies
-        run: npm install
+      - name: Clone Quartz
+        run: |
+          git clone https://github.com/jackyzha0/quartz.git quartz-build
+          cd quartz-build
+          npm ci
+
+      - name: Setup Quartz with content
+        run: |
+          # Copy our content and configs into Quartz
+          cp -r content quartz-build/content
+          cp quartz.config.ts quartz-build/quartz.config.ts
+          cp quartz.layout.ts quartz-build/quartz.layout.ts
 
       - name: Build Quartz
-        run: npx quartz build
+        run: |
+          cd quartz-build
+          npx quartz build
 
       - name: Prepare deployment directory
         run: |
           # Move Quartz output to notes subdirectory
           mkdir -p deploy/notes
-          mv public/* deploy/notes/
+          mv quartz-build/public/* deploy/notes/
           
           # Copy existing site files to root
           cp -r assets deploy/
