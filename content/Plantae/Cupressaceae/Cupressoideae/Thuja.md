@@ -8,7 +8,7 @@ tags:
 
 # Thuja
 
-*Parent: [[Cupressaceae/Cupressoideae/index|Cupressoideae]]*
+*Parent: [[Cupressoideae]]*
 
 **Common name:** Arborvitae, Thuja  
 **Dutch:** Levensboom

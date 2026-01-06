@@ -8,7 +8,7 @@ tags:
 
 # Pinus
 
-*Parent: [[Pinaceae/Pinoideae/index|Pinoideae]]*
+*Parent: [[Pinoideae]]*
 
 **Common name:** Pine  
 **Dutch:** Den, Pijnboom

@@ -8,7 +8,7 @@ tags:
 
 # Tsuga
 
-*Parent: [[Pinaceae/Abietoideae/index|Abietoideae]]*
+*Parent: [[Abietoideae]]*
 
 **Common name:** Hemlock  
 **Dutch:** Hemlockspar

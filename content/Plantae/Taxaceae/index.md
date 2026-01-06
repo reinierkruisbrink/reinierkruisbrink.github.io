@@ -21,9 +21,9 @@ The Taxaceae is a small family of conifers comprising about 6 genera and 30 spec
 
 ## Genera
 
-- [[Taxaceae/Taxus|Taxus]] - Yews
-- [[Taxaceae/Cephalotaxus|Cephalotaxus]] - Plum yews
+- [[Taxus]] - Yews
+- [[Cephalotaxus]] - Plum yews
 
 ---
 
-*Parent: [[Plantae/index|Plantae]]*
+*Parent: [[Plantae]]*

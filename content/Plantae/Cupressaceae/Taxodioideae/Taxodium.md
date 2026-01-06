@@ -8,7 +8,7 @@ tags:
 
 # Taxodium
 
-*Parent: [[Cupressaceae/Taxodioideae/index|Taxodioideae]]*
+*Parent: [[Taxodioideae]]*
 
 **Common name:** Bald cypress  
 **Dutch:** Moerascipres

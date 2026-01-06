@@ -7,12 +7,12 @@ tags:
 
 # Sequoioideae
 
-*Parent: [[Cupressaceae/index|Cupressaceae]]*
+*Parent: [[Cupressaceae]]*
 
 The redwood subfamily contains the world's tallest and most massive trees. These ancient lineages were once widespread across the Northern Hemisphere but are now restricted to small refugia in California and China.
 
 ## Genera
 
-- [[Cupressaceae/Sequoioideae/Metasequoia|Metasequoia]] - Dawn redwood
-- [[Cupressaceae/Sequoioideae/Sequoia|Sequoia]] - Coast redwood
-- [[Cupressaceae/Sequoioideae/Sequoiadendron|Sequoiadendron]] - Giant sequoia
+- [[Metasequoia]] - Dawn redwood
+- [[Sequoia]] - Coast redwood
+- [[Sequoiadendron]] - Giant sequoia

@@ -21,11 +21,11 @@ The Pinaceae is the largest family of conifers, comprising 11 genera and about 2
 
 ## Subfamilies
 
-- [[Pinaceae/Abietoideae/index|Abietoideae]] - Fir subfamily
-- [[Pinaceae/Pinoideae/index|Pinoideae]] - Pine subfamily
-- [[Pinaceae/Piceoideae/index|Piceoideae]] - Spruce subfamily
-- [[Pinaceae/Laricoideae/index|Laricoideae]] - Larch subfamily
+- [[Abietoideae]] - Fir subfamily
+- [[Pinoideae]] - Pine subfamily
+- [[Piceoideae]] - Spruce subfamily
+- [[Laricoideae]] - Larch subfamily
 
 ---
 
-*Parent: [[Plantae/index|Plantae]]*
+*Parent: [[Plantae]]*

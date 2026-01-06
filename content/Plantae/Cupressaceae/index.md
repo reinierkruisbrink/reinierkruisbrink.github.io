@@ -21,10 +21,10 @@ The Cupressaceae is a large family of conifers comprising about 27-30 genera and
 
 ## Subfamilies
 
-- [[Cupressaceae/Sequoioideae/index|Sequoioideae]] - Redwood subfamily
-- [[Cupressaceae/Taxodioideae/index|Taxodioideae]] - Bald cypress subfamily  
-- [[Cupressaceae/Cupressoideae/index|Cupressoideae]] - True cypress subfamily
+- [[Sequoioideae]] - Redwood subfamily
+- [[Taxodioideae]] - Bald cypress subfamily  
+- [[Cupressoideae]] - True cypress subfamily
 
 ---
 
-*Parent: [[Plantae/index|Plantae]]*
+*Parent: [[Plantae]]*
