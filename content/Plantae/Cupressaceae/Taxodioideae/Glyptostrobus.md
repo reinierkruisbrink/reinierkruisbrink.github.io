@@ -8,7 +8,7 @@ tags:
 
 # Glyptostrobus
 
-**Parent:** [[Taxodioideae]]
+**Parent:** [[Plantae/Cupressaceae/Taxodioideae]]
 
 **Common name:** Chinese swamp cypress  
 **Dutch:** Chinese moerasCipres

@@ -1,10 +1,16 @@
 work in progress 
 
-todo:
-add link to github page
+General ToDo Quartz:
+[] add link to github page
+[] fix css rendering when back to main site
 
-change headers and file structures
+Garden ToDo Quartz:
+[] change headers and file structures
+[] expand structure for:
+    [] tracheophytes etc
+    [] gymnosperms vs angiosperms (sub)
+    [] fungi (for crosslinks with plants)
 
-fix css rendering when back to main site
-
-create library vault
+Library ToDo Quartz:
+[] create library vault
+[] migrate book blog to libray vault

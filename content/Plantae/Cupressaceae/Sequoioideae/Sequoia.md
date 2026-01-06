@@ -8,7 +8,7 @@ tags:
 
 # Sequoia
 
-**Parent:** [[Sequoioideae]]
+**Parent:** [[Plantae/Cupressaceae/Sequoioideae]]
 
 **Common name:** Coast redwood  
 **Dutch:** Kustmammoetboom

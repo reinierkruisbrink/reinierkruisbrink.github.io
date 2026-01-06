@@ -8,7 +8,7 @@ tags:
 
 # Platycladus
 
-**Parent:** [[Cupressoideae]]
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae]]
 
 **Common name:** Oriental arborvitae, Chinese thuja  
 **Dutch:** Chinese levensboom

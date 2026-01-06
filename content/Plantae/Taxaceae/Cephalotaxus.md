@@ -8,7 +8,7 @@ tags:
 
 # Cephalotaxus
 
-**Parent:** [[Taxaceae]]
+**Parent:** [[Plantae/Taxaceae]]
 
 **Common name:** Plum yew  
 **Dutch:** Pruimtaxus
