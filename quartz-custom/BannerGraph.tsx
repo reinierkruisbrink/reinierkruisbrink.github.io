@@ -59,6 +59,10 @@ const BannerGraph: QuartzComponentConstructor<Partial<Options>> = (userOpts?: Pa
       margin: 0;
       border-radius: 10px;
     }
+    /* Hide the maximize button on the banner graph - use right sidebar graph for full view */
+    .banner-graph button#graph-fs-btn {
+      display: none;
+    }
     @media (max-width: 768px) {
       .banner-graph .graph > .graph-outer {
         height: 320px;
