@@ -37,8 +37,10 @@ jobs:
 
       - name: Setup Quartz with content
         run: |
+          # Remove default Quartz content
+          rm -rf quartz-build/content/*
           # Copy our content and configs into Quartz
-          cp -r content quartz-build/content
+          cp -r content/* quartz-build/content/
           cp quartz.config.ts quartz-build/quartz.config.ts
           cp quartz.layout.ts quartz-build/quartz.layout.ts
 
@@ -46,20 +48,29 @@ jobs:
         run: |
           cd quartz-build
           npx quartz build
+          echo "Quartz build output:"
+          ls -la public/
 
       - name: Prepare deployment directory
         run: |
-          # Move Quartz output to notes subdirectory
+          # Create deployment structure
           mkdir -p deploy/notes
-          mv quartz-build/public/* deploy/notes/
+          # Copy Quartz output to notes subdirectory
+          cp -r quartz-build/public/* deploy/notes/
+          
+          # Debug: List what's in notes
+          echo "Contents of deploy/notes:"
+          ls -la deploy/notes/
+          echo ""
+          echo "Looking for index.html:"
+          find deploy/notes -name "index.html" -type f
           
           # Copy existing site files to root
           cp -r assets deploy/
           cp *.html deploy/
           cp *.txt deploy/ 2>/dev/null || true
           
-          # Move everything back to public for upload
-          rm -rf public
+          # Move everything to public for upload
           mv deploy public
 
       - name: Upload artifact
