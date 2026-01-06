@@ -4,7 +4,7 @@ const HomeLink: QuartzComponentConstructor = () => {
   const Component: QuartzComponent = (_props: QuartzComponentProps) => {
     return (
       <a class="home-link" href="https://reinierkruisbrink.github.io/">
-        ← Back to main site
+        ← Back to main site (GitHub Pages)
       </a>
     )
   }

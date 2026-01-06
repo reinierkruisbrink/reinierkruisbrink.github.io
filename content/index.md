@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Notes
+title: Reinier Kruisbrink | Graph
 ---
 
 # Welcome to My Notes
