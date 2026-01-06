@@ -19,11 +19,6 @@ The Taxaceae is a small family of conifers comprising about 6 genera and 30 spec
 - **Bark:** Reddish-brown, thin and scaly
 - **No true cones:** Seeds are solitary, not in cone structures
 
-## Genera
-
-- [[Taxus]] - Yews
-- [[Cephalotaxus]] - Plum yews
-
 ---
 
 *Parent: [[Plantae]]*

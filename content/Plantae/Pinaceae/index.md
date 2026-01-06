@@ -19,13 +19,6 @@ The Pinaceae is the largest family of conifers, comprising 11 genera and about 2
 - **Bark:** Variable, often thick and furrowed in mature trees
 - **Resin:** Abundant, sticky, and aromatic
 
-## Subfamilies
-
-- [[Abietoideae]] - Fir subfamily
-- [[Pinoideae]] - Pine subfamily
-- [[Piceoideae]] - Spruce subfamily
-- [[Laricoideae]] - Larch subfamily
-
 ---
 
 *Parent: [[Plantae]]*

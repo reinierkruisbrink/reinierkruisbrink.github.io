@@ -19,12 +19,6 @@ The Cupressaceae is a large family of conifers comprising about 27-30 genera and
 - **Bark:** Often fibrous and stringy
 - **Resin:** Aromatic, often with a distinctive scent
 
-## Subfamilies
-
-- [[Sequoioideae]] - Redwood subfamily
-- [[Taxodioideae]] - Bald cypress subfamily  
-- [[Cupressoideae]] - True cypress subfamily
-
 ---
 
 *Parent: [[Plantae]]*
