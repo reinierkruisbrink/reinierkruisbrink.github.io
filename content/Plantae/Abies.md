@@ -1,27 +1,32 @@
 ---
 title: Abies
 tags:
-  - Conifer
+  - genus
+  - conifer
+  - evergreen
 ---
 
-## Abies
+# Abies
 
-Abies, commonly known as firs, is a genus of evergreen coniferous trees in the family Pinaceae.
+*Parent: [[Abietoideae]]*
 
-[[Plantae/index|Plantae]]
+**Common name:** Fir  
+**Dutch:** Zilverspar
 
-## Characteristics
+## Identifying Features
 
-- **Type:** Evergreen conifer
-- **Leaves:** Needle-like, flat
-- **Cones:** Upright, disintegrating at maturity
+- **Habit:** Tall, conical evergreen trees with whorled branches
+- **Leaves:** Flat needles attached directly to stem, leaving circular scars when shed
+- **Bark:** Smooth and gray when young, often with resin blisters
+- **Cones:** Upright on branches, disintegrating at maturity (scales fall off)
+- **Distinguishing:** Cones stand erect and break apart on tree; flat needles with sucker-like base
 
-## Common Species
+## Species Encountered
 
-- *Abies alba* (Silver Fir)
-- *Abies nordmanniana* (Nordmann Fir)
-- *Abies balsamea* (Balsam Fir)
-
-## Habitat
-
-Native to mountainous regions of North and Central America, Europe, Asia, and North Africa.
+| Species | Photo | Date | Location |
+|---------|-------|------|----------|
+| *A. alba* | | | |
+| *A. nordmanniana* | | | |
+| *A. balsamea* | | | |
+| *A. grandis* | | | |
+| *A. procera* | | | |
