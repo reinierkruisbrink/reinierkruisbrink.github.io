@@ -35,6 +35,21 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
 
+      - name: Prepare deployment directory
+        run: |
+          # Move Quartz output to notes subdirectory
+          mkdir -p deploy/notes
+          mv public/* deploy/notes/
+          
+          # Copy existing site files to root
+          cp -r assets deploy/
+          cp *.html deploy/
+          cp *.txt deploy/ 2>/dev/null || true
+          
+          # Move everything back to public for upload
+          rm -rf public
+          mv deploy public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
