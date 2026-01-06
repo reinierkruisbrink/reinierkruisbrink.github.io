@@ -43,6 +43,14 @@ jobs:
           cp -r content/* quartz-build/content/
           cp quartz.config.ts quartz-build/quartz.config.ts
           cp quartz.layout.ts quartz-build/quartz.layout.ts
+          
+          # Copy custom components
+          cp quartz-custom/*.tsx quartz-build/quartz/components/
+          
+          # Register custom components in the index
+          echo 'import HomeLink from "./HomeLink"' >> quartz-build/quartz/components/index.ts
+          echo 'import BannerGraph from "./BannerGraph"' >> quartz-build/quartz/components/index.ts
+          sed -i 's/export {/export { HomeLink, BannerGraph,/' quartz-build/quartz/components/index.ts
 
       - name: Build Quartz
         run: |
