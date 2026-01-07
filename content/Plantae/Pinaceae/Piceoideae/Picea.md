@@ -2,7 +2,6 @@
 title: Picea
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

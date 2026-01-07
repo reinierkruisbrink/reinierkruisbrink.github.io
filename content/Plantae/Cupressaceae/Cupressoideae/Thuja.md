@@ -2,7 +2,6 @@
 title: Thuja
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

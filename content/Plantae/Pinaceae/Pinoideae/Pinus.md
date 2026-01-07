@@ -2,7 +2,6 @@
 title: Pinus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

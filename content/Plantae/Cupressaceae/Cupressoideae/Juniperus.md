@@ -2,7 +2,6 @@
 title: Juniperus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

@@ -2,7 +2,6 @@
 title: Larix
 tags:
   - genus
-  - conifer
   - deciduous
 ---
 

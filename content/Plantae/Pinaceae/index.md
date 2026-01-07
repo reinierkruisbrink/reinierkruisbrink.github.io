@@ -2,7 +2,6 @@
 title: Pinaceae
 tags:
   - family
-  - conifer
 ---
 
 # Pinaceae

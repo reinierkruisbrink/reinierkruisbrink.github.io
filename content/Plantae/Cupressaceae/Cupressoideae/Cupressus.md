@@ -2,7 +2,6 @@
 title: Cupressus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

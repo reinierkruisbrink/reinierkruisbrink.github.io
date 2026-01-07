@@ -2,7 +2,6 @@
 title: Chamaecyparis
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

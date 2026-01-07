@@ -2,7 +2,6 @@
 title: Metasequoia
 tags:
   - genus
-  - conifer
   - deciduous
 ---
 

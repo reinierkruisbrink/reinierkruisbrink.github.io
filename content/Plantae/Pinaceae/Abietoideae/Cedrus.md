@@ -2,7 +2,6 @@
 title: Cedrus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

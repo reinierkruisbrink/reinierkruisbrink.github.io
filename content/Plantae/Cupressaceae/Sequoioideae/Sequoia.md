@@ -2,7 +2,6 @@
 title: Sequoia
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

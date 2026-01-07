@@ -2,7 +2,6 @@
 title: Sequoiadendron
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

@@ -2,7 +2,6 @@
 title: Tsuga
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

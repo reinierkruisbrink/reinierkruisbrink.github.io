@@ -2,7 +2,6 @@
 title: Cephalotaxus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

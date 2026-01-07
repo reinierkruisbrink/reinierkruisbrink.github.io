@@ -2,7 +2,6 @@
 title: Taxus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

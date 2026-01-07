@@ -2,7 +2,6 @@
 title: Cryptomeria
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

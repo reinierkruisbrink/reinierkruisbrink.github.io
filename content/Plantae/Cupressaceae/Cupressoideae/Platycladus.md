@@ -2,7 +2,6 @@
 title: Platycladus
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 

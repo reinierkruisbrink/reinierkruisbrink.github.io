@@ -2,7 +2,6 @@
 title: Glyptostrobus
 tags:
   - genus
-  - conifer
   - deciduous
 ---
 

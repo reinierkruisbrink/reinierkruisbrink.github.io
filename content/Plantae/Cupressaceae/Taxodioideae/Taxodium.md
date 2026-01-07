@@ -2,7 +2,6 @@
 title: Taxodium
 tags:
   - genus
-  - conifer
   - deciduous
 ---
 

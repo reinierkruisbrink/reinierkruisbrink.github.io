@@ -2,7 +2,6 @@
 title: Abies
 tags:
   - genus
-  - conifer
   - evergreen
 ---
 
