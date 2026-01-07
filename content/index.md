@@ -4,11 +4,11 @@ title: Digital Forest
 
 # Welcome to My Notes
 
-A botanical database cataloging plant species, their characteristics, and habitats.
+A botanical and mycological database cataloging [[Plantae/index|plant]] and [[Fungi/index|fungi]] species, their characteristics, habitats, and interactions.
 
 ## Tag System
 
-This database uses a hierarchical tagging system to organize and classify [[Plantae/index|plants]]. Tags help identify taxonomic ranks, growth characteristics, and cultivar varieties.
+This database uses a hierarchical tagging system to organize and classify plants. Tags help identify taxonomic ranks, growth characteristics, and cultivar varieties.
 
 ### Taxonomic Rank Tags
 

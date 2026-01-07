@@ -25,7 +25,7 @@ tags:
 | Species | Photo | Date | Location |
 |---------|-------|------|----------|
 | *A. alba* | | | |
-| *A. nordmanniana* | | | |
+| *[[Plantae/Pinaceae/Abietoideae/Abies nordmanniana|A. nordmanniana]]* | | | |
 | *A. balsamea* | | | |
 | *A. grandis* | | | |
 | *A. procera* | | | |
