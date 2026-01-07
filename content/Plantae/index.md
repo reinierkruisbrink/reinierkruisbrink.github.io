@@ -2,7 +2,7 @@
 title: Plantae 
 ---
 
-# Herbarium
+# Plantae
 
 A collection of conifer observations organized by taxonomy.
 

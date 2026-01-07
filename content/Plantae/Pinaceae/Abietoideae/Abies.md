@@ -9,8 +9,7 @@ tags:
 # Abies
 
 **Parent:** [[Plantae/Pinaceae/Abietoideae]]
-**Parent:** [[Abietoideae]]
-**Parent:** [[Plantae/Pinaceae/Abietoideae/index]]
+**Parent:** [[Plantae/Pinaceae/Abietoideae/index]](Abietoidea)
 
 **Common name:** Fir  
 **Dutch:** Zilverspar
