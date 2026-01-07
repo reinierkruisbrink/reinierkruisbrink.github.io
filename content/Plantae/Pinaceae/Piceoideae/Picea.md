@@ -8,7 +8,7 @@ tags:
 
 # Picea
 
-**Parent:** [[Plantae/Pinaceae/Piceoideae]]
+**Parent:** [[Plantae/Pinaceae/Piceoideae/index|Piceoideae]]
 
 **Common name:** Spruce  
 **Dutch:** Spar

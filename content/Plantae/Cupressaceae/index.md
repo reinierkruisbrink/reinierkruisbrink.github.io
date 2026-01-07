@@ -21,4 +21,4 @@ The Cupressaceae is a large family of conifers comprising about 27-30 genera and
 
 ---
 
-**Parent:** [[Plantae]]
+**Parent:** [[Plantae/index|Plantae]]

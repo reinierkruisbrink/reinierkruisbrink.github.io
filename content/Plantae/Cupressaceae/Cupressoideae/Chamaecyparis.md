@@ -8,7 +8,7 @@ tags:
 
 # Chamaecyparis
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae]]
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
 
 **Common name:** False cypress  
 **Dutch:** Schijncipres

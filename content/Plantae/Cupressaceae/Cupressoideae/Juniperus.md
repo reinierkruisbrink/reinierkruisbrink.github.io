@@ -8,7 +8,7 @@ tags:
 
 # Juniperus
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae]]
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
 
 **Common name:** Juniper  
 **Dutch:** Jeneverbes

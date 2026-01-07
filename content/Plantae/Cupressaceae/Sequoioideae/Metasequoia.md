@@ -8,7 +8,7 @@ tags:
 
 # Metasequoia
 
-**Parent:** [[Plantae/Cupressaceae/Sequoioideae]]
+**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]
 
 **Common name:** Dawn redwood  
 **Dutch:** Watercipres

@@ -8,7 +8,7 @@ tags:
 
 # Sequoiadendron
 
-**Parent:** [[Plantae/Cupressaceae/Sequoioideae]]
+**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]
 
 **Common name:** Giant sequoia  
 **Dutch:** Mammoetboom
