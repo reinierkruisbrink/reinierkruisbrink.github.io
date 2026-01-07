@@ -8,8 +8,7 @@ tags:
 
 # Cedrus
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae]]
-**Parent:** [[Plantae/Pinaceae/Abietoideae/index]]
+**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]
 
 **Common name:** True cedar  
 **Dutch:** Ceder
