@@ -8,44 +8,20 @@ A botanical and mycological database cataloging [[Plantae/index|plant]] and [[Fu
 
 ## Tag System
 
-This database uses a hierarchical tagging system to organize and classify plants. Tags help identify taxonomic ranks, growth characteristics, and cultivar varieties.
+This database uses a hierarchical tagging system to organize and classify organisms. Tags help identify taxonomic ranks, ecological characteristics, and morphological features.
 
 ### Taxonomic Rank Tags
 
-- **[family](tags/family)** - Taxonomic family level (e.g., Pinaceae, Cupressaceae, Taxaceae)
-- **[subfamily](tags/subfamily)** - Taxonomic subfamily level (e.g., Abietoideae, Cupressoideae, Sequoioideae)
-- **[genus](tags/genus)** - Taxonomic genus level (e.g., Pinus, Abies, Picea)
+These tags are used across all kingdoms (Plantae, Fungi, etc.):
+
+- **[family](tags/family)** - Taxonomic family level
+- **[subfamily](tags/subfamily)** - Taxonomic subfamily level
+- **[genus](tags/genus)** - Taxonomic genus level
 - **[species](tags/species)** - Specific species within a genus
+- **[variety](tags/variety)** - Natural botanical varieties
 - **[cultivar](tags/cultivar)** - Horticultural cultivars and selections
 
-### Plant Type Tags
 
-- **evergreen** - Plants that retain foliage year-round
-- **deciduous** - Plants that shed foliage seasonally
-
-### Growth Form Tags
-
-- **tree** - Woody plants with a single main trunk
-- **shrub** - Woody plants with multiple stems from the base
-- **dwarf** - Compact or slow-growing forms
-- **prostrate** - Low-growing, ground-hugging forms
-
-### Cultivar Characteristic Tags
-
-Common cultivar descriptors that may be used as tags:
-
-- **glauca** - Blue-gray or silvery foliage (from Latin "glaucus")
-- **aurea** - Golden or yellow foliage
-- **argentea** - Silvery foliage
-- **viridis** - Green foliage (often bright or vibrant green)
-- **fastigiata** - Columnar or narrowly upright growth habit
-- **pendula** - Weeping or drooping branches
-- **pyramidalis** - Pyramidal or conical shape
-- **compacta** - Dense, compact growth
-- **nana** - Dwarf form
-- **globosa** - Globe-shaped or rounded form
-- **variegata** - Variegated foliage (mixed colors)
-- **prostrata** - Prostrate or creeping growth habit
 
 
 ---
