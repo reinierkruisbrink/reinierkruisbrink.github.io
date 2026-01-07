@@ -1,4 +1,4 @@
-name: Deploy Quartz to GitHub Pages
+name: Deploy Dual Quartz Vaults to GitHub Pages
 
 on:
   push:
@@ -29,53 +29,102 @@ jobs:
         with:
           node-version: 22
 
-      - name: Clone Quartz
+      # BUILD FOREST VAULT
+      - name: Clone Quartz for Forest
         run: |
-          git clone https://github.com/jackyzha0/quartz.git quartz-build
-          cd quartz-build
+          git clone https://github.com/jackyzha0/quartz.git quartz-forest-build
+          cd quartz-forest-build
           npm ci
 
-      - name: Setup Quartz with content
+      - name: Setup Forest Vault
         run: |
           # Remove default Quartz content
-          rm -rf quartz-build/content/*
+          rm -rf quartz-forest-build/content/*
           # Copy our content and configs into Quartz
-          cp -r content/* quartz-build/content/
-          cp quartz.config.ts quartz-build/quartz.config.ts
-          cp quartz.layout.ts quartz-build/quartz.layout.ts
+          cp -r content-forest/* quartz-forest-build/content/
+          cp quartz-forest/quartz.config.ts quartz-forest-build/quartz.config.ts
+          cp quartz-forest/quartz.layout.ts quartz-forest-build/quartz.layout.ts
           
           # Copy custom components
-          cp quartz-custom/*.tsx quartz-build/quartz/components/
+          if [ -d "quartz-forest/custom" ]; then
+            cp quartz-forest/custom/*.tsx quartz-forest-build/quartz/components/ || true
+            # Register custom components
+            if [ -f "quartz-forest/custom/HomeLink.tsx" ]; then
+              echo 'import HomeLink from "./HomeLink"' >> quartz-forest-build/quartz/components/index.ts
+              sed -i 's/export {/export { HomeLink,/' quartz-forest-build/quartz/components/index.ts
+            fi
+          fi
           
           # Copy favicon icon if it exists
           if [ -f "assets/icon.png" ]; then
-            cp assets/icon.png quartz-build/quartz/static/icon.png
+            cp assets/icon.png quartz-forest-build/quartz/static/icon.png
+          fi
+
+      - name: Build Forest Vault
+        run: |
+          cd quartz-forest-build
+          npx quartz build
+          echo "Forest build output:"
+          ls -la public/
+
+      # BUILD LIBRARY VAULT
+      - name: Clone Quartz for Library
+        run: |
+          git clone https://github.com/jackyzha0/quartz.git quartz-library-build
+          cd quartz-library-build
+          npm ci
+
+      - name: Setup Library Vault
+        run: |
+          # Remove default Quartz content
+          rm -rf quartz-library-build/content/*
+          # Copy our content and configs into Quartz
+          cp -r content-library/* quartz-library-build/content/
+          cp quartz-library/quartz.config.ts quartz-library-build/quartz.config.ts
+          cp quartz-library/quartz.layout.ts quartz-library-build/quartz.layout.ts
+          
+          # Copy custom components if any
+          if [ -d "quartz-library/custom" ]; then
+            cp quartz-library/custom/*.tsx quartz-library-build/quartz/components/ || true
           fi
           
-          # Register custom components in the index
-          echo 'import HomeLink from "./HomeLink"' >> quartz-build/quartz/components/index.ts
-          sed -i 's/export {/export { HomeLink,/' quartz-build/quartz/components/index.ts
+          # Copy favicon icon if it exists
+          if [ -f "assets/icon.png" ]; then
+            cp assets/icon.png quartz-library-build/quartz/static/icon.png
+          fi
 
-      - name: Build Quartz
+      - name: Build Library Vault
         run: |
-          cd quartz-build
+          cd quartz-library-build
           npx quartz build
-          echo "Quartz build output:"
+          echo "Library build output:"
           ls -la public/
 
       - name: Prepare deployment directory
         run: |
           # Create deployment structure
-          mkdir -p deploy/notes
-          # Copy Quartz output to notes subdirectory
-          cp -r quartz-build/public/* deploy/notes/
+          mkdir -p deploy/forest
+          mkdir -p deploy/library
           
-          # Debug: List what's in notes
-          echo "Contents of deploy/notes:"
-          ls -la deploy/notes/
+          # Copy Forest vault output to forest subdirectory
+          cp -r quartz-forest-build/public/* deploy/forest/
+          
+          # Debug: List what's in forest
+          echo "Contents of deploy/forest:"
+          ls -la deploy/forest/
           echo ""
-          echo "Looking for index.html:"
-          find deploy/notes -name "index.html" -type f
+          echo "Looking for index.html in forest:"
+          find deploy/forest -name "index.html" -type f
+          
+          # Copy Library vault output to library subdirectory
+          cp -r quartz-library-build/public/* deploy/library/
+          
+          # Debug: List what's in library
+          echo "Contents of deploy/library:"
+          ls -la deploy/library/
+          echo ""
+          echo "Looking for index.html in library:"
+          find deploy/library -name "index.html" -type f
           
           # Copy existing site files to root
           cp -r assets deploy/

@@ -2,11 +2,11 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4.0 Configuration
+ * Quartz 4.0 Configuration - Library
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Digital Forest",
+    pageTitle: "Library",
     pageTitleSuffix: " | Reinier Kruisbrink",
     enableSPA: true,
     enablePopovers: true,
@@ -14,7 +14,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "/notes",
+    baseUrl: "/library",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -32,9 +32,9 @@ const config: QuartzConfig = {
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#2d5a27",
-          tertiary: "#4a7c45",
-          highlight: "rgba(45, 90, 39, 0.15)",
+          secondary: "#8b4513",
+          tertiary: "#a0522d",
+          highlight: "rgba(139, 69, 19, 0.15)",
         },
         darkMode: {
           light: "#161618",
@@ -42,9 +42,9 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#6b9e67",
-          tertiary: "#4a7c45",
-          highlight: "rgba(74, 124, 69, 0.2)",
+          secondary: "#cd853f",
+          tertiary: "#a0522d",
+          highlight: "rgba(160, 82, 45, 0.2)",
         },
       },
     },
