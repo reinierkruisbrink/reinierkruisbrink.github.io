@@ -7,8 +7,6 @@ tags:
 
 # Pinus
 
-**Parent:** [[Plantae/Pinaceae/Pinoideae/index|Pinoideae]]
-
 **Common name:** Pine  
 **Dutch:** Den, Pijnboom
 
@@ -36,3 +34,7 @@ tags:
 | *P. strobus* | | | |
 | *P. cembra* | | | |
 | *P. wallichiana* | | | |
+
+---
+
+**Parent:** [[Plantae/Pinaceae/Pinoideae/index|Pinoideae]]

@@ -7,8 +7,6 @@ tags:
 
 # Picea
 
-**Parent:** [[Plantae/Pinaceae/Piceoideae/index|Piceoideae]]
-
 **Common name:** Spruce  
 **Dutch:** Spar
 
@@ -28,3 +26,7 @@ tags:
 | *P. pungens* | | | |
 | *P. glauca* | | | |
 | *P. omorika* | | | |
+
+---
+
+**Parent:** [[Plantae/Pinaceae/Piceoideae/index|Piceoideae]]

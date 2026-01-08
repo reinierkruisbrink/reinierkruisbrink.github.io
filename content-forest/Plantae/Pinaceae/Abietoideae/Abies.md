@@ -7,8 +7,6 @@ tags:
 
 # Abies
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]
-
 **Common name:** Fir  
 **Dutch:** Zilverspar
 
@@ -29,3 +27,7 @@ tags:
 | *A. balsamea* | | | |
 | *A. grandis* | | | |
 | *A. procera* | | | |
+
+---
+
+**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]

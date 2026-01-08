@@ -7,8 +7,6 @@ tags:
 
 # Glyptostrobus
 
-**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]
-
 **Common name:** Chinese swamp cypress  
 **Dutch:** Chinese moerasCipres
 
@@ -25,3 +23,7 @@ tags:
 | Species | Photo | Date | Location |
 |---------|-------|------|----------|
 | *G. pensilis* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]

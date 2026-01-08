@@ -7,8 +7,6 @@ tags:
 
 # Juniperus
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
-
 **Common name:** Juniper  
 **Dutch:** Jeneverbes
 
@@ -28,3 +26,7 @@ tags:
 | *J. virginiana* | | | |
 | *J. chinensis* | | | |
 | *J. sabina* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]

@@ -7,8 +7,6 @@ tags:
 
 # Chamaecyparis
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
-
 **Common name:** False cypress  
 **Dutch:** Schijncipres
 
@@ -28,3 +26,7 @@ tags:
 | *C. obtusa* | | | |
 | *C. pisifera* | | | |
 | *C. nootkatensis* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]

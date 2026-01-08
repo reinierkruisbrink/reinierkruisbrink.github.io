@@ -7,8 +7,6 @@ tags:
 
 # Thuja
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
-
 **Common name:** Arborvitae, Thuja  
 **Dutch:** Levensboom
 
@@ -27,3 +25,7 @@ tags:
 | *T. occidentalis* | | | |
 | *T. plicata* | | | |
 | *T. orientalis* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]

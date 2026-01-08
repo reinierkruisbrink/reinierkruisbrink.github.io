@@ -7,8 +7,6 @@ tags:
 
 # Cedrus
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]
-
 **Common name:** True cedar  
 **Dutch:** Ceder
 
@@ -27,3 +25,7 @@ tags:
 | *C. atlantica* | | | |
 | *C. deodara* | | | |
 | *C. libani* | | | |
+
+---
+
+**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]

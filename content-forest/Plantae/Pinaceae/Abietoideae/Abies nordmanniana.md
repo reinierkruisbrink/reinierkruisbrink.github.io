@@ -7,5 +7,8 @@ tags:
 
 # Abies nordmanniana
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae/Abies|Abies]]
+...
 
+---
+
+**Parent:** [[Plantae/Pinaceae/Abietoideae/Abies|Abies]]

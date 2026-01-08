@@ -106,6 +106,38 @@ const BookHeader: QuartzComponentConstructor = () => {
       gap: 0.75rem;
     }
 
+    .book-title-section {
+      margin-bottom: 0.5rem;
+    }
+
+    .book-title-link {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .book-title {
+      font-size: 1.6rem;
+      font-weight: 700;
+      line-height: 1.3;
+      color: var(--dark);
+      margin-bottom: 0.25rem;
+    }
+
+    .book-title-link:hover .book-title {
+      color: var(--secondary);
+    }
+
+    .book-subtitle {
+      font-size: 1.1rem;
+      font-weight: 500;
+      line-height: 1.4;
+      color: var(--gray);
+    }
+
+    .book-title-link:hover .book-subtitle {
+      color: var(--secondary);
+    }
+
     .book-author {
       font-size: 1.25rem;
       font-weight: 600;
@@ -133,33 +165,20 @@ const BookHeader: QuartzComponentConstructor = () => {
       color: var(--secondary);
     }
 
-    .book-tags-column {
+    .book-synopsis-column {
       display: flex;
       align-items: flex-start;
-      justify-content: flex-end;
     }
 
-    .book-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.5rem;
-      justify-content: flex-end;
-    }
-
-    .book-tag {
-      display: inline-block;
-      padding: 0.25rem 0.75rem;
+    .book-synopsis {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: var(--gray);
+      font-style: italic;
+      padding: 0.5rem;
       background: var(--lightgray);
-      color: var(--dark);
-      border-radius: 12px;
-      font-size: 0.85rem;
-      font-weight: 500;
-      transition: background 0.2s ease;
-    }
-
-    .book-tag:hover {
-      background: var(--gray);
-      color: var(--light);
+      border-radius: 4px;
+      border-left: 3px solid var(--secondary);
     }
 
     @media (max-width: 600px) {
@@ -173,14 +192,10 @@ const BookHeader: QuartzComponentConstructor = () => {
       }
 
       .book-cover img {
-        width: 100px;
+        height: 200px;
       }
 
-      .book-tags-column {
-        justify-content: center;
-      }
-
-      .book-tags {
+      .book-synopsis-column {
         justify-content: center;
       }
     }

@@ -7,8 +7,6 @@ tags:
 
 # Larix
 
-**Parent:** [[Plantae/Pinaceae/Laricoideae/index|Laricoideae]]
-
 **Common name:** Larch  
 **Dutch:** Lariks
 
@@ -27,3 +25,7 @@ tags:
 | *L. decidua* | | | |
 | *L. kaempferi* | | | |
 | *L. laricina* | | | |
+
+---
+
+**Parent:** [[Plantae/Pinaceae/Laricoideae/index|Laricoideae]]

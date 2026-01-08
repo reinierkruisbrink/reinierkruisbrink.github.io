@@ -7,8 +7,6 @@ tags:
 
 # Cryptomeria
 
-**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]
-
 **Common name:** Japanese cedar, Sugi  
 **Dutch:** Japanse ceder
 
@@ -25,3 +23,7 @@ tags:
 | Species | Photo | Date | Location |
 |---------|-------|------|----------|
 | *C. japonica* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]

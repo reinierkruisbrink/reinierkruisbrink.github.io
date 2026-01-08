@@ -7,8 +7,6 @@ tags:
 
 # Taxus
 
-**Parent:** [[Plantae/Taxaceae/index|Taxaceae]]
-
 **Common name:** Yew  
 **Dutch:** Taxus
 
@@ -27,3 +25,7 @@ tags:
 | *T. baccata* | | | |
 | *T. cuspidata* | | | |
 | *T. × media* | | | |
+
+---
+
+**Parent:** [[Plantae/Taxaceae/index|Taxaceae]]

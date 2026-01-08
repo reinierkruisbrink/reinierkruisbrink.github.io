@@ -7,8 +7,6 @@ tags:
 
 # Sequoia
 
-**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]
-
 **Common name:** Coast redwood  
 **Dutch:** Kustmammoetboom
 
@@ -25,3 +23,7 @@ tags:
 | Species | Photo | Date | Location |
 |---------|-------|------|----------|
 | *S. sempervirens* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]

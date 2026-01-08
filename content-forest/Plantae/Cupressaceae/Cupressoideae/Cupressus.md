@@ -7,8 +7,6 @@ tags:
 
 # Cupressus
 
-**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
-
 **Common name:** True cypress  
 **Dutch:** Cipres
 
@@ -27,3 +25,8 @@ tags:
 | *C. sempervirens* | | | |
 | *C. arizonica* | | | |
 | *C. macrocarpa* | | | |
+
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Cupressoideae/index|Cupressoideae]]
