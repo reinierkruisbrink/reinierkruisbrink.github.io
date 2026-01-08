@@ -13,6 +13,8 @@ const BookHeader: QuartzComponentConstructor = () => {
     const authorUrl = frontmatter.author_url as string | undefined
     const coverImageUrl = frontmatter.cover_image_url as string
     const publishedDate = frontmatter.published_date as string | undefined
+    const readDate = frontmatter.read_date as string | undefined
+    const myRating = frontmatter.my_rating as number | undefined
 
     return (
       <div class="book-header">
@@ -32,6 +34,16 @@ const BookHeader: QuartzComponentConstructor = () => {
           {publishedDate && (
             <div class="book-published">
               Published: {publishedDate}
+            </div>
+          )}
+          {readDate && (
+            <div class="book-read-date">
+              Read: {readDate}
+            </div>
+          )}
+          {myRating && (
+            <div class="book-rating">
+              My Rating: {myRating}/10
             </div>
           )}
         </div>
@@ -85,9 +97,16 @@ const BookHeader: QuartzComponentConstructor = () => {
       text-decoration: underline;
     }
 
-    .book-published {
+    .book-published,
+    .book-read-date,
+    .book-rating {
       font-size: 0.95rem;
       color: var(--gray);
+    }
+
+    .book-rating {
+      font-weight: 500;
+      color: var(--secondary);
     }
 
     @media (max-width: 600px) {
