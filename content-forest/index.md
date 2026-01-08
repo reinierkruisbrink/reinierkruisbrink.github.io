@@ -2,7 +2,7 @@
 title: Digital Forest
 ---
 
-# Welcome to My Notes
+# Welcome to Digital Forest
 
 A botanical and mycological database cataloging [[Plantae/index|plant]] and [[Fungi/index|fungi]] species, their characteristics, habitats, and interactions.
 
