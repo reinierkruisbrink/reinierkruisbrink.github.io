@@ -51,14 +51,6 @@ While plant intelligence is a controversial topic, it is in my opinion even more
 - [[planta_sapiens|Planta Sapiens]] - Deeper theoretical exploration of plant intelligence
 - [[good_nature|Good Nature]] - Nature's impact on human well-being
 
-## Metadata
-
-- **Author**: Zoë Schlanger
-- **Read**: 2025
-- **Rating**: ⭐⭐⭐⭐ (4/5)
-- **Goodreads**: [The Light Eaters](https://www.goodreads.com/book/show/196774338-the-light-eaters)
-- **Keywords**: botany, intelligence, active, sense, information processing, plant communication, mycorrhizal networks, umwelt
-
 ---
 
-*Last updated: January 8, 2026*
+*Parent:* [[Books/index|Books]]

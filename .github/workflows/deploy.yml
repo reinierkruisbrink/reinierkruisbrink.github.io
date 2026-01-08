@@ -96,6 +96,10 @@ jobs:
               echo 'import HomeLink from "./HomeLink"' >> quartz-library-build/quartz/components/index.ts
               sed -i 's/export {/export { HomeLink,/' quartz-library-build/quartz/components/index.ts
             fi
+            if [ -f "quartz-library/custom/BookHeader.tsx" ]; then
+              echo 'import BookHeader from "./BookHeader"' >> quartz-library-build/quartz/components/index.ts
+              sed -i 's/export {/export { BookHeader,/' quartz-library-build/quartz/components/index.ts
+            fi
           fi
           
           # Copy favicon icon if it exists

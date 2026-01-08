@@ -55,14 +55,6 @@ The most compelling aspect of this book is how it reframes plant behavior throug
 - [[the_light_eaters|The Light Eaters]] - More empirically-focused exploration of plant senses
 - [[good_nature|Good Nature]] - Human interaction with plant systems
 
-## Metadata
-
-- **Author**: Paco Calvo
-- **Read**: 2023
-- **Rating**: ⭐⭐⭐⭐ (4/5)
-- **Goodreads**: [Planta Sapiens](https://www.goodreads.com/book/show/61089458-planta-sapiens)
-- **Keywords**: botany, intelligence, predictive processing, plant communication, consciousness, sensory perception, active inference
-
 ---
 
-*Last updated: January 8, 2026*
+*Parent:* [[Books/index|Books]]

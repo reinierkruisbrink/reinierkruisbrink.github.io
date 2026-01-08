@@ -64,14 +64,6 @@ I found this book perfect, except for the fact that the author did not end with 
 - [[the_last_drop|The Last Drop]] - Environmental systems and rewilding approaches
 - [[linked|Linked]] - Network effects in ecological systems
 
-## Metadata
-
-- **Author**: Kathy Willis
-- **Read**: 2026
-- **Rating**: ⭐⭐⭐⭐ (4/5)
-- **Goodreads**: [Good Nature](https://www.goodreads.com/book/show/208920500-good-nature)
-- **Keywords**: nature exposure, biophilia, sensory processing, fractal fluency, VOCs, terpenes, microbiome, biophilic design, horticultural therapy, hormesis, homeostasis
-
 ---
 
 *Parent:* [[Books/index|Books]]
