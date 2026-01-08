@@ -87,6 +87,16 @@ jobs:
           if [ -d "quartz-library/custom" ]; then
             cp quartz-library/custom/*.tsx quartz-library-build/quartz/components/ || true
           fi
+
+          # Copy custom components
+          if [ -d "quartz-forest/custom" ]; then
+            cp quartz-forest/custom/*.tsx quartz-forest-build/quartz/components/ || true
+            # Register custom components
+            if [ -f "quartz-forest/custom/HomeLink.tsx" ]; then
+              echo 'import HomeLink from "./HomeLink"' >> quartz-forest-build/quartz/components/index.ts
+              sed -i 's/export {/export { HomeLink,/' quartz-forest-build/quartz/components/index.ts
+            fi
+          fi
           
           # Copy favicon icon if it exists
           if [ -f "assets/icon.png" ]; then
