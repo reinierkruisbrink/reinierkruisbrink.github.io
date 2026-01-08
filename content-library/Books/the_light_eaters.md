@@ -8,6 +8,7 @@ published_date: "2024"
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704129867i/196774338.jpg"
 read_date: "2025"
 my_rating: 8
+synopsis: "An exploration of plants' hidden intelligence, communication, and sensory abilities that challenges our understanding of passive organisms."
 tags:
   - biology
   - plant-intelligence
@@ -17,8 +18,6 @@ tags:
 ---
 
 # The Light Eaters
-
-> An exploration of plants' hidden intelligence, communication, and sensory abilities that challenges our understanding of passive organisms.
 
 ## Overview
 

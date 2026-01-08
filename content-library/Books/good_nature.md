@@ -8,6 +8,7 @@ published_date: "2024"
 cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729700090i/208920500.jpg"
 read_date: "2026"
 my_rating: 8
+synopsis: "Good Nature explores the research and benefits of nature exposure on human health, focusing on the physiological and psychological mechanisms that link natural environments to well-being, and how these can be applied in practice."
 tags:
   - biology
   - health
@@ -17,8 +18,6 @@ tags:
 ---
 
 # Good Nature
-
-> Good Nature explores the research and benefits of nature exposure on human health, focusing on the physiological and psychological mechanisms that link natural environments to well-being, and how these can be applied in practice.
 
 ## Overview
 

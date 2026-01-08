@@ -15,14 +15,30 @@ const BookHeader: QuartzComponentConstructor = () => {
     const publishedDate = frontmatter.published_date as string | undefined
     const readDate = frontmatter.read_date as string | undefined
     const myRating = frontmatter.my_rating as number | undefined
-    const tags = frontmatter.tags as string[] | undefined
+    const title = frontmatter.title as string
+    const subtitle = frontmatter.subtitle as string | undefined
+    const goodreadsUrl = frontmatter.goodreads_url as string | undefined
+    const synopsis = frontmatter.synopsis as string | undefined
 
     return (
       <div class="book-header">
         <div class="book-cover">
-          <img src={coverImageUrl} alt={`Cover of ${frontmatter.title}`} />
+          <img src={coverImageUrl} alt={`Cover of ${title}`} />
         </div>
         <div class="book-meta">
+          <div class="book-title-section">
+            {goodreadsUrl ? (
+              <a href={goodreadsUrl} target="_blank" rel="noopener noreferrer" class="book-title-link">
+                <div class="book-title">{title}</div>
+                {subtitle && <div class="book-subtitle">{subtitle}</div>}
+              </a>
+            ) : (
+              <>
+                <div class="book-title">{title}</div>
+                {subtitle && <div class="book-subtitle">{subtitle}</div>}
+              </>
+            )}
+          </div>
           <div class="book-author">
             {authorUrl ? (
               <a href={authorUrl} target="_blank" rel="noopener noreferrer">
@@ -48,14 +64,10 @@ const BookHeader: QuartzComponentConstructor = () => {
             </div>
           )}
         </div>
-        {tags && tags.length > 0 && (
-          <div class="book-tags-column">
-            <div class="book-tags">
-              {tags.map((tag) => (
-                <span class="book-tag" key={tag}>
-                  {tag}
-                </span>
-              ))}
+        {synopsis && (
+          <div class="book-synopsis-column">
+            <div class="book-synopsis">
+              {synopsis}
             </div>
           </div>
         )}
@@ -81,8 +93,8 @@ const BookHeader: QuartzComponentConstructor = () => {
     }
 
     .book-cover img {
-      width: 150px;
-      height: auto;
+      width: auto;
+      height: 270px;
       border-radius: 4px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     }
