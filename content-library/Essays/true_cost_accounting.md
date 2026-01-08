@@ -223,4 +223,4 @@ To demonstrate feasibility, a real-world implementation in the food industry is 
 
 ---
 
-*Last updated: January 8, 2026*
+**Parent:** [[Essays/index|Essays]]

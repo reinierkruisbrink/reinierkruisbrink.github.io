@@ -53,6 +53,9 @@ const BookHeader: QuartzComponentConstructor = () => {
               Published: {publishedDate}
             </div>
           )}
+          {publishedDate && readDate && (
+            <hr class="book-date-separator" />
+          )}
           {readDate && (
             <div class="book-read-date">
               Read: {readDate}
@@ -93,8 +96,8 @@ const BookHeader: QuartzComponentConstructor = () => {
     }
 
     .book-cover img {
-      width: auto;
-      height: 270px;
+      width: 150px;
+      height: auto;
       border-radius: 4px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     }
@@ -119,7 +122,7 @@ const BookHeader: QuartzComponentConstructor = () => {
       font-size: 1.6rem;
       font-weight: 700;
       line-height: 1.3;
-      color: var(--dark);
+      color: var(--secondary);
       margin-bottom: 0.25rem;
     }
 
@@ -131,7 +134,7 @@ const BookHeader: QuartzComponentConstructor = () => {
       font-size: 1.1rem;
       font-weight: 500;
       line-height: 1.4;
-      color: var(--gray);
+      color: var(--secondary);
     }
 
     .book-title-link:hover .book-subtitle {
@@ -160,6 +163,12 @@ const BookHeader: QuartzComponentConstructor = () => {
       color: var(--gray);
     }
 
+    .book-date-separator {
+      border: none;
+      border-top: 1px solid var(--lightgray);
+      margin: 0.25rem 0;
+    }
+
     .book-rating {
       font-weight: 500;
       color: var(--secondary);
@@ -176,7 +185,6 @@ const BookHeader: QuartzComponentConstructor = () => {
       color: var(--gray);
       font-style: italic;
       padding: 0.5rem;
-      background: var(--lightgray);
       border-radius: 4px;
       border-left: 3px solid var(--secondary);
     }
