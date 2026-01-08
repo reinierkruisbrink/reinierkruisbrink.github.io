@@ -4,23 +4,16 @@ subtitle: "The New Science of How Nature Improves Our Health"
 author: "Kathy Willis"
 author_url: "https://www.goodreads.com/author/show/2161759.Kathy_Willis"
 goodreads_url: "https://www.goodreads.com/book/show/208920500-good-nature"
-cover_image: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729700090i/208920500.jpg"
+published_date: "2024"
+cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729700090i/208920500.jpg"
 read_date: "2026"
-rating: 4.2
-categories:
+my_rating: 8
+tags:
   - biology
   - health
-tags:
   - nature
-  - human-behavior
   - mechanisms
-  - evolution
-  - perception
-  - medicine
-  - ecology
   - empirical
-  - nonfiction
-draft: false
 ---
 
 # Good Nature

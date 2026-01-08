@@ -1,25 +1,19 @@
 ---
 title: "The Light Eaters"
+subtitle: "How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth"
 author: "Zoë Schlanger"
 author_url: "https://www.goodreads.com/author/show/20574597.Zo_Schlanger"
 goodreads_url: "https://www.goodreads.com/book/show/196774338-the-light-eaters"
-cover_image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704129867i/196774338.jpg"
+published_date: "2024"
+cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704129867i/196774338.jpg"
 read_date: "2025"
-rating: 4
-categories:
-  - biology
+my_rating: 8
 tags:
-  - book
-  - read
+  - biology
+  - plant-intelligence
   - nature
-  - perception
-  - cognition
-  - mechanisms
-  - evolution
-  - ecology
-  - interdisciplinary
   - empirical
-draft: false
+  - ecology
 ---
 
 # The Light Eaters

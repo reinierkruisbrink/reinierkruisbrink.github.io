@@ -1,24 +1,19 @@
 ---
-title: "Planta Sapiens: The New Science of Plant Intelligence"
+title: "Planta Sapiens"
+subtitle: "The New Science of Plant Intelligence"
 author: "Paco Calvo"
 author_url: "https://www.goodreads.com/author/show/2546692.Paco_Calvo"
 goodreads_url: "https://www.goodreads.com/book/show/61089458-planta-sapiens"
-cover_image: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654912824i/61089458.jpg"
+published_date: "2022"
+cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654912824i/61089458.jpg"
 read_date: "2023"
-rating: 4
-categories:
-  - biology
+my_rating: 8
 tags:
-  - book
-  - read
+  - biology
   - cognition
-  - perception
-  - mechanisms
+  - plant-intelligence
   - theoretical
-  - evolution
-  - nature
   - interdisciplinary
-draft: false
 ---
 
 # Planta Sapiens: The New Science of Plant Intelligence
