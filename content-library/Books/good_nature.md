@@ -61,9 +61,4 @@ I found this book perfect, except for the fact that the author did not end with 
 
 ## Related Books
 
-- [[the_last_drop|The Last Drop]] - Environmental systems and rewilding approaches
-- [[linked|Linked]] - Network effects in ecological systems
-
----
-
-*Parent:* [[Books/index|Books]]
+- 

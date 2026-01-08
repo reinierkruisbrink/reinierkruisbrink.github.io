@@ -15,6 +15,7 @@ const BookHeader: QuartzComponentConstructor = () => {
     const publishedDate = frontmatter.published_date as string | undefined
     const readDate = frontmatter.read_date as string | undefined
     const myRating = frontmatter.my_rating as number | undefined
+    const tags = frontmatter.tags as string[] | undefined
 
     return (
       <div class="book-header">
@@ -47,13 +48,25 @@ const BookHeader: QuartzComponentConstructor = () => {
             </div>
           )}
         </div>
+        {tags && tags.length > 0 && (
+          <div class="book-tags-column">
+            <div class="book-tags">
+              {tags.map((tag) => (
+                <span class="book-tag" key={tag}>
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
     )
   }
 
   Component.css = `
     .book-header {
-      display: flex;
+      display: grid;
+      grid-template-columns: 120px 1fr 1fr;
       gap: 1.5rem;
       margin-bottom: 2rem;
       padding: 1.5rem;
@@ -68,7 +81,7 @@ const BookHeader: QuartzComponentConstructor = () => {
     }
 
     .book-cover img {
-      width: 120px;
+      width: 150px;
       height: auto;
       border-radius: 4px;
       box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -79,7 +92,6 @@ const BookHeader: QuartzComponentConstructor = () => {
       flex-direction: column;
       justify-content: flex-start;
       gap: 0.75rem;
-      flex: 1;
     }
 
     .book-author {
@@ -109,15 +121,55 @@ const BookHeader: QuartzComponentConstructor = () => {
       color: var(--secondary);
     }
 
+    .book-tags-column {
+      display: flex;
+      align-items: flex-start;
+      justify-content: flex-end;
+    }
+
+    .book-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      justify-content: flex-end;
+    }
+
+    .book-tag {
+      display: inline-block;
+      padding: 0.25rem 0.75rem;
+      background: var(--lightgray);
+      color: var(--dark);
+      border-radius: 12px;
+      font-size: 0.85rem;
+      font-weight: 500;
+      transition: background 0.2s ease;
+    }
+
+    .book-tag:hover {
+      background: var(--gray);
+      color: var(--light);
+    }
+
     @media (max-width: 600px) {
       .book-header {
-        flex-direction: column;
-        align-items: center;
+        grid-template-columns: 1fr;
         text-align: center;
+      }
+
+      .book-cover {
+        margin: 0 auto;
       }
 
       .book-cover img {
         width: 100px;
+      }
+
+      .book-tags-column {
+        justify-content: center;
+      }
+
+      .book-tags {
+        justify-content: center;
       }
     }
   `

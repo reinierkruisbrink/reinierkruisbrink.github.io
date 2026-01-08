@@ -50,7 +50,3 @@ While plant intelligence is a controversial topic, it is in my opinion even more
 
 - [[planta_sapiens|Planta Sapiens]] - Deeper theoretical exploration of plant intelligence
 - [[good_nature|Good Nature]] - Nature's impact on human well-being
-
----
-
-*Parent:* [[Books/index|Books]]

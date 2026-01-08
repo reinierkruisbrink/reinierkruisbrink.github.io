@@ -54,7 +54,3 @@ The most compelling aspect of this book is how it reframes plant behavior throug
 
 - [[the_light_eaters|The Light Eaters]] - More empirically-focused exploration of plant senses
 - [[good_nature|Good Nature]] - Human interaction with plant systems
-
----
-
-*Parent:* [[Books/index|Books]]
