@@ -2,7 +2,7 @@
 title: "True Cost Accounting"
 subtitle: "A Multi-Dimensional Framework for Internalizing Externalities and Fostering Ethical Markets"
 author: "Reinier Kruisbrink"
-date: "2026"
+date: "2026-01-01"
 categories:
   - economics
   - environmental-science

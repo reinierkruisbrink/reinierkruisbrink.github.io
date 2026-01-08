@@ -7,6 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/196774338-the-light-eaters"
 published_date: "2024"
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704129867i/196774338.jpg"
 read_date: "2025"
+date: "2025-08-01"
 my_rating: 8
 synopsis: "An exploration of plants' hidden intelligence, communication, and sensory abilities that challenges our understanding of passive organisms."
 tags:

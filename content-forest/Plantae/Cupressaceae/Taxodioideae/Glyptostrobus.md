@@ -3,6 +3,7 @@ title: Glyptostrobus
 tags:
   - genus
   - deciduous
+date: "2026-01-01"
 ---
 
 # Glyptostrobus

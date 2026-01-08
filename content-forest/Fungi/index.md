@@ -1,5 +1,6 @@
 ---
 title: Fungi
+date: "2026-01-01"
 ---
 
 # Fungi

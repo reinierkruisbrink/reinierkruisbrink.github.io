@@ -1,5 +1,6 @@
 ---
 title: Digital Forest
+date: "2026-01-01"
 ---
 
 # Welcome to Digital Forest

@@ -1,5 +1,6 @@
 ---
 title: Digital Library
+date: "2025-01-01"
 ---
 
 # Welcome to Digital Library

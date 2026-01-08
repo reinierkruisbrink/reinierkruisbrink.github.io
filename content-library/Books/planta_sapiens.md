@@ -7,6 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/61089458-planta-sapiens"
 published_date: "2022"
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654912824i/61089458.jpg"
 read_date: "2023"
+date: "2023-06-01"
 my_rating: 8
 synopsis: "Plants possess complex behaviors and abilities that rival those of animals, challenging the traditional view of plants as passive organisms through the lens of predictive processing theory."
 tags:
