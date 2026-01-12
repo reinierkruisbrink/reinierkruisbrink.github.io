@@ -60,7 +60,7 @@ A kilogram of conventionally-grown cocoa might have a market price of €3, but 
 - Deforestation impacts (biodiversity loss, carbon emissions)
 - Total externalized cost: potentially 2-3× the market price
 
-### Example 2: Ultra-Processed Foods (See [[Books/ultra_processed_people|"Ultra Processed People"]])
+### Example 2: Ultra-Processed Foods
 A bottle of soda with a market price of €1.50 externalizes:
 - Public health costs from diet-related diseases (diabetes, obesity)
 - Environmental costs from packaging and transportation

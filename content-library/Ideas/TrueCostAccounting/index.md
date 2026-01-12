@@ -25,8 +25,11 @@ Transform cost from a single number into a structured object: $C=[C_1, C_2, C_3,
 
 - $C_1$: Market price (unchanged)
 - $C_2$: Social externality (labor, rights, safety)
-- $C_3$: Environmental externality (climate, water, biodiversity)
+- $C_3$: Environmental externality (climate, water, biodiversity, pollution)
+  - [[Books/clearing_the_air|"Clearing the Air"]]
+  - [[Books/the_last_drop|"The Last Drop"]]
 - $C_4$: Consumer/public health externality (diet, processing, exposure)
+  - [[Books/ultra_processed_people|"Ultra Processed People"]]
 
 ### 2. Weighted Norm (Strong Sustainability)
 
