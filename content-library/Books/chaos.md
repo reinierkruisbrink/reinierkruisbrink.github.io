@@ -1,5 +1,5 @@
 ---
-title: "Chaos: Making a New Science"
+title: "Chaos"
 subtitle: "Making a New Science"
 author: "James Gleick"
 author_url: "https://www.goodreads.com/author/show/10401.James_Gleick"
