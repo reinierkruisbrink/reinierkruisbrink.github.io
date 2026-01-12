@@ -1,10 +1,10 @@
 ---
-title: "Calculating Externalities"
+title: "04. Calculating Externalities"
 date: "2026-01-12"
 tags:
   - tca
-  - methods
-  - implementation
+  - externalities
+  - sustainability
 ---
 
 # Calculating Externalities: From Indicators to Monetized Costs

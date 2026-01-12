@@ -1,10 +1,10 @@
 ---
-title: "Demo: TCA Implementation Experiment"
+title: "06. Demo: TCA Implementation Experiment"
 date: "2026-01-12"
 tags:
   - tca
-  - demo
-  - experiment
+  - externalities
+  - sustainability
 ---
 
 # Demo: TCA Implementation Experiment

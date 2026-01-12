@@ -2,10 +2,9 @@
 title: "True Cost Accounting"
 date: "2026-01-12"
 tags:
-  - economics
-  - policy
+  - tca
+  - externalities
   - sustainability
-  - systems-thinking
 ---
 
 # True Cost Accounting (TCA)

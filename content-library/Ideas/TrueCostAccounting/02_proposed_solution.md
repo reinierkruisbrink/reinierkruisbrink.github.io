@@ -1,9 +1,9 @@
 ---
-title: "Proposed Solution"
+title: "02. Proposed Solution"
 date: "2026-01-12"
 tags:
-  - economics
-  - policy
+  - tca
+  - externalities
   - sustainability
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Data Sources"
+title: "05. Data Sources"
 date: "2026-01-12"
 tags:
   - tca
-  - data
-  - implementation
+  - externalities
+  - sustainability
 ---
 
 # Data Sources for True Cost Accounting

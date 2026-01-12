@@ -1,9 +1,10 @@
 ---
-title: "Related Work"
+title: "03. Related Work"
 date: "2026-01-12"
 tags:
+  - tca
+  - externalities
   - sustainability
-  - 
 ---
 
 # Related Work: Strengths and Gaps
