@@ -1,106 +1,75 @@
 ---
 title: "True Cost Accounting"
-date: "2026-01-01"
+date: "2026-01-12"
+tags:
+  - economics
+  - policy
+  - sustainability
+  - systems-thinking
 ---
 
 # True Cost Accounting (TCA)
 
-Modern market economies are extremely good at optimizing what they can measure and trade: monetary costs. But the price mechanism systematically fails when important costs are **externalized** (borne by society, ecosystems, or future people rather than the buyer/seller). The result is familiar: climate damage, biodiversity loss, labour exploitation, and preventable disease are treated as “cheap” inputs.
+## The Challenge
 
-This folder develops a proposal for a **Multi-Dimensional True Cost Accounting** system that preserves the usefulness of market prices while adding a consistent, auditable mechanism to internalize externalities.
+Markets are extraordinary optimizers—but only of what they can measure. When a €2 chocolate bar is priced, it reflects supply chains, labor, and margins. What it doesn't reflect: child labor harvesting cocoa, deforestation clearing land, or health burdens from excessive sugar. These "externalities" aren't hidden by malice—they're invisible because our accounting systems weren't designed to see them.
 
-If you want the intellectual framing first, see [[Ideas/TrueCostAccounting/background_classics|Background: Smith, Friedman, Pigou]]. If you want the landscape of existing methods, see [[Ideas/TrueCostAccounting/related_work|Related work: TPF, LCA, ESG, labels]].
+The result is predictable: if environmental degradation, labor exploitation, and public health harm are "free," profit-seeking firms will rationally choose them. **This isn't a moral failing—it's a systems design flaw.**
 
-## The general flow (problem → solution → benefits → practicalities)
+## The Solution: Complete the Price Signal
 
-### 1) Problem statement
+True Cost Accounting proposes to complete the price signal through four innovations:
 
-Prices are a compressed summary of costs, but today’s prices systematically omit:
+### 1. Multi-Dimensional Cost Vector
 
-- **Social costs** (rights violations, wage gaps, unsafe work)
-- **Environmental costs** (carbon, water stress, pollution, biodiversity loss)
-- **Public/consumer health costs** (diet-related disease burden, exposure)
+Transform cost from a single number into a structured object: $C=[C_1, C_2, C_3, C_4]$
 
-Any policy that targets one externality at a time (carbon tax only, labels only, voluntary reporting only) leaves room for substitution, loopholes, and “sustainability theater”.
+- $C_1$: Market price (unchanged)
+- $C_2$: Social externality (labor, rights, safety)
+- $C_3$: Environmental externality (climate, water, biodiversity)
+- $C_4$: Consumer/public health externality (diet, processing, exposure)
 
-### 2) Proposed solution: a Multi-Dimensional cost vector + an externality norm
+### 2. Weighted Norm (Strong Sustainability)
 
-Represent each product/service as a cost vector in €/functional-unit:
+Aggregate externalities using $N_{ext}(C)=\sqrt{w_2C_2^2+w_3C_3^2+w_4C_4^2}$ to prevent catastrophic harms from being offset. You can't balance out forced labor with carbon credits.
 
-$$C=[C_1,C_2,C_3,C_4]$$
+### 3. Unknown Penalty
 
-- $C_1$ market price (kept as-is)
-- $C_2$ social externality (rights + wage gaps + worker health)
-- $C_3$ environmental externality (restoration/removal/cleanup)
-- $C_4$ public/consumer health externality (diet + processing + exposure)
+Missing supply-chain data receives a conservative high-impact estimate (95th percentile). This makes transparency valuable and opacity expensive—inverting the current incentive where hiding information is advantageous.
 
-How each component is computed is defined in [[Ideas/TrueCostAccounting/vector_components_tpf|Vector components (TPF-aligned)]]. The key idea is: indicators (physical or categorical) are mapped to € via monetisation factors.
+### 4. VAT-Like Propagation
 
-Then aggregate **externalities only** via a weighted norm:
+Apply an externality tax at each supply chain stage with input credits. Each firm pays only on externalities they add, creating incentives from farm to fork. Partially replace regressive VAT/BTW to improve equity.
 
-$$N_{ext}(C)=\sqrt{w_2C_2^2+w_3C_3^2+w_4C_4^2}$$
+## What This Enables
 
-This norm is explained in [[Ideas/TrueCostAccounting/weighted_norm|Weighted norm (strong sustainability)]]. Intuition: it punishes “catastrophic failure” in one dimension rather than letting good performance elsewhere cancel it out.
+**Markets work properly** when prices tell the truth. Profit-seeking naturally selects sustainable practices because unsustainable ones become expensive.
 
-Define the consumer-facing signal (before tax design):
+**Supply chains become accountable.** Labor exploitation and environmental damage show up in costs—transparency becomes financially rational.
 
-$$P_{signal}=C_1+N_{ext}(C)$$
+**Trade-offs become honest.** No more "carbon neutral" products hiding forced labor. The weighted norm prevents greenwashing through comprehensive accounting.
 
-### 3) Transparency mechanism: the unknown penalty
+**Innovation gets directed** toward real solutions—clean energy, regenerative agriculture, safer labor—as competitive advantages rather than cost centers.
 
-The system only works if missing data is not a free strategy.
+**Policy becomes coherent.** Replace patchwork regulations with unified framework. Disagreements move to auditable parameters, not vague sustainability claims.
 
-When a supply-chain attribute is unknown/unverifiable, apply an **unknown penalty**: substitute a conservative high-impact prior (e.g., sector–country 95th percentile). This creates an incentive to disclose and verify.
+**Equity improves.** Essential goods become relatively cheaper, high-externality goods pay their share, revenue funds support for vulnerable populations.
 
-- Concept: [[Ideas/TrueCostAccounting/unknown_penalty|Unknown penalty (Transparency Gap)]]
-- Public priors: [[Ideas/TrueCostAccounting/databases_unknown_penalty|Public databases for the unknown penalty]]
+## Is This Realistic?
 
-### 4) Policy mechanism: VAT-like intermediate externality taxing + partial VAT replacement
+Yes. The technical infrastructure exists (databases, IoT traceability), the economic logic is proven (Pigouvian taxation works), and political appetite is growing (climate commitments, supply chain laws, ESG pressure). What's needed is integration: connecting the pieces into a coherent system.
 
-Information alone is weak; you need a mechanism that propagates incentives through the supply chain.
+This proposal doesn't require new ethics or different human nature. It simply requires that the price system tell the truth, so self-interest and profit-seeking are aligned with collective well-being. **Markets are powerful engines. Let's give them the right fuel.**
 
-TCA proposes a VAT-like tax on the externality signal with input credits, so firms remit tax on the **externality value they add**, not on gross turnover.
+## Explore the Framework
 
-This also enables an equity move: partially replace VAT/BTW (regressive) with an externality tax whose base is concentrated in high-harm goods/processes, while recycling revenues.
+- **[[Ideas/TrueCostAccounting/01_problem_statement|Problem Statement]]**: Detailed analysis of externalities and hidden costs
+- **[[Ideas/TrueCostAccounting/02_proposed_solution|Proposed Solution]]**: Complete technical framework and mechanisms
+- **[[Ideas/TrueCostAccounting/03_related_work|Related Work]]**: How TCA extends existing approaches (TPF, LCA, ESG, carbon taxes)
+- **[[Ideas/TrueCostAccounting/04_calculating_externalities|Calculating Externalities]]**: Indicators, monetization factors, worked examples
+- **[[Ideas/TrueCostAccounting/05_data_sources|Data Sources]]**: Databases, verification tiers, quality standards
+- **[[Ideas/TrueCostAccounting/06_demo|Demo]]**: Experimental implementation setup with real products
 
-See [[Ideas/TrueCostAccounting/vat_replacement|VAT replacement + intermediate TrueCost tax]].
-
-### 5) Benefits (what this unlocks)
-
-- **Strong sustainability**: prevents “trade-offs” that hide rights violations or health harms behind good carbon performance (via the norm)
-- **Supply-chain incentives**: internalization is not only at point-of-sale (VAT-like propagation)
-- **Anti-greenwashing**: unknown penalty makes opacity expensive
-- **Equity lever**: partial VAT/BTW replacement + rebates/subsidies can mitigate regressivity
-- **Auditable debates**: disagreements move to explicit parameters (weights, factor versions, priors) rather than vibes
-
-### 6) Practicalities: data, indicators, and cost factors
-
-In practice, each component becomes a sum of (indicator × monetisation factor). The implementation hinges on:
-
-- factor registries and their governance
-- footprint indicators (by product and by sector/country priors)
-- the unknown penalty distribution assumptions
-
-Start here:
-
-- Factors / mapping notes: [[Ideas/TrueCostAccounting/tpf_cost_factors|TPF cost factors]]
-- Public databases for priors: [[Ideas/TrueCostAccounting/databases_unknown_penalty|Public databases for the unknown penalty]]
-- Governance and gaming resistance: [[Ideas/TrueCostAccounting/weights_and_governance|Weights, legitimacy, and gaming resistance]]
-- Worked example plan: [[Ideas/TrueCostAccounting/experiment_demo|Experiment demo (food)]]
-
-## Quartz graph map (topic index)
-
-- **Core method**
-	- [[Ideas/TrueCostAccounting/vector_components_tpf|Vector components (TPF-aligned)]]
-	- [[Ideas/TrueCostAccounting/weighted_norm|Weighted norm (strong sustainability)]]
-- **Transparency & data**
-	- [[Ideas/TrueCostAccounting/unknown_penalty|Unknown penalty (Transparency Gap)]]
-	- [[Ideas/TrueCostAccounting/databases_unknown_penalty|Public databases for the unknown penalty]]
-- **Policy**
-	- [[Ideas/TrueCostAccounting/vat_replacement|VAT replacement + intermediate TrueCost tax]]
-	- [[Ideas/TrueCostAccounting/weights_and_governance|Weights, legitimacy, and gaming resistance]]
-- **Context**
-	- [[Ideas/TrueCostAccounting/background_classics|Background: Smith, Friedman, Pigou]]
-	- [[Ideas/TrueCostAccounting/related_work|Related work: TPF, LCA, ESG, labels]]
+---
 
 **Parent:** [[Ideas/index|Ideas]]
