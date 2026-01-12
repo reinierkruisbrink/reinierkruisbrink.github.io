@@ -1,6 +1,6 @@
 ---
 title: "Chasing the Sun"
-subtitle: ""
+subtitle: "The New Science of Sunlight and How it Shapes Our Bodies and Minds"
 author: "Linda Geddes"
 author_url: "https://www.goodreads.com/author/show/6848260.Linda_Geddes"
 goodreads_url: "https://www.goodreads.com/book/show/42603316-chasing-the-sun"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: ""Chasing the Sun" by Linda Geddes explores the impact of sunlight on human health and well-being, delving into the science behind its effects and the consequences of our increasingly indoor lifestyles."
+synopsis: "Chasing the Sun by Linda Geddes explores the impact of sunlight on human health and well-being, delving into the science behind its effects and the consequences of our increasingly indoor lifestyles."
 tags:
   - "biology"
 ---
 
-# Chasing the Sun
+# Chasing the Sun: The New Science of Sunlight and How it Shapes Our Bodies and Minds
 
 ## Overview
 

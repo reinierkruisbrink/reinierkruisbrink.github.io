@@ -1,6 +1,6 @@
 ---
 title: "The Last Drop"
-subtitle: ""
+subtitle: "Solving the World's Water Crisis"
 author: "Tim Smedley"
 author_url: "https://www.goodreads.com/author/show/18157590.Tim_Smedley"
 goodreads_url: "https://www.goodreads.com/book/show/125070173-the-last-drop"
@@ -15,7 +15,7 @@ tags:
   - "society"
 ---
 
-# The Last Drop
+# The Last Drop: Solving the World's Water Crisis
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "The Strange Order of Things"
-subtitle: ""
+subtitle: "Life, Feeling, and the Making of Cultures"
 author: "Antonio Damasio"
 author_url: "https://www.goodreads.com/author/show/60033.Ant_nio_Dam_sio"
 goodreads_url: "https://www.goodreads.com/book/show/32335976-the-strange-order-of-things"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: ""The Strange Order of Things" by Antonio Damasio proposes a radical rethinking of consciousness, arguing that feelings are the foundational layer upon which minds, consciousness, and culture are built."
+synopsis: "The Strange Order of Things by Antonio Damasio proposes a radical rethinking of consciousness, arguing that feelings are the foundational layer upon which minds, consciousness, and culture are built."
 tags:
   - "neuroscience"
 ---
 
-# The Strange Order of Things
+# The Strange Order of Things: Life, Feeling, and the Making of Cultures
 
 ## Overview
 

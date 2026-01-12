@@ -1,6 +1,6 @@
 ---
 title: "Geopedia"
-subtitle: ""
+subtitle: "A Brief Compendium of Geologic Curiosities"
 author: "Marcia Bjornerud"
 author_url: "https://www.goodreads.com/author/show/568055.Marcia_Bjornerud"
 goodreads_url: "https://www.goodreads.com/book/show/58537508-geopedia"
@@ -14,7 +14,7 @@ tags:
   - "environmental-science"
 ---
 
-# Geopedia
+# Geopedia: A Brief Compendium of Geologic Curiosities
 
 ## Overview
 

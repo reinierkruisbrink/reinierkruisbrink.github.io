@@ -1,6 +1,6 @@
 ---
 title: "In Praise of Walking"
-subtitle: ""
+subtitle: "A New Scientific Exploration"
 author: "Shane O'Mara"
 author_url: "https://www.goodreads.com/author/show/3939452.Shane_O_Mara"
 goodreads_url: "https://www.goodreads.com/book/show/53122217-in-praise-of-walking"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 6
-synopsis: ""In Praise of Walking" by Shane O'Mara celebrates the impact of walking on our physical and mental well-being, arguing that it's not just a means of locomotion, but a fundamental aspect of being human."
+synopsis: "In Praise of Walking by Shane O'Mara celebrates the impact of walking on our physical and mental well-being, arguing that it's not just a means of locomotion, but a fundamental aspect of being human."
 tags:
   - "biology"
 ---
 
-# In Praise of Walking
+# In Praise of Walking: A New Scientific Exploration
 
 ## Overview
 

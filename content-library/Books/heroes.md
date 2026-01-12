@@ -1,6 +1,6 @@
 ---
 title: "Heroes"
-subtitle: ""
+subtitle: "Mortals and Monsters, Quests and Adventures"
 author: "Stephen Fry"
 author_url: "https://www.goodreads.com/author/show/10917.Stephen_Fry"
 goodreads_url: "https://www.goodreads.com/book/show/41433634-heroes"
@@ -9,13 +9,13 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2022"
 date: "2022-01-01"
 my_rating: 10
-synopsis: "In Stephen Fry's entertaining book, "Heroes," he takes you on a delightful romp through the world of Greek mythology, focusing this time on the legendary heroes rather than the gods themselves."
+synopsis: "In Stephen Fry's entertaining book, Heroes, he takes you on a delightful romp through the world of Greek mythology, focusing this time on the legendary heroes rather than the gods themselves."
 tags:
   - "classics"
   - "history"
 ---
 
-# Heroes
+# Heroes: Mortals and Monsters, Quests and Adventures
 
 ## Overview
 

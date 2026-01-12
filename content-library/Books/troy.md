@@ -9,7 +9,7 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2023"
 date: "2023-01-01"
 my_rating: 10
-synopsis: "In Stephen Fry's witty and engaging book, "Troy," he takes you on a thrilling journey through the legendary Trojan War. Unlike other retellings that focus solely on the Iliad's timeframe, Fry offers a more comprehensive view."
+synopsis: "In Stephen Fry's witty and engaging book, Troy, he takes you on a thrilling journey through the legendary Trojan War. Unlike other retellings that focus solely on the Iliad's timeframe, Fry offers a more comprehensive view."
 tags:
   - "classics"
   - "history"

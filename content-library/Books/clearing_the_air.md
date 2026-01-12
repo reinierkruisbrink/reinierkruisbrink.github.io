@@ -1,6 +1,6 @@
 ---
 title: "Clearing the Air"
-subtitle: ""
+subtitle: "The Beginning and the End of Air Pollution"
 author: "Tim Smedley"
 author_url: "https://www.goodreads.com/author/show/18157590.Tim_Smedley"
 goodreads_url: "https://www.goodreads.com/book/show/40653218-clearing-the-air"
@@ -9,13 +9,13 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: ""Clearing the Air" by Tim Smedley is a comprehensive and urgent exploration of the pervasive problem of air pollution, detailing its varied forms, profound health impacts, and the complex web of sources that contribute to it."
+synopsis: "Clearing the Air by Tim Smedley is a comprehensive and urgent exploration of the pervasive problem of air pollution, detailing its varied forms, profound health impacts, and the complex web of sources that contribute to it."
 tags:
   - "environmental-science"
   - "society"
 ---
 
-# Clearing the Air
+# Clearing the Air: The Beginning and the End of Air Pollution
 
 ## Overview
 

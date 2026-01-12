@@ -1,6 +1,6 @@
 ---
 title: "The Blue Machine"
-subtitle: ""
+subtitle: "How the Ocean Works"
 author: "Helen Czerski"
 author_url: "https://www.goodreads.com/author/show/7351757.Helen_Czerski"
 goodreads_url: "https://www.goodreads.com/book/show/77265008-the-blue-machine"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2024"
 date: "2024-01-01"
 my_rating: 6
-synopsis: "The Blue Machine by Helen Czerksi is a story of the world's oceans, often referred to as the "blue machine" due to their complex and interconnected systems. The book delves into the intricate workings of the oceans, as well as our connection to the ocean and the effects of human activity."
+synopsis: "The Blue Machine by Helen Czerksi is a story of the world's oceans, often referred to as the blue machine due to their complex and interconnected systems. The book delves into the intricate workings of the oceans, as well as our connection to the ocean and the effects of human activity."
 tags:
   - "environmental-science"
 ---
 
-# The Blue Machine
+# The Blue Machine: How the Ocean Works
 
 ## Overview
 

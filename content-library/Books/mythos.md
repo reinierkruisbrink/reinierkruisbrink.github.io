@@ -1,6 +1,6 @@
 ---
 title: "Mythos"
-subtitle: ""
+subtitle: "The Greek Myths Retold"
 author: "Stephen Fry"
 author_url: "https://www.goodreads.com/author/show/10917.Stephen_Fry"
 goodreads_url: "https://www.goodreads.com/book/show/35074096-mythos"
@@ -9,13 +9,13 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2021"
 date: "2021-01-01"
 my_rating: 10
-synopsis: "In Stephen Fry's "Mythos," you're in for a treat - a witty and engaging retelling of Greek myths. Forget dry, textbook versions, Fry breathes new life into these classic stories with his signature humor and insightful commentary."
+synopsis: "In Stephen Fry's Mythos, you're in for a treat - a witty and engaging retelling of Greek myths. Forget dry, textbook versions, Fry breathes new life into these classic stories with his signature humor and insightful commentary."
 tags:
   - "classics"
   - "history"
 ---
 
-# Mythos
+# Mythos: The Greek Myths Retold
 
 ## Overview
 

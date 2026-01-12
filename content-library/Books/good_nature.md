@@ -18,7 +18,7 @@ tags:
   - empirical
 ---
 
-# Good Nature
+# Good Nature: The New Science of How Nature Improves Our Health
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "Ondraaglijke Lichtheid"
-subtitle: ""
+subtitle: "Over het Nut en Nadeel van Ironie van het Leven"
 author: "Ilja Leonard Pfeijffer"
 author_url: "https://www.goodreads.com/author/show/785596.Ilja_Leonard_Pfeijffer"
 goodreads_url: "https://www.goodreads.com/book/show/49607743-ondraaglijke-lichtheid"
@@ -9,7 +9,7 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: ""Ondraaglijke Lichtheid" (Unbearable Lightness) by Ilja Leonard Pfeijffer is a collection of essays that critically examines the pervasive role of irony in contemporary society, particularly in public discourse and social interactions."
+synopsis: "Ondraaglijke Lichtheid (Unbearable Lightness) by Ilja Leonard Pfeijffer is a collection of essays that critically examines the pervasive role of irony in contemporary society, particularly in public discourse and social interactions."
 tags:
   - "philosophy"
   - "society"

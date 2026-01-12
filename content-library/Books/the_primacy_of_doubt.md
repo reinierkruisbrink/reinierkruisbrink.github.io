@@ -1,6 +1,6 @@
 ---
 title: "The Primacy of Doubt"
-subtitle: ""
+subtitle: "From Quantum Physics to Climate Change, How the Science of Uncertainty Can Help Us Understand Our Chaotic World"
 author: "Tim Palmer"
 author_url: "https://www.goodreads.com/author/show/54871632.Tim_Palmer"
 goodreads_url: "https://www.goodreads.com/book/show/60383041-the-primacy-of-doubt"
@@ -14,7 +14,7 @@ tags:
   - "mathematics"
 ---
 
-# The Primacy of Doubt
+# The Primacy of Doubt: From Quantum Physics to Climate Change, How the Science of Uncertainty Can Help Us Understand Our Chaotic World
 
 ## Overview
 

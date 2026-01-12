@@ -1,11 +1,11 @@
 ---
 title: Digital Library
-date: "2025-01-01"
+date: "2026-01-01"
 ---
 
 # Welcome to Digital Library
 
-A curated collection of [[Books/index|books]] and [[Essays/index|essays]] exploring ideas across disciplines, annotated with key concepts, mechanisms, and connections.
+A curated collection of [[Books/index|books]] and [[Ideas/index|Ideas]] exploring ideas across disciplines, annotated with key concepts, mechanisms, and connections.
 
 ## Tag System
 

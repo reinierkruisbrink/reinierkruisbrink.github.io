@@ -1,6 +1,6 @@
 ---
 title: "Treepedia"
-subtitle: ""
+subtitle: "A Brief Compendium of Arboreal Lore"
 author: "Joan Maloof"
 author_url: "https://www.goodreads.com/author/show/822538.Joan_Maloof"
 goodreads_url: "https://www.goodreads.com/book/show/56355780-treepedia"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2024"
 date: "2024-01-01"
 my_rating: 6
-synopsis: "In "Treepedia: A Brief Compendium of Arboreal Lore," Joan Maloof celebrates all things tree-related. This informative and entertaining book takes readers on a journey through the fascinating world of trees."
+synopsis: "In Treepedia: A Brief Compendium of Arboreal Lore, Joan Maloof celebrates all things tree-related. This informative and entertaining book takes readers on a journey through the fascinating world of trees."
 tags:
   - "biology"
 ---
 
-# Treepedia
+# Treepedia: A Brief Compendium of Arboreal Lore
 
 ## Overview
 

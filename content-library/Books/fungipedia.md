@@ -1,6 +1,6 @@
 ---
 title: "Fungipedia"
-subtitle: ""
+subtitle: "A Brief Compendium of Mushroom Lore"
 author: "Lawrence Millman"
 author_url: "https://www.goodreads.com/author/show/67243.Lawrence_Millman"
 goodreads_url: "https://www.goodreads.com/book/show/44526053-fungipedia"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2024"
 date: "2024-01-01"
 my_rating: 6
-synopsis: ""Fungipedia: A Brief Compendium of Mushroom Lore" is a quirky and informative account of the world of fungi. It delves into various aspects of mushrooms, from their surprising connection to humans to their fascinating biology and cultural significance."
+synopsis: "Fungipedia: A Brief Compendium of Mushroom Lore is a quirky and informative account of the world of fungi. It delves into various aspects of mushrooms, from their surprising connection to humans to their fascinating biology and cultural significance."
 tags:
   - "biology"
 ---
 
-# Fungipedia
+# Fungipedia: A Brief Compendium of Mushroom Lore
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "How Life Works"
-subtitle: ""
+subtitle: "A User’s Guide to the New Biology"
 author: "Philip Ball"
 author_url: "https://www.goodreads.com/author/show/22032.Philip_Ball"
 goodreads_url: "https://www.goodreads.com/book/show/123012858-how-life-works"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2024"
 date: "2024-01-01"
 my_rating: 10
-synopsis: "How Life Works by Philip Ball is an incredibly interesting book of the principles and mechanisms underlying the complexity of living systems by moving past the "it's all genetics" mindset. Ball emphasizes the dynamic and interconnected nature of life, showing how molecular mechanisms, cellular interactions, and larger-scale patterns work together to create the diversity and functionality of living systems. The book blends biology, physics, and systems theory to explain life as a dynamic and emergent phenomenon."
+synopsis: "How Life Works by Philip Ball is an incredibly interesting book of the principles and mechanisms underlying the complexity of living systems by moving past the it's all genetics mindset. Ball emphasizes the dynamic and interconnected nature of life, showing how molecular mechanisms, cellular interactions, and larger-scale patterns work together to create the diversity and functionality of living systems. The book blends biology, physics, and systems theory to explain life as a dynamic and emergent phenomenon."
 tags:
   - "biology"
 ---
 
-# How Life Works
+# How Life Works: A User’s Guide to the New Biology
 
 ## Overview
 

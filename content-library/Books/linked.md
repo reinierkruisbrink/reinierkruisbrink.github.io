@@ -1,6 +1,6 @@
 ---
 title: "Linked"
-subtitle: ""
+subtitle: "How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life"
 author: "Albert-László Barabási"
 author_url: "https://www.goodreads.com/author/show/2932657.Albert_L_szl_Barab_si"
 goodreads_url: "https://www.goodreads.com/book/show/154293.Linked"
@@ -14,7 +14,7 @@ tags:
   - "mathematics"
 ---
 
-# Linked
+# Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life
 
 ## Overview
 

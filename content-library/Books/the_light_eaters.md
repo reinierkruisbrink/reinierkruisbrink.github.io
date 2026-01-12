@@ -18,7 +18,7 @@ tags:
   - ecology
 ---
 
-# The Light Eaters
+# The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: "Florapedia"
-subtitle: ""
+subtitle: "A Brief Compendium of Floral Lore"
 author: "Carol Gracie"
 author_url: "https://www.goodreads.com/author/show/22115.Carol_Gracie"
 goodreads_url: "https://www.goodreads.com/book/show/55271785-florapedia"
@@ -14,7 +14,7 @@ tags:
   - "biology"
 ---
 
-# Florapedia
+# Florapedia: A Brief Compendium of Floral Lore
 
 ## Overview
 

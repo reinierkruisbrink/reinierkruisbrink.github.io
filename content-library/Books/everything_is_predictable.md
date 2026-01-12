@@ -1,6 +1,6 @@
 ---
 title: "Everything Is Predictable"
-subtitle: ""
+subtitle: "How Bayesian Statistics Explain Our World"
 author: "Tom Chivers"
 author_url: "https://www.goodreads.com/author/show/21911384.Tom_Chivers"
 goodreads_url: "https://www.goodreads.com/book/show/199798096-everything-is-predictable"
@@ -14,7 +14,7 @@ tags:
   - "mathematics"
 ---
 
-# Everything Is Predictable
+# Everything Is Predictable: How Bayesian Statistics Explain Our World
 
 ## Overview
 

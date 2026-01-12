@@ -1,6 +1,6 @@
 ---
 title: "The Drunkard's Walk"
-subtitle: ""
+subtitle: "How Randomness Rules Our Lives"
 author: "Leonard Mlodinow"
 author_url: "https://www.goodreads.com/author/show/1399.Leonard_Mlodinow"
 goodreads_url: "https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk"
@@ -9,12 +9,12 @@ cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: "In "The Drunkard's Walk: How Randomness Rules Our Lives" Mlodinow argues that we fundamentally underestimate the role of chance in daily events, mistakenly attributing random outcomes to skill, intention, or deeper causality."
+synopsis: "In The Drunkard's Walk: How Randomness Rules Our Lives Mlodinow argues that we fundamentally underestimate the role of chance in daily events, mistakenly attributing random outcomes to skill, intention, or deeper causality."
 tags:
   - "mathematics"
 ---
 
-# The Drunkard's Walk
+# The Drunkard's Walk: How Randomness Rules Our Lives
 
 ## Overview
 

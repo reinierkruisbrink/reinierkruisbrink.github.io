@@ -1,6 +1,6 @@
 ---
 title: "The Story of the Human Body"
-subtitle: ""
+subtitle: "Evolution, Health, and Disease"
 author: "Daniel E. Lieberman"
 author_url: "https://www.goodreads.com/author/show/3186364.Daniel_E_Lieberman"
 goodreads_url: "https://www.goodreads.com/book/show/17736859-the-story-of-the-human-body"
@@ -14,7 +14,7 @@ tags:
   - "biology"
 ---
 
-# The Story of the Human Body
+# The Story of the Human Body: Evolution, Health, and Disease
 
 ## Overview
 

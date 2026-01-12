@@ -1,6 +1,6 @@
 ---
 title: "The Nocturnal Brain"
-subtitle: ""
+subtitle: "Nightmares, Neuroscience, and the Secret World of Sleep"
 author: "Guy Leschziner"
 author_url: "https://www.goodreads.com/author/show/18182870.Guy_Leschziner"
 goodreads_url: "https://www.goodreads.com/book/show/41150417-the-nocturnal-brain"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2025"
 date: "2025-01-01"
 my_rating: 8
-synopsis: ""The Nocturnal Brain" by Guy Leschziner explores the often-bizarre and sometimes frightening world of sleep disorders. As a leading neurologist specializing in sleep medicine, Leschziner uses compelling case studies from his own practice to illuminate the complex neurological processes that govern our nights and what happens when they go awry."
+synopsis: "The Nocturnal Brain by Guy Leschziner explores the often-bizarre and sometimes frightening world of sleep disorders. As a leading neurologist specializing in sleep medicine, Leschziner uses compelling case studies from his own practice to illuminate the complex neurological processes that govern our nights and what happens when they go awry."
 tags:
   - "neuroscience"
 ---
 
-# The Nocturnal Brain
+# The Nocturnal Brain: Nightmares, Neuroscience, and the Secret World of Sleep
 
 ## Overview
 

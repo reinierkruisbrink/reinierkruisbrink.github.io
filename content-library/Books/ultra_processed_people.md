@@ -1,6 +1,6 @@
 ---
 title: "Ultra-Processed People"
-subtitle: ""
+subtitle: "The Science Behind Food That Isn't Food"
 author: "Chris van Tulleken"
 author_url: "https://www.goodreads.com/author/show/7994882.Chris_van_Tulleken"
 goodreads_url: "https://www.goodreads.com/book/show/62586003-ultra-processed-people"
@@ -15,7 +15,7 @@ tags:
   - "society"
 ---
 
-# Ultra-Processed People
+# Ultra-Processed People: The Science Behind Food That Isn't Food
 
 ## Overview
 

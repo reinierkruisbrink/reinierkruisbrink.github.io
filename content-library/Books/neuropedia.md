@@ -1,6 +1,6 @@
 ---
 title: "Neuropedia"
-subtitle: ""
+subtitle: "A Brief Compendium of Brain Phenomena"
 author: "Eric H Chudler"
 author_url: "https://www.goodreads.com/author/show/2866521.Eric_H_Chudler"
 goodreads_url: "https://www.goodreads.com/book/show/60194735-neuropedia"
@@ -9,12 +9,12 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2024"
 date: "2024-01-01"
 my_rating: 8
-synopsis: ""Neuropedia" serves as an informative and entertaining guide to the many wonders of the brain, providing readers with a deeper appreciation of the complexities and marvels of the human nervous system."
+synopsis: "Neuropedia serves as an informative and entertaining guide to the many wonders of the brain, providing readers with a deeper appreciation of the complexities and marvels of the human nervous system."
 tags:
   - "neuroscience"
 ---
 
-# Neuropedia
+# Neuropedia: A Brief Compendium of Brain Phenomena
 
 ## Overview
 
