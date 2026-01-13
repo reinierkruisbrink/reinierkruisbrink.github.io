@@ -63,15 +63,6 @@ Yes. The technical infrastructure exists (databases, IoT traceability), the econ
 
 This proposal doesn't require new ethics or different human nature. It simply requires that the price system tell the truth, so self-interest and profit-seeking are aligned with collective well-being. **Markets are powerful engines. Let's give them the right fuel.**
 
-## Explore the Framework
-
-- **[[Ideas/TrueCostAccounting/01_problem_statement|Problem Statement]]**: Detailed analysis of externalities and hidden costs
-- **[[Ideas/TrueCostAccounting/02_proposed_solution|Proposed Solution]]**: Complete technical framework and mechanisms
-- **[[Ideas/TrueCostAccounting/03_related_work|Related Work]]**: How TCA extends existing approaches (TPF, LCA, ESG, carbon taxes)
-- **[[Ideas/TrueCostAccounting/04_calculating_externalities|Calculating Externalities]]**: Indicators, monetization factors, worked examples
-- **[[Ideas/TrueCostAccounting/05_data_sources|Data Sources]]**: Databases, verification tiers, quality standards
-- **[[Ideas/TrueCostAccounting/06_demo|Demo]]**: Experimental implementation setup with real products
-
 ---
 
 **Parent:** [[Ideas/index|Ideas]]

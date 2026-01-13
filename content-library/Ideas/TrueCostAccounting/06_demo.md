@@ -1,5 +1,5 @@
 ---
-title: "06. Demo: TCA Implementation Experiment"
+title: "06. Demo: TCA Implementation"
 date: "2026-01-12"
 tags:
   - tca
@@ -7,7 +7,7 @@ tags:
   - sustainability
 ---
 
-# Demo: TCA Implementation Experiment
+# Demo: TCA Implementation
 
 This page outlines a demonstration implementation of True Cost Accounting using real-world food products to test the framework's ability to:
 
@@ -287,4 +287,5 @@ Top contributors:
 ---
 
 **Previous:** [[Ideas/TrueCostAccounting/05_data_sources|Data Sources]]  
+**Next:** [[Ideas/TrueCostAccounting/07_critiques|Critiques]]  
 **Parent:** [[Ideas/TrueCostAccounting/index|TCA]]
