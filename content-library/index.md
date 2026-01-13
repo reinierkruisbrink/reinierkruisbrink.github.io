@@ -3,7 +3,7 @@ title: Digital Library
 date: "2026-01-01"
 ---
 
-# Welcome to Digital Library
+# Digital Library
 
 A curated collection of [[Books/index|books]] and [[Ideas/index|Ideas]] exploring ideas across disciplines, annotated with key concepts, mechanisms, and connections.
 

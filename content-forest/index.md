@@ -3,7 +3,7 @@ title: Digital Forest
 date: "2026-01-01"
 ---
 
-# Welcome to Digital Forest
+# Digital Forest
 
 A botanical and mycological database cataloging [[Plantae/index|plant]] and [[Fungi/index|fungi]] species, their characteristics, habitats, and interactions.
 
