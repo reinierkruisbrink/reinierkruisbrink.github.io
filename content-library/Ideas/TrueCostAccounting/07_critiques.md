@@ -35,11 +35,15 @@ The "Calculating Externalities" page provides specific numbers for human rights 
 
 **The Critique:** By assigning a specific Euro value to human rights violations, the system risks turning "atrocity" into a "business expense". If a highly profitable product (like a rare-earth mineral) generates enough margin, a company could theoretically "pay the fine" and continue the practice. This shifts the issue from a moral/legal absolute to a market optimization problem. Is it ethical to have a "market price" for child labor? Critics argue that some wrongs cannot and should not be reduced to monetary values—they require categorical prohibition, not cost internalization. By making human suffering "priced in," we may normalize what should remain unacceptable.
 
+**The Defense:** Because the norm of the cost vector squares the components, an atrocity will be priced as an atrocity squared, which is unlikely to be still profitable. So, it does not resolve the issue but rather make it significantly less likely to occur. Furthermore, because of the transparency of the atrocity's cost component, the paid taxes will (partially) go to remediation alleviating the problem (while not completely preventing it).
+
 ### The Commodification of Nature
 
 Some critics of TCA argue that by putting a price tag on the environment through Natural Capital accounting, we are further embedding ourselves in the logic of the market that caused the problem in the first place.
 
 **The Critique:** Treating a forest as a "service provider" or a "capital asset" reduces its intrinsic value to its utility for humans. This anthropocentric framing might encourage "trading off" one ecosystem for another if the math seems to work out—destroying a wetland here might be justified by creating a park there if the "natural capital balance" remains positive. This commodification mindset may blind us to the inherent worth of nature independent of human use, and could lead to perverse outcomes where we rationalize ecological destruction through clever accounting. Some environmental philosophers argue that nature has value beyond what can be captured in economic models, and that attempting to price it undermines more fundamental ethical obligations to the non-human world.
+
+**The Defense:** We could argue that we have been "protecting the intrinsic value" of the Amazon for 50 years with poetry and protests, and we are still losing it. Valuation is not the same as Commodification. You can value a forest at €10 billion to prevent it from being cut down, without ever intending to sell it on an exchange, even though it seems to open the door for selling it.
 
 ---
 
