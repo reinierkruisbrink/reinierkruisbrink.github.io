@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Er is leven na de groei by Paul Schenderling argues for a post-growth society in The Netherlands, challenging the relentless pursuit of economic expansion as the sole measure of progress and well-being."
 tags:
   - "society"
+  - "sustainability"
+  - "economics"
 ---
 
 # Er is leven na de groei

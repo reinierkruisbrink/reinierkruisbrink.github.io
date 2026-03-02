@@ -11,11 +11,10 @@ date: "2025-08-01"
 my_rating: 8
 synopsis: "An exploration of plants' hidden intelligence, communication, and sensory abilities that challenges our understanding of passive organisms."
 tags:
-  - biology
-  - plant-intelligence
-  - nature
-  - empirical
-  - ecology
+  - "biology"
+  - "botany"
+  - "ecology"
+  - "intelligence"
 ---
 
 # The Light Eaters: How the Unseen World of Plant Intelligence Offers a New Understanding of Life on Earth

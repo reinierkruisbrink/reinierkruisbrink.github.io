@@ -12,7 +12,9 @@ my_rating: 10
 synopsis: "In The Song of the Cell, Pulitzer Prize-winning author Siddhartha Mukherjee delves into the fascinating world of cellular biology and its impact on human health."
 tags:
   - "biology"
-  - "history"
+  - "molecular-biology"
+  - "science-history"
+  - "physiology"
 ---
 
 # The Song of the Cell: An Exploration of Medicine and the New Human

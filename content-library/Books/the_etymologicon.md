@@ -12,6 +12,7 @@ my_rating: 8
 synopsis: "In The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language, Mark Forsyth takes you on a captivating journey of etymology - the study of words' origins and how their meanings evolve.  It's not a dry dictionary, but a witty and engaging journey through the fascinating world of words. Even if not all of the stories are proven, they're entertaining and thought-provoking."
 tags:
   - "linguistics"
+  - "history"
 ---
 
 # The Etymologicon: A Circular Stroll through the Hidden Connections of the English Language

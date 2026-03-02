@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "A Brief History of Earth by Andrew Knoll is an interesting retelling of our planet's 4.6 billion-year history. Knoll takes readers on a journey through time, from the Earth's fiery birth to the rise of complex life and the Anthropocene era."
 tags:
   - "environmental-science"
+  - "geology"
+  - "evolution"
+  - "science-history"
 ---
 
 # A Brief History of Earth: Four Billion Years in Eight Chapters

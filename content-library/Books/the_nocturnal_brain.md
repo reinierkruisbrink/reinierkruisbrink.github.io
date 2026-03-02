@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The Nocturnal Brain by Guy Leschziner explores the often-bizarre and sometimes frightening world of sleep disorders. As a leading neurologist specializing in sleep medicine, Leschziner uses compelling case studies from his own practice to illuminate the complex neurological processes that govern our nights and what happens when they go awry."
 tags:
   - "neuroscience"
+  - "sleep"
+  - "physiology"
 ---
 
 # The Nocturnal Brain: Nightmares, Neuroscience, and the Secret World of Sleep

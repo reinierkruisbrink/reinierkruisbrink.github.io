@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "Lieberman meticulously traces the evolutionary journey of the human body, highlighting key adaptations like bipedalism, changes in diet and brain size, and fat storage. He then contrasts this deep history with the relatively recent and dramatic shifts brought about by cultural evolution, particularly agriculture and industrialization."
 tags:
   - "biology"
+  - "evolution"
+  - "physiology"
+  - "health"
 ---
 
 # The Story of the Human Body: Evolution, Health, and Disease

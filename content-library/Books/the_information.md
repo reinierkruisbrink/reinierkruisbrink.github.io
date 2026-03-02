@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "In James Gleick's The Information, information itself takes center stage. It's not just about data or facts; it's a fundamental concept that has shaped human history, our way of thinking, and even the technologies we use today."
 tags:
   - "mathematics"
+  - "information-theory"
+  - "science-history"
+  - "technology"
 ---
 
 # The Information: A History, a Theory, a Flood

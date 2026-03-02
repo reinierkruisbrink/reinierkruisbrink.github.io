@@ -11,8 +11,10 @@ date: "2022-01-01"
 my_rating: 8
 synopsis: "In The Secret Network of Nature, forester and author Peter Wohlleben sheds light on the intricate web of connections that sustains our natural world. It's a fascinating departure from the traditional view of ecosystems as independent entities."
 tags:
-  - "biology"
   - "environmental-science"
+  - "ecology"
+  - "systems-thinking"
+  - "network-science"
 ---
 
 # The Secret Network of Nature: The Delicate Balance of All Living Things

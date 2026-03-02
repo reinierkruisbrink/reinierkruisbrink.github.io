@@ -12,7 +12,9 @@ my_rating: 10
 synopsis: "Mukherjee traces the scientific journey of unraveling the mysteries of genes, from Gregor Mendel's pioneering pea plant experiments to the discovery of the double helix structure of DNA by Watson and Crick."
 tags:
   - "biology"
-  - "history"
+  - "genetics"
+  - "science-history"
+  - "evolution"
 ---
 
 # The Gene: An Intimate History

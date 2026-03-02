@@ -12,6 +12,8 @@ my_rating: 10
 synopsis: "In Feeling & Knowing: Making Minds Conscious, Antonio Damasio presents a compelling argument for consciousness as an evolved biological phenomenon, not a sudden emergence. He meticulously traces its origins, highlighting feelings as crucial precursors to consciousness."
 tags:
   - "neuroscience"
+  - "consciousness"
+  - "evolution"
 ---
 
 # Feeling & Knowing: Making Minds Conscious

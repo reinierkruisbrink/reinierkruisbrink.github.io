@@ -12,6 +12,8 @@ my_rating: 10
 synopsis: "The Odyssey, Homer's epic poem following Odysseus's journey home after the Trojan War, is a cornerstone of Greek literature. The Odyssey picks up the story after the events of the Iliad, assuming the reader has some familiarity with the Trojan War. Odysseus himself is a master storyteller, using his wit to weave tales and escape danger. The poem is a blend of adventure, myth, and human drama, exploring themes of homecoming, loyalty, and the power of storytelling."
 tags:
   - "classics"
+  - "fiction"
+  - "mythology"
 ---
 
 # The Odyssey

@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In De Tech Coup, Marietje Schaake, a former Member of European Parliament and current Stanford policy expert, critically examines the increasing power and influence of major tech companies and how their largely unregulated dominance poses significant risks to democracy, privacy, and societal well-being."
 tags:
   - "society"
+  - "technology"
+  - "economics"
 ---
 
 # De Tech Coup: How to Save Democracy from Silicon Valley

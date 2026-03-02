@@ -13,6 +13,7 @@ synopsis: "Clearing the Air by Tim Smedley is a comprehensive and urgent explora
 tags:
   - "environmental-science"
   - "society"
+  - "health"
 ---
 
 # Clearing the Air: The Beginning and the End of Air Pollution

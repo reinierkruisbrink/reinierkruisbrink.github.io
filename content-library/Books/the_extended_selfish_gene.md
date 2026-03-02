@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The Extended Selfish Gene by Richard Dawkins is a follow-up to his highly influential book, The Selfish Gene. Dawkins expands on his original view that genes, not individual organisms, are the fundamental unit of natural selection."
 tags:
   - "biology"
+  - "evolution"
+  - "genetics"
 ---
 
 # The Extended Selfish Gene

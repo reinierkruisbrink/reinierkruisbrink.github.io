@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "Florapedia is an illustrated compendium that celebrates the diversity and wonder of the plant world. The book features nearly 100 entries on a wide range of topics, from plant ecology and conservation to the role of plants in art, literature, and human culture."
 tags:
   - "biology"
+  - "botany"
+  - "ecology"
+  - "conservation"
 ---
 
 # Florapedia: A Brief Compendium of Floral Lore

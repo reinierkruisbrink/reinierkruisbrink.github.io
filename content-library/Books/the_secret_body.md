@@ -12,6 +12,9 @@ my_rating: 6
 synopsis: "The Secret Body is an exploration of recent breakthroughs in human biology that are revolutionizing our understanding of ourselves. Davis dives into six key areas: advancements in microscopy, fetal development, the immune system, the brain, the microbiome, and the genome."
 tags:
   - "biology"
+  - "molecular-biology"
+  - "immunology"
+  - "physiology"
 ---
 
 # The Secret Body: How the New Science of the Human Body Is Changing the Way We Live

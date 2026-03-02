@@ -12,7 +12,9 @@ my_rating: 10
 synopsis: "In An Immense World, Ed Yong takes us on an absolutely fascinating and mind-bending journey to explore the world through the senses of various animals. Thick and information dense but written in a way that is easy to understand, this book is a must-read for anyone interested in the natural world and the creatures that inhabit it."
 tags:
   - "biology"
-  - "environmental-science"
+  - "perception"
+  - "zoology"
+  - "ecology"
 ---
 
 # An Immense World: How Animal Senses Reveal the Hidden Realms Around Us

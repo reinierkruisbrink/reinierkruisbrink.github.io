@@ -12,6 +12,9 @@ my_rating: 6
 synopsis: "The Blue Machine by Helen Czerksi is a story of the world's oceans, often referred to as the blue machine due to their complex and interconnected systems. The book delves into the intricate workings of the oceans, as well as our connection to the ocean and the effects of human activity."
 tags:
   - "environmental-science"
+  - "hydrology"
+  - "ecology"
+  - "meteorology"
 ---
 
 # The Blue Machine: How the Ocean Works

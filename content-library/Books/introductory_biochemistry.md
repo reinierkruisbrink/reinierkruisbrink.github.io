@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Introductory Biochemistry by Kevin Ahern is an open-access textbook that provides a comprehensive overview of essential biochemistry concepts."
 tags:
   - "biology"
+  - "molecular-biology"
+  - "metabolism"
 ---
 
 # Introductory Biochemistry

@@ -12,6 +12,10 @@ my_rating: 8
 synopsis: "Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamental to the universe and to our best models of it, moving beyond the classical ideal of perfect predictability. The book explores this concept across physics, climate, economics, and philosophy, advocating for methods that embrace and quantify doubt."
 tags:
   - "mathematics"
+  - "physics"
+  - "probability"
+  - "complexity"
+  - "meteorology"
 ---
 
 # The Primacy of Doubt: From Quantum Physics to Climate Change, How the Science of Uncertainty Can Help Us Understand Our Chaotic World

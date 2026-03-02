@@ -12,7 +12,8 @@ my_rating: 10
 synopsis: "In Stephen Fry's witty and engaging book, Troy, he takes you on a thrilling journey through the legendary Trojan War. Unlike other retellings that focus solely on the Iliad's timeframe, Fry offers a more comprehensive view."
 tags:
   - "classics"
-  - "history"
+  - "fiction"
+  - "mythology"
 ---
 
 # Troy

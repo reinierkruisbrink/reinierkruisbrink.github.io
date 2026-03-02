@@ -11,11 +11,11 @@ date: "2026-01-01"
 my_rating: 8
 synopsis: "Good Nature explores the research and benefits of nature exposure on human health, focusing on the physiological and psychological mechanisms that link natural environments to well-being, and how these can be applied in practice."
 tags:
-  - biology
-  - health
-  - nature
-  - mechanisms
-  - empirical
+  - "biology"
+  - "ecology"
+  - "health"
+  - "perception"
+  - "physiology"
 ---
 
 # Good Nature: The New Science of How Nature Improves Our Health

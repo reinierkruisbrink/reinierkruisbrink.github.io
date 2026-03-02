@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "In Being You, neuroscientist Anil Seth takes you on a journey to understand the essence of consciousness and the self. He challenges traditional views and proposes a new theory based on the idea of our brains as predictive machines."
 tags:
   - "neuroscience"
+  - "consciousness"
+  - "predictive-processing"
+  - "perception"
 ---
 
 # Being You: A New Science of Consciousness

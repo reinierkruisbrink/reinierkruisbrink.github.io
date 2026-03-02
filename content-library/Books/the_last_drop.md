@@ -13,6 +13,8 @@ synopsis: "The Last Drop by Tim Smedley explores the global water crisis, arguin
 tags:
   - "environmental-science"
   - "society"
+  - "hydrology"
+  - "sustainability"
 ---
 
 # The Last Drop: Solving the World's Water Crisis

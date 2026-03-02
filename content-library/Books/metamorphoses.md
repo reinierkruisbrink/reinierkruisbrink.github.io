@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Ovid's Metamorphoses is a sprawling epic poem that recounts a series of mythological transformations. From the creation of the universe to the transformation of humans into animals and objects, the poem explores the vast tapestry of Greek and Roman mythology."
 tags:
   - "classics"
+  - "fiction"
+  - "mythology"
 ---
 
 # Metamorphoses

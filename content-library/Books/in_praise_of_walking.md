@@ -11,7 +11,9 @@ date: "2025-01-01"
 my_rating: 6
 synopsis: "In Praise of Walking by Shane O'Mara celebrates the impact of walking on our physical and mental well-being, arguing that it's not just a means of locomotion, but a fundamental aspect of being human."
 tags:
-  - "biology"
+  - "neuroscience"
+  - "physiology"
+  - "health"
 ---
 
 # In Praise of Walking: A New Scientific Exploration

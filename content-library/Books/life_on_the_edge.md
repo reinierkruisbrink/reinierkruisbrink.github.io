@@ -12,6 +12,9 @@ my_rating: 6
 synopsis: "The Coming of Age of Quantum Biology by Johnjoe McFadden and Jim Al-Khalili isn't about pushing yourself to the limit, but rather exploring the surprising role of quantum mechanics in biological processes."
 tags:
   - "biology"
+  - "physics"
+  - "quantum-mechanics"
+  - "molecular-biology"
 ---
 
 # Life on the Edge: The Coming of Age of Quantum Biology

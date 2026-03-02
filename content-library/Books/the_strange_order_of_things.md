@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "The Strange Order of Things by Antonio Damasio proposes a radical rethinking of consciousness, arguing that feelings are the foundational layer upon which minds, consciousness, and culture are built."
 tags:
   - "neuroscience"
+  - "philosophy"
+  - "consciousness"
+  - "evolution"
 ---
 
 # The Strange Order of Things: Life, Feeling, and the Making of Cultures

@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "Sheldrake argues that fungi are vastly underestimated. Often overlooked, they play a critical role in Earth's ecosystems, from decomposition and nutrient cycling to forming symbiotic relationships with plants (like the mycorrhizal network nicknamed the Wood Wide Web)."
 tags:
   - "biology"
+  - "mycology"
+  - "ecology"
+  - "network-science"
 ---
 
 # Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures

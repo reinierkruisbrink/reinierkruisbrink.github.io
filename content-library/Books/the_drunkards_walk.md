@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In The Drunkard's Walk: How Randomness Rules Our Lives Mlodinow argues that we fundamentally underestimate the role of chance in daily events, mistakenly attributing random outcomes to skill, intention, or deeper causality."
 tags:
   - "mathematics"
+  - "probability"
+  - "cognitive-science"
 ---
 
 # The Drunkard's Walk: How Randomness Rules Our Lives

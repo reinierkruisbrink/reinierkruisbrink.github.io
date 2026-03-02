@@ -13,6 +13,7 @@ synopsis: "In Kruiden, Kokkels en Kippen, Dutch scientist and author Louise Fres
 tags:
   - "history"
   - "biology"
+  - "science-history"
 ---
 
 # Kruiden, Kokkels, en Kippen

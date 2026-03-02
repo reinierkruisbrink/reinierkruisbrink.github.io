@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In A Leg to Stand On, Oliver Sacks, the renowned neurologist, sheds his usual white coat and becomes the patient. The book chronicles his experience recovering from a severe leg injury sustained in a mountaineering accident."
 tags:
   - "neuroscience"
+  - "consciousness"
+  - "physiology"
 ---
 
 # A Leg to Stand On

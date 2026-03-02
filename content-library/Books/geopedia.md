@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Geopedia by Marcia Bjornerud is a fascinating account on the geological terms and concepts that shape our understanding of the Earth. It's a captivating journey through the lexicon of geology, from ancient Greek words to modern scientific terms."
 tags:
   - "environmental-science"
+  - "geology"
+  - "science-history"
 ---
 
 # Geopedia: A Brief Compendium of Geologic Curiosities

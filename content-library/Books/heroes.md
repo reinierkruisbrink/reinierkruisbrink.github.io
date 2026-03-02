@@ -12,7 +12,8 @@ my_rating: 10
 synopsis: "In Stephen Fry's entertaining book, Heroes, he takes you on a delightful romp through the world of Greek mythology, focusing this time on the legendary heroes rather than the gods themselves."
 tags:
   - "classics"
-  - "history"
+  - "fiction"
+  - "mythology"
 ---
 
 # Heroes: Mortals and Monsters, Quests and Adventures

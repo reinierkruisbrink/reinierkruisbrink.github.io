@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The book is not so much an engaging deep dive into how Bayesian probability works, but rather advocating for its power as a framework for understanding not just statistics, but human reasoning, psychology, and even the functioning of the brain."
 tags:
   - "mathematics"
+  - "probability"
+  - "cognitive-science"
 ---
 
 # Everything Is Predictable: How Bayesian Statistics Explain Our World

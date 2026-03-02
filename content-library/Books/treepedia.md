@@ -12,6 +12,9 @@ my_rating: 6
 synopsis: "In Treepedia: A Brief Compendium of Arboreal Lore, Joan Maloof celebrates all things tree-related. This informative and entertaining book takes readers on a journey through the fascinating world of trees."
 tags:
   - "biology"
+  - "botany"
+  - "ecology"
+  - "conservation"
 ---
 
 # Treepedia: A Brief Compendium of Arboreal Lore

@@ -1,5 +1,5 @@
 ---
-title: "El alquimista"
+title: "El Alquimista"
 subtitle: ""
 author: "Paulo Coelho"
 author_url: "https://www.goodreads.com/author/show/566.Paulo_Coelho"
@@ -13,9 +13,10 @@ synopsis: "The Alchemist by Paulo Coelho (I read it in Spanish) is a philosophic
 tags:
   - "fiction"
   - "philosophy"
+  - "spirituality"
 ---
 
-# El alquimista
+# El Alquimista
 
 ## Overview
 

@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "In Transformer: The Deep Chemistry of Life and Death, Nick Lane challenges traditional views on life by placing the spotlight on a fundamental biochemical process: the Krebs cycle / citric acid cycle."
 tags:
   - "biology"
+  - "molecular-biology"
+  - "evolution"
+  - "metabolism"
 ---
 
 # Transformer: The Deep Chemistry of Life and Death

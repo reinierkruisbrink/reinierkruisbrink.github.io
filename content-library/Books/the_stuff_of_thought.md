@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In The Stuff of Thought: Language As a Window Into Human Nature, Steven Pinker dives into the fascinating world of language and how it reflects our thoughts. The book explores the concept of mentalese, a hypothetical mental language underlying all human languages."
 tags:
   - "linguistics"
+  - "philosophy"
+  - "cognitive-science"
 ---
 
 # The Stuff of Thought: Language as a Window into Human Nature

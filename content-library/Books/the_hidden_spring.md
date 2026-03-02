@@ -12,6 +12,8 @@ my_rating: 10
 synopsis: "In The Hidden Spring, Mark Solms, a neuropsychologist, ventures on a quest to understand the origin of consciousness. In my opinion, this book is an extension/combination of the work of Damasio and Seth/Friston."
 tags:
   - "neuroscience"
+  - "consciousness"
+  - "predictive-processing"
 ---
 
 # The Hidden Spring: A Journey to the Source of Consciousness

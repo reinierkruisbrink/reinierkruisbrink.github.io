@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "Chasing the Sun by Linda Geddes explores the impact of sunlight on human health and well-being, delving into the science behind its effects and the consequences of our increasingly indoor lifestyles."
 tags:
   - "biology"
+  - "physiology"
+  - "health"
+  - "sleep"
 ---
 
 # Chasing the Sun: The New Science of Sunlight and How it Shapes Our Bodies and Minds

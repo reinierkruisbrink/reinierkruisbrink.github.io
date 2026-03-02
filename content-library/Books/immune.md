@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Immune by Philip Dettmer is a beautiful introduction to the human immune system, its functions, and its impact on our health. Dettmer delves into the complex world of immunology, breaking down concepts in an accessible manner for readers of all backgrounds."
 tags:
   - "biology"
+  - "immunology"
+  - "physiology"
 ---
 
 # Immune: A Journey into the Mysterious System that Keeps You Alive

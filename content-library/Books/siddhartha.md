@@ -13,6 +13,7 @@ synopsis: "Siddhartha by Herman Hesse (I read it in German) is a timeless novel 
 tags:
   - "fiction"
   - "philosophy"
+  - "spirituality"
 ---
 
 # Siddhartha

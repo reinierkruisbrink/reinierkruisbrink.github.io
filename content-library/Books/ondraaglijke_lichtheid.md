@@ -13,6 +13,7 @@ synopsis: "Ondraaglijke Lichtheid (Unbearable Lightness) by Ilja Leonard Pfeijff
 tags:
   - "philosophy"
   - "society"
+  - "linguistics"
 ---
 
 # Ondraaglijke Lichtheid

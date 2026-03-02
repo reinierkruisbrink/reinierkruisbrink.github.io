@@ -13,6 +13,8 @@ synopsis: "In Jared Diamond's thought-provoking book, Guns, Germs, and Steel, he
 tags:
   - "history"
   - "society"
+  - "evolution"
+  - "ecology"
 ---
 
 # Guns, Germs, and Steel: The Fates of Human Societies

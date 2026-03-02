@@ -13,6 +13,10 @@ synopsis: "Peter Godfrey-Smith dives into the intriguing world of cephalopod int
 tags:
   - "biology"
   - "philosophy"
+  - "zoology"
+  - "consciousness"
+  - "intelligence"
+  - "evolution"
 ---
 
 # Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness

@@ -13,6 +13,8 @@ synopsis: "Active Inference: The Free Energy Principle in Mind, Brain, and Behav
 tags:
   - "neuroscience"
   - "mathematics"
+  - "predictive-processing"
+  - "intelligence"
 ---
 
 # Active Inference: The Free Energy Principle in Mind, Brain, and Behavior

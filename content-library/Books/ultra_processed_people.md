@@ -11,8 +11,10 @@ date: "2025-01-01"
 my_rating: 10
 synopsis: "Chris van Tulleken's Ultra-Processed People explores the profound impact of ultra-processed foods (UPFs) on human health, society, and the food industry. He argues that UPFs—industrially formulated products high in additives, emulsifiers, and preservatives, and low in fibers and the natural food-matrix, —are not just unhealthy but are actively reshaping our biology, behavior, and culture. The book examines how these foods affect our bodies at a molecular level while also exposing the corporate forces driving their dominance in global diets."
 tags:
-  - "biology"
   - "society"
+  - "health"
+  - "nutrition"
+  - "metabolism"
 ---
 
 # Ultra-Processed People: The Science Behind Food That Isn't Food

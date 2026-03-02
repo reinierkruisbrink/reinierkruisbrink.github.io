@@ -11,8 +11,10 @@ date: "2025-01-01"
 my_rating: 8
 synopsis: "Richard Black's The Future of Energy presents a concise and optimistic roadmap for transitioning to a clean energy future. Drawing on his experience as a former BBC environment correspondent and director at the clean energy think tank Ember, Black argues that the world can nearly eliminate fossil fuel use without compromising modern lifestyles."
 tags:
-  - "energy"
   - "society"
+  - "sustainability"
+  - "technology"
+  - "economics"
 ---
 
 # The Future of Energy

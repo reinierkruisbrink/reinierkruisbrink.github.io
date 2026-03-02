@@ -12,6 +12,7 @@ my_rating: 8
 synopsis: "The Secret World of Weather by Tristan Gooley is a fascinating blend of the science and art of weather forecasting. Gooley delves into the intricacies of meteorology, providing readers with a deeper understanding of the forces that shape our climate."
 tags:
   - "environmental-science"
+  - "meteorology"
 ---
 
 # The Secret World of Weather

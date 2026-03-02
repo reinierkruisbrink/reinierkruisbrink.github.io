@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The Aeneid by Virgil is an epic poem that follows Aeneas, a Trojan warrior, after the fall of Troy. Heavily inspired by the Oddyssey by Homer, this Roman version of Greece art is slightly altered in such a way to account for Rome's glory."
 tags:
   - "classics"
+  - "fiction"
+  - "mythology"
 ---
 
 # The Aeneid

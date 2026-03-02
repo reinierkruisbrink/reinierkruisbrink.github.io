@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "Neuropedia serves as an informative and entertaining guide to the many wonders of the brain, providing readers with a deeper appreciation of the complexities and marvels of the human nervous system."
 tags:
   - "neuroscience"
+  - "cognitive-science"
+  - "physiology"
 ---
 
 # Neuropedia: A Brief Compendium of Brain Phenomena

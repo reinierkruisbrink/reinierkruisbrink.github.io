@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "Ed Yong's I Contain Multitudes dives into the fascinating world of microbes living within us. From bacteria that help us digest food to viruses that shape our immune system, these tiny organisms play a far bigger role than just causing sickness."
 tags:
   - "biology"
+  - "microbiology"
+  - "ecology"
+  - "evolution"
 ---
 
 # I Contain Multitudes: The Microbes Within Us and a Grander View of Life

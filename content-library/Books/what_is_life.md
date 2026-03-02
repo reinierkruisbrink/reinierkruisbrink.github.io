@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "In What is Life?, Nobel laureate Paul Nurse tackles the fundamental question of what defines life. The book isn't a rigid scientific treatise, but rather a journey of discovery through five key biological concepts:"
 tags:
   - "biology"
+  - "molecular-biology"
+  - "evolution"
+  - "genetics"
 ---
 
 # What is Life? Five Great Ideas in Biology

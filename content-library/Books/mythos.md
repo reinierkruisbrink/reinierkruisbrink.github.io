@@ -12,7 +12,8 @@ my_rating: 10
 synopsis: "In Stephen Fry's Mythos, you're in for a treat - a witty and engaging retelling of Greek myths. Forget dry, textbook versions, Fry breathes new life into these classic stories with his signature humor and insightful commentary."
 tags:
   - "classics"
-  - "history"
+  - "fiction"
+  - "mythology"
 ---
 
 # Mythos: The Greek Myths Retold

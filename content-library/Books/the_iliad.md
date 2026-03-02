@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The Iliad, by Homer, is an epic poem considered one of the foundational works of Western literature. It doesn't tell the entire prelude, story, and aftermath of the Trojan War (which is a lot; see Troy by Stephen Fry for more), but focuses solely on a crucial two-week period (!) near the end of the ten-year conflict. Still, a lot of the events are covered through flashbacks and dialogues."
 tags:
   - "classics"
+  - "fiction"
+  - "mythology"
 ---
 
 # The Iliad

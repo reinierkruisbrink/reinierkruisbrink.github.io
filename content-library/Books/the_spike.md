@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "The Spike by Mark Humphries takes a deep dive into the fundamental unit of communication in the brain: the electrical spike."
 tags:
   - "neuroscience"
+  - "cognitive-science"
+  - "predictive-processing"
 ---
 
 # The Spike: An Epic Journey Through the Brain in 2.1 Seconds

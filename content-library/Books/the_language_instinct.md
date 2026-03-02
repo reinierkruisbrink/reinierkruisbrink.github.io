@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In The Language Instinct: How the Mind Creates Language, Steven Pinker argues that humans are born with a natural predisposition for language, not just a learned ability."
 tags:
   - "linguistics"
+  - "cognitive-science"
+  - "evolution"
 ---
 
 # The Language Instinct: How the Mind Creates Language

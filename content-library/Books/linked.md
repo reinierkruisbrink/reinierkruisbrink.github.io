@@ -12,6 +12,8 @@ my_rating: 6
 synopsis: "Linked is a foundational work in network science by Albert-László Barabási, originally published in 2002. While the field has advanced significantly since its publication, making some of its discussions quite out of date, the book remains an interesting look into the history and early development of the internet and modern network theory."
 tags:
   - "mathematics"
+  - "network-science"
+  - "complexity"
 ---
 
 # Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life

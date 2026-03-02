@@ -13,6 +13,7 @@ synopsis: "In Papyrus, Irene Vallejo tells the captivating story of how books, a
 tags:
   - "history"
   - "linguistics"
+  - "science-history"
 ---
 
 # Papyrus: The Invention of Books in the Ancient World

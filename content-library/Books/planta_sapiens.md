@@ -11,11 +11,11 @@ date: "2023-06-01"
 my_rating: 8
 synopsis: "Plants possess complex behaviors and abilities that rival those of animals, challenging the traditional view of plants as passive organisms through the lens of predictive processing theory."
 tags:
-  - biology
-  - cognition
-  - plant-intelligence
-  - theoretical
-  - interdisciplinary
+  - "biology"
+  - "botany"
+  - "intelligence"
+  - "predictive-processing"
+  - "ecology"
 ---
 
 # Planta Sapiens: The New Science of Plant Intelligence

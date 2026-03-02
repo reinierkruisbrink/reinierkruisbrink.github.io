@@ -11,8 +11,10 @@ date: "2023-01-01"
 my_rating: 8
 synopsis: "The Invention of Nature: Alexander von Humboldt's New World by Andrea Wulf is a biography of Prussian naturalist and explorer Alexander von Humboldt (1769-1859). The book explores how Humboldt's travels and writings greatly influenced the way we understand the natural world today."
 tags:
-  - "history"
   - "environmental-science"
+  - "history"
+  - "science-history"
+  - "ecology"
 ---
 
 # The Invention of Nature: Alexander von Humboldt's New World

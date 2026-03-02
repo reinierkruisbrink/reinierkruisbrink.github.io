@@ -12,6 +12,8 @@ my_rating: 10
 synopsis: "In Looking for Spinoza, neuroscientist Antonio Damasio embarks on a unique quest: to bridge the gap between science and philosophy in understanding human emotions. He finds an unlikely partner in the 17th-century philosopher Baruch Spinoza, whose ideas surprisingly align with Damasio's own research on the role of the feeling brain."
 tags:
   - "neuroscience"
+  - "philosophy"
+  - "consciousness"
 ---
 
 # Looking for Spinoza: Joy, Sorrow, and the Feeling Brain

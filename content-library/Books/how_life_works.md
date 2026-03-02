@@ -12,6 +12,9 @@ my_rating: 10
 synopsis: "How Life Works by Philip Ball is an incredibly interesting book of the principles and mechanisms underlying the complexity of living systems by moving past the it's all genetics mindset. Ball emphasizes the dynamic and interconnected nature of life, showing how molecular mechanisms, cellular interactions, and larger-scale patterns work together to create the diversity and functionality of living systems. The book blends biology, physics, and systems theory to explain life as a dynamic and emergent phenomenon."
 tags:
   - "biology"
+  - "molecular-biology"
+  - "genetics"
+  - "complexity"
 ---
 
 # How Life Works: A User’s Guide to the New Biology

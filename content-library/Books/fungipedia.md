@@ -12,6 +12,8 @@ my_rating: 6
 synopsis: "Fungipedia: A Brief Compendium of Mushroom Lore is a quirky and informative account of the world of fungi. It delves into various aspects of mushrooms, from their surprising connection to humans to their fascinating biology and cultural significance."
 tags:
   - "biology"
+  - "mycology"
+  - "ecology"
 ---
 
 # Fungipedia: A Brief Compendium of Mushroom Lore

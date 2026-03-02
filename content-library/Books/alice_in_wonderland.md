@@ -13,6 +13,7 @@ synopsis: "Lewis Carroll's famous works,  Alice's Adventures in Wonderland and T
 tags:
   - "fiction"
   - "linguistics"
+  - "philosophy"
 ---
 
 # Alice's Adventures in Wonderland & Through the Looking-Glass

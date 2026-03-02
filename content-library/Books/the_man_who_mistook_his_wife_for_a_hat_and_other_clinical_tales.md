@@ -12,6 +12,8 @@ my_rating: 8
 synopsis: "In The Man Who Mistook His Wife for a Hat, Oliver Sacks, a renowned neurologist, presents a collection of case studies exploring various neurological disorders.  The title itself comes from the story of Dr. P., a patient with a condition called visual agnosia."
 tags:
   - "neuroscience"
+  - "consciousness"
+  - "physiology"
 ---
 
 # The Man Who Mistook His Wife for a Hat and Other Clinical Tales

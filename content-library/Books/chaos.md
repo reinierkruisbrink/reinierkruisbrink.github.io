@@ -12,6 +12,9 @@ my_rating: 8
 synopsis: "In James Gleick's Chaos: Making a New Science, we delve into the fascinating world of chaos theory. It's not about randomness, but rather the surprising order hidden within seemingly unpredictable systems."
 tags:
   - "mathematics"
+  - "physics"
+  - "complexity"
+  - "science-history"
 ---
 
 # Chaos: Making a New Science

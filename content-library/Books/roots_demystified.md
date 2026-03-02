@@ -8,14 +8,13 @@ published_date: "[YYYY]"
 cover_image_url: "[Cover Image URL]"
 read_date: "[YYYY]"
 date: "[YYYY-MM-DD]"
-my_rating: [1-10]
+my_rating: 8
 synopsis: "[One-line tagline or thesis statement]"
 tags:
-  - "[tag-1]"
-  - "[tag-2]"
-  - "[tag-3]"
-  - "[tag-4]"
-  - "[tag-5]"
+  - "biology"
+  - "botany"
+  - "agriculture"
+  - "ecology"
 ---
 
 # [Book Title]

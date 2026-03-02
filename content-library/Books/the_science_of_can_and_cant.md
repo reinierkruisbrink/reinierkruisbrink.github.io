@@ -11,7 +11,9 @@ date: "2022-01-01"
 my_rating: 4
 synopsis: "In The Science of Can and Can't, physicist Chiara Marletto proposes a radical new way to look at the universe: through the lens of counterfactuals."
 tags:
+  - "physics"
   - "mathematics"
+  - "information-theory"
 ---
 
 # The Science of Can and Can't: A Physicist's Journey Through the Land of Counterfactuals
