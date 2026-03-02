@@ -20,25 +20,25 @@ tags:
 
 ## Overview
 
-In "De Tech Coup," Marietje Schaake, a former Member of European Parliament and current Stanford policy expert, critically examines the increasing power and influence of major tech companies and how their largely unregulated dominance poses significant risks to democracy, privacy, and societal well-being.
+Marietje Schaake, former Member of European Parliament and Stanford cyber-policy fellow, argues that the world's largest technology companies have accumulated power that rivals and in some domains exceeds that of nation-states — controlling critical infrastructure, shaping public discourse, conducting surveillance, and operating across borders with minimal democratic oversight. The book examines how this concentration of power emerged, why existing regulatory frameworks have failed to contain it, and what governance structures would be needed to realign technology with democratic values. Schaake draws on her legislative experience with the EU's digital regulation efforts to propose concrete policy interventions.
 
 ## Key Concepts
-### Power, Promise, and Risk
 
-- **Concentration of Influence**: Tech firms wield economic, informational, and infrastructural power that can outstrip governmental oversight.
-  - **Consequence**: Shaping public discourse, privacy norms, and market structures without democratic accountability.
+### The Accumulation of Tech Power
+- **Platform monopolies** — network effects, data advantages, and acquisition strategies have enabled a handful of companies (Google, Meta, Amazon, Apple, Microsoft) to dominate markets in search, social media, cloud computing, and mobile ecosystems, creating chokepoints with few competitive alternatives
+- **Infrastructural power** — tech firms now operate critical infrastructure (cloud servers hosting government data, submarine cables, payment systems, app stores) that gives them leverage over governments, businesses, and individuals who depend on their services
+- **Informational asymmetry** — platforms possess vastly more data about citizens than governments do, enabling microtargeted advertising, behavioural prediction, and content curation at a scale that reshapes public opinion without transparency
 
-### Promises versus Realities
+### Threats to Democracy
+- **Algorithmic amplification** — engagement-optimised recommendation algorithms systematically amplify emotionally charged, divisive, and sensational content because it generates more clicks, undermining informed public discourse and polarising electorates
+- **Surveillance capitalism** — the core business model of many platforms — extracting behavioural data to sell prediction products to advertisers — creates pervasive surveillance infrastructure that can be repurposed by authoritarian governments or exploited in data breaches
+- **Private governance of speech** — content moderation decisions (what speech is permitted, what is removed, who is banned) are made by corporate employees using opaque rules, with no democratic mandate, judicial review, or meaningful appeal process
 
-- **Initial Promise**: Openness, decentralization, and rapid innovation expanded access and capabilities.
-- **Reality Check**: Centralization of knowledge, platform incentives that reward engagement over civic goods, and surveillance-enabled business models.
-
-### Regulation and Governance
-
-- **Need for Rules**: Calls for rigorous standards, independent oversight, and international coordination to align technology with public interest.
-  - **Approaches**: Data governance, antitrust measures, transparency mandates, and safety testing frameworks.
-
-Schaake frames these dynamics as a civic challenge: preserve the benefits of technology while designing institutions and rules that prevent unchecked corporate dominance.
+### Regulatory Failures and Proposals
+- **The EU as regulatory pioneer** — Schaake discusses the GDPR, Digital Services Act, Digital Markets Act, and AI Act as attempts to impose democratic governance on tech, noting both their ambitions and their implementation challenges
+- **Antitrust and interoperability** — breaking up monopolies or mandating interoperability (allowing users to switch platforms without losing data or connections) would reduce lock-in and restore competitive dynamics
+- **Transparency and accountability** — mandatory algorithmic audits, researcher access to platform data, and independent oversight bodies would make corporate decision-making visible and contestable
+- **International coordination** — because tech companies operate globally, national regulation alone is insufficient; Schaake advocates for transatlantic and multilateral frameworks to prevent regulatory arbitrage
 
 ## Personal Reflection
 

@@ -51,11 +51,9 @@ UPFs are hard to classify perfectly but the NOVA classification system is a good
 
 **Lobbying Against Regulation** Food corporations spend vast sums lobbying against policies that limit UPF consumption, such as sugar taxes or advertising bans. Institutes like the FDA cannot possibly combat this multibillion dollar industry on their own, and analyse all foods and substances. They have introduced the GRAS, *generally recognized as safe*, label that industry can themselves assign if they do not want to go through the hassle of clinical trials. 
 
-                  Chris has written an incredible keystone book that has shaken public view on UPF and nutrition and captures the complexities and atrocities of the interplay between science, policy, and industry. Simply a must-read.
-
 ## Personal Reflection
 
-[To be added]
+Chris has written an incredible keystone book that has shaken public view on UPF and nutrition and captures the complexities and atrocities of the interplay between science, policy, and industry. Simply a must-read.
 
 ## Related Books
 

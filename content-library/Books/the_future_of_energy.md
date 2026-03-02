@@ -25,33 +25,31 @@ Richard Black's The Future of Energy presents a concise and optimistic roadmap f
 
 ## Key Concepts
 
-He identifies five key technologies essential for this transformation. Black emphasizes that these technologies are not only available but are also becoming more affordable due to economies of scale and innovation. He notes that the main barriers to their widespread adoption are political, often influenced by fossil fuel interests. By embracing these technologies, societies can achieve cleaner air, more jobs, and greater energy independence.
+### The Five Pillars of the Clean Energy Transition
 
-### Five Pillars
+Black identifies five technologies that, deployed together, can decarbonise the vast majority of the global energy system. All five already exist at commercial scale; the obstacles are political and institutional, not technological.
 
-**Renewable Energy (RE) Generation** Primarily wind and solar power, which are becoming increasingly cost-effective. 
+- **Renewable electricity generation (wind and solar)**: Solar PV module costs have fallen ~99% since 1976 and ~90% since 2010; onshore wind is now the cheapest source of new electricity in most markets. Together, wind and solar can supply the bulk of electricity demand — the intermittency problem is real but solvable through the other pillars
+  - **Learning curves**: Each doubling of cumulative installed capacity reduces costs by a roughly constant percentage (solar ~24%, wind ~15%) — a predictable, self-reinforcing dynamic that accelerates adoption as scale grows
+- **Energy storage**: Lithium-ion battery costs have fallen ~97% since 1991; grid-scale storage (batteries, pumped hydro, compressed air) smooths renewable variability, shifting surplus generation to hours of deficit. Vehicle-to-grid (V2G) technology turns parked EVs into a distributed storage network — a car is parked ~95% of the time, so its battery can serve the grid
+  - **Duration challenge**: Current lithium-ion is suited to short-duration storage (2–8 hours); longer-duration needs (days to weeks, for seasonal variation) require different technologies — iron-air batteries, flow batteries, or green hydrogen
+- **Electric vehicles (EVs)**: Electrifying transport eliminates the single largest source of oil demand; EVs are already cheaper to run per kilometre than internal combustion engines in most markets, and purchase-price parity is approaching as battery costs fall. Co-benefits include eliminating tailpipe emissions (NOₓ, PM₂.₅) in cities
+- **Heat pumps**: A heat pump moves thermal energy from a cooler space to a warmer one using a refrigeration cycle — delivering 3–4 units of heat per unit of electricity consumed (a coefficient of performance, COP, of 3–4×), making them 3× more efficient than gas boilers. They work for both heating and cooling, and when powered by clean electricity, completely decarbonise building thermal demand
+  - **System integration**: The full climate benefit of heat pumps is only realised when the electricity that powers them is clean — hence the interdependence of the five pillars
+- **Green hydrogen**: Produced by electrolysis of water using renewable electricity ($2\text{H}_2\text{O} \xrightarrow{\text{electricity}} 2\text{H}_2 + \text{O}_2$); essential for sectors that are hard to electrify directly — steelmaking (replacing coking coal with hydrogen as a reducing agent), shipping fuel (ammonia or synthetic fuels), long-haul aviation (synthetic kerosene), and industrial high-temperature heat
+  - **Efficiency penalty**: Electrolysis → compression → transport → end-use involves significant energy losses at each stage ($\eta_{\text{round-trip}} \approx 25\text{–}40\%$); hydrogen should therefore be reserved for applications where direct electrification is genuinely impractical, not used as a general-purpose energy carrier
 
-**Energy Storage Solutions** Advanced batteries that store electricity efficiently, to mitigate the availability of RE. 
+### Obstacles to Deployment
 
-**Electric Vehicles (EVs)** Replacing internal combustion engines to reduce oil dependence, possibly with the use of the car battery as a storage solution for the grid. 
+- **Geopolitical resistance**: Petrostates (Saudi Arabia, Russia, Gulf states) derive government revenue, geopolitical leverage, and domestic political legitimacy from fossil fuel exports; they have strong incentives to slow the transition, lobby within international forums (OPEC, COP negotiations), and invest in strategic delay
+- **Corporate misinformation**: Fossil fuel companies have shifted from outright climate denial to more sophisticated delay tactics — promoting natural gas as a "bridge fuel" (locking in decades of infrastructure), co-opting language ("net zero" without credible plans, carbon-capture promises that defer action), funding "astroturf" opposition to renewables, and lobbying against subsidy reform
+  - **The playbook**: Smedley draws explicit parallels to the tobacco industry's decades-long campaign to manufacture doubt about the link between smoking and cancer — delay, deny, deflect
+- **Policy inertia and lock-in**: Governments move slowly — encumbered by fossil fuel lobbying, short electoral cycles, sunk-cost reasoning around existing infrastructure, and fear of energy price shocks during transition. Tax systems, planning regimes, and grid regulations were designed for a centralised fossil-fuel system and actively impede distributed renewables
 
-**Heat Pumps** Efficient systems for heating and cooling buildings. 
+### System Interdependence
 
-**Green Hydrogen** Produced via electrolysis, suitable for applications where electrification is challenging. 
-
-### Obstacles
-
-**Geopolitics** Petrostates are reluctant to relinquish influence, seeking to maintain their strategic and economic power in a decarbonized world.  
-
-**Corporate Malfeasance** Fossil fuel companies have shifted from outright climate denial to spreading misinformation and delay tactics to preserve market share. 
-
-### Policy Inertia
- Governments often move too slowly, hindered by lobbying, short-term electoral cycles, or fear of economic disruption during transition or energy uncertainty.
-
-### Full Implementation
- Some of the five pillars are lacking behind in implementation, while they really complement each other. E.g. the full potential of heat pumps is only realized when combined with renewable energy sources and energy storage solutions, as they require a stable and clean electricity supply to operate efficiently.
-
-                  Ultimately, The Future of Energy is not a utopian manifesto but a practical blueprint. It shows that the tools for change are already in our hands — the key is to remove the obstacles that prevent their full deployment.
+- **The pillars work together or not at all**: Renewable generation needs storage to handle intermittency; EVs need clean electricity to deliver climate benefits; heat pumps need clean electricity to outperform gas; green hydrogen needs surplus cheap renewables to be viable. Deploying one pillar without the others yields diminished returns — the transition is a *system* problem, not five independent technology bets
+- **Positive feedback loops**: As renewables scale, electricity gets cheaper, making electrification (EVs, heat pumps) more attractive, which increases electricity demand, which justifies more renewable build-out — a virtuous cycle. Storage amplifies this by making the system more reliable, further reducing the case for fossil backup
 
 ## Personal Reflection
 

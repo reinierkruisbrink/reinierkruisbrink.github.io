@@ -20,20 +20,30 @@ tags:
 
 ## Overview
 
-In "The Man Who Mistook His Wife for a Hat," Oliver Sacks, a renowned neurologist, presents a collection of case studies exploring various neurological disorders.  The title itself comes from the story of Dr. P., a patient with a condition called visual agnosia.
+In *The Man Who Mistook His Wife for a Hat*, neurologist Oliver Sacks presents a collection of clinical case studies that reveal the brain's extraordinary complexity through its failures. Each case — patients who have lost specific cognitive abilities while retaining or even enhancing others — becomes a window into how the brain constructs perception, identity, and meaning. Sacks writes with unusual empathy, treating each patient as a whole person rather than a collection of deficits.
 
 ## Key Concepts
 
-The book takes you on a journey through the strange and often challenging experiences of Sacks's patients.  We encounter individuals with conditions like:
-                  
- Visual Agnosia: Dr. P., as mentioned earlier, can see objects but struggles to recognize them, leading to the titular case of mistaking his wife for a hat.
-                  
- Aphasia: Some patients lose the ability to speak or understand language, highlighting the complexity of communication.
-                  
- Extraordinary Savant Twins: Sacks focuses on their remarkable abilities related to numbers and calendars. I found the story recounting their ability to see/count a set of e.g. 11 pencils instantaneously like I would do with numbers smaller than 5 remarkable.
+### Losses (Neurological Deficits)
 
-                Sacks doesn't just focus on the deficits caused by these disorders. He portrays his patients with empathy and respect, highlighting their unique perspectives and the ways they adapt to their circumstances.
-                The book showcases the brain's remarkable ability to compensate for deficits in one area with strengths in another. Some patients, despite limitations, develop exceptional skills like drawing or music.
+- **Visual agnosia (Dr. P.)**: The titular patient can see perfectly — his eyes and primary visual cortex function normally — but cannot *recognize* what he sees. He identifies a glove by reasoning ("five outpouchings") rather than by gestalt recognition, revealing that perception is a constructive process, not passive recording. Dr. P. mistakes his wife's head for a hat because his brain cannot bind visual features into meaningful wholes.
+- **Proprioceptive loss (Christina)**: A young woman loses all proprioception — the sense of where her body is in space. Without this "sixth sense," she must consciously monitor every movement visually, demonstrating that the feeling of *being embodied* depends on continuous sensory feedback from muscles and joints.
+- **Hemispatial neglect**: Patients with right-hemisphere damage may completely ignore the left side of their world — not because they are blind, but because the neural representation of "left" has been abolished. They may eat only the right half of a plate, shave only the right side of their face.
+
+### Excesses (Neurological Surfeits)
+
+- **Tourette's syndrome**: Rather than a deficit, Tourette's involves an excess of neural impulse — tics, compulsions, involuntary utterances. Sacks explores how some patients channel this excess energy into creative or athletic achievement, blurring the line between disorder and gift.
+- **Reminiscence and hallucination**: Some patients experience vivid, involuntary autobiographical memories or musical hallucinations triggered by temporal-lobe seizures. These cases reveal that memories are not passively stored but can be *replayed* with full sensory richness when the right neural circuits are activated.
+
+### Savants and Compensatory Capacities
+
+- **The savant twins**: Sacks describes twin brothers with severe intellectual disabilities who can instantaneously identify prime numbers and perform calendar calculations for any date in history. Their abilities suggest that the brain contains latent computational capacities that are normally suppressed or inaccessible.
+- **Compensatory reorganization**: Many patients develop remarkable alternative abilities — a blind patient who develops extraordinary musical memory, or an aphasic who becomes acutely sensitive to tone of voice and body language. The brain compensates for loss by reallocating resources.
+
+### The Neurological Self
+
+- **Identity depends on brain function**: Across all cases, Sacks demonstrates that the self — personality, perception, memory, bodily awareness — is constructed by the brain. When specific neural circuits are damaged, specific aspects of selfhood dissolve.
+- **Adaptation and personhood**: Despite devastating losses, many patients find ways to live meaningful lives. Sacks insists that the clinical label never captures the full person, and that understanding what is *preserved* matters as much as documenting what is *lost*.
 
 ## Personal Reflection
 

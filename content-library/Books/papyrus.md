@@ -20,21 +20,29 @@ tags:
 
 ## Overview
 
-In "Papyrus," Irene Vallejo tells the captivating story of how books, as we know them, came to be. It's not just a dry historical account; it's a love letter to the written word.
+Irene Vallejo traces the material and cultural history of the book from its origins in Mesopotamian clay tablets and Egyptian papyrus scrolls through to the Roman codex, arguing that the invention of portable written text was as transformative for human civilisation as any technological revolution since. The book blends classical scholarship with personal memoir, weaving the stories of scribes, librarians, booksellers, forgers, and kings who shaped the written word across more than two millennia. Vallejo frames the book not just as a storage medium but as a technology of memory, power, and identity.
 
 ## Key Concepts
 
-The book delves into the evolution of the book, from the oral traditions of ancient Greece to the scrolls of Egypt and finally the codices (bound books) of Rome. Vallejo weaves a rich tapestry of characters – from bards to librarians, philosophers to forgers. Each played a role in shaping this cultural cornerstone.
+### The Material Evolution of the Book
+- **Papyrus — the first portable medium** — harvested from reeds along the Nile, papyrus enabled the creation of scrolls light enough to transport, trade, and copy; Egypt's near-monopoly on the plant made it a strategic commodity and gave Alexandria its literary dominance
+- **Parchment and the Pergamon rivalry** — when papyrus exports were restricted, the kingdom of Pergamon developed parchment (processed animal skin), which was more durable, could be written on both sides, and eventually enabled the codex format
+- **Scroll to codex** — the shift from scroll to bound codex in the early centuries CE revolutionised reading by allowing random access, cross-referencing, annotation, and indexing — affordances that shaped how knowledge could be structured and retrieved
 
-                  Here are some intriguing facts you'll encounter:
-                  
-(1) Papyrus, the plant that gave the book its early name, was a prized commodity, fought over and carefully cultivated along the Nile River. It was eventually replaced by parchment (from Pergamon) for its better durability.
-                  
-(2) The legendary Library of Alexandria wasn't just a building, but a bustling center of scholarship where knowledge was meticulously collected and preserved. Its destruction remains a poignant symbol of the fragility of cultural heritage.
-                  
-(3) The shift from scrolls to codices wasn't just a change in format, it revolutionized reading. Codices allowed for easier navigation and cross-referencing, fostering new ways of engaging with text, and enabling the indexing of book colections.
+### The Library of Alexandria
+- **A universal knowledge project** — the Ptolemaic library aimed to collect every book in the world, sending agents to acquire, copy, and sometimes confiscate texts from ships entering the harbour; Vallejo portrays it as the first systematic attempt at comprehensive information storage
+- **Scholarship and cataloguing** — librarians like Callimachus created the *Pinakes*, an early bibliographic catalogue organising works by genre and author, laying foundations for modern library science
+- **Fragility of cultural memory** — the library's gradual decline (not a single dramatic burning) illustrates how political neglect, funding cuts, and sectarian conflict can erode knowledge infrastructure over centuries
 
-                  Papyrus reminds us that books are more than just paper and ink. They're vessels of knowledge, testaments to human ingenuity, and sparks that ignite our imaginations.
+### Oral Culture and the Transition to Writing
+- **Homer and the oral tradition** — the *Iliad* and *Odyssey* were composed and transmitted orally for generations before being written down; Vallejo explores how formulaic epithets, metre, and repetition served as mnemonic technologies in a pre-literate culture
+- **Writing as contested technology** — Plato's Socrates famously warned that writing would weaken memory and remove dialogue from knowledge; Vallejo notes the irony that this argument survives only because Plato wrote it down
+- **Literacy and power** — control over who could read and write has always been a lever of political power; from Egyptian scribal classes to Roman senatorial archives, literacy was as much a tool of domination as of liberation
+
+### The Social Life of Books
+- **Booksellers and copying networks** — in Rome, *librarii* (copyists) worked in workshops to produce editions for sale; without copyright, piracy and textual corruption were endemic, and authors had little control over their works once released
+- **Forgery and authentication** — the ancient world was rife with pseudepigraphical texts attributed to famous authors to increase marketability; Vallejo shows how textual criticism emerged partly as a response to this problem
+- **Books as objects of desire** — throughout antiquity, private libraries signalled status, learning, and taste; Vallejo draws parallels to modern book culture, suggesting that the emotional relationship between readers and physical books has ancient roots
 
 ## Personal Reflection
 

@@ -50,14 +50,11 @@ The book delves into a range of sleep disorders, moving beyond simple insomnia t
 
 **Lucid Dreaming** Lucid dreaming, where individuals become aware of their dreams and can exert some control over them, is a fascinating phenomenon that highlights the brain's ability to navigate between different states of consciousness. This state of awareness during sleep suggests a unique interplay between the brain regions responsible for self-awareness and those involved in dream generation. 
 
-**Overlap with Neurological Conditions** "The Nocturnal Brain" emphasizes the significant overlap between various sleep disorders and other neurological conditions, such as Restless Legs Syndrome and Parkinson's disease, and the shared pathways and medications. This interconnectedness suggests that sleep disturbances can be early symptoms or contributing factors to broader neurological issues, highlighting the importance of considering sleep health in the context of overall neurological well-being.
-
-                  Similarly to the books and descriptions by neurologist Oliver Sacks, Leschziner's writing is engaging and accessible, making complex neurological concepts understandable to a general audience. He weaves together personal anecdotes, scientific insights, and patient stories to create a compelling narrative that sheds light on the mysteries of sleep and its disorders. The book serves as a reminder of the importance of sleep for our overall well-being and the intricate workings of the brain during this enigmatic state.
+**Overlap with Neurological Conditions** "The Nocturnal Brain" emphasizes the significant overlap between various sleep disorders and other neurological conditions, such as Restless Legs Syndrome and Parkinson's disease, and the shared pathways and medications. This interconnectedness suggests that sleep disturbances can be early symptoms or contributing factors to broader neurological issues, highlighting the importance of considering sleep health in the context of overall neurological well-being.           
 
 ## Personal Reflection
 
-[To be added]
-
+Similarly to the books and descriptions by neurologist Oliver Sacks, Leschziner's writing is engaging and accessible, making complex neurological concepts understandable to a general audience. He weaves together personal anecdotes, scientific insights, and patient stories to create a compelling narrative that sheds light on the mysteries of sleep and its disorders. The book serves as a reminder of the importance of sleep for our overall well-being and the intricate workings of the brain during this enigmatic state.
 ## Related Books
 
 - [[Book Title 1]] - [Brief reason for connection]

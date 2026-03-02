@@ -40,11 +40,9 @@ Pfeijffer argues that while irony can be a powerful tool for wit and critical th
 
 **Trivialization of Serious Topics** By consistently treating grave issues with a detached, sardonic, or cynical tone, irony risks diminishing their actual weight and urgency. This can lead to a collective desensitization, where pressing social, political, or ethical concerns are not taken seriously enough, hindering meaningful action and fostering apathy among the public. The constant use of irony can inadvertently signal that nothing truly matters, undermining the very possibility of sincere engagement.
 
-                  A short but very insightful read on the role of irony in our society, and how it can be both a powerful tool for critique and a dangerous weapon that can undermine genuine discourse and invite apathy. I conclude that irony has a value in fostering critical thinking and challenging dominant narratives, and in smaller kindred circles, but it must be wielded with care to avoid the pitfalls of cynicism and disengagement.
-
 ## Personal Reflection
 
-[To be added]
+A short but very insightful read on the role of irony in our society, and how it can be both a powerful tool for critique and a dangerous weapon that can undermine genuine discourse and invite apathy. I conclude that irony has a value in fostering critical thinking and challenging dominant narratives, and in smaller kindred circles, but it must be wielded with care to avoid the pitfalls of cynicism and disengagement.
 
 ## Related Books
 

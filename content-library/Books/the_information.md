@@ -21,20 +21,29 @@ tags:
 
 ## Overview
 
-In James Gleick's "The Information," information itself takes center stage. It's not just about data or facts; it's a fundamental concept that has shaped human history, our way of thinking, and even the technologies we use today.
+James Gleick traces the concept of information from African talking drums and the invention of writing through to Claude Shannon's mathematical theory and the digital age, arguing that information is not merely a human convenience but a fundamental quantity woven into the fabric of reality. The book moves chronologically yet thematically, showing how each revolution in how we encode, transmit, and store information — alphabets, printing, telegraphy, computation — reshaped science, culture, and our understanding of the physical world. Gleick ultimately positions information alongside matter and energy as a foundational pillar of nature.
 
 ## Key Concepts
 
-The book traces the concept of information from its very beginnings. Gleick starts with the early methods of communication, like the two-tone drums used in sub-Saharan Africa, and weaves his way through the development of alphabets, coding systems, and the invention of revolutionary technologies like the telegraph and the internet.
-                  While communication is a key theme, "The Information" explores how this concept has broader implications. Gleick discusses how the desire to quantify and organize information led to the development of logic, mathematics, and even the scientific method.
-                  
-                  Here are some intriguing facts you might encounter:
+### From Drums to Alphabets — Early Encoding
+- **Redundancy in oral cultures** — African talking drums transmitted messages over vast distances by exploiting the tonal structure of languages, adding formulaic phrases to overcome ambiguity — an intuitive application of redundancy that Shannon would later formalise
+- **The alphabet as discretisation** — reducing spoken language to a small set of abstract symbols made information portable, storable, and manipulable, enabling literacy, record-keeping, and eventually logic
+- **Writing as external memory** — the invention of script offloaded cognitive storage from human brains to physical media, fundamentally changing how knowledge could accumulate across generations
 
- (1) The Alphabet Revolution: The book explores how the development of the alphabet, with its discrete symbols, made information more transferable and manipulable, paving the way for new forms of knowledge creation and storage.
-                    
- (2) The Power of Codes: Gleick delves into the fascinating world of codes and ciphers, highlighting their role in warfare, espionage, and even literature.
-                    
- (3) The Information Flood: The book doesn't shy away from the challenges of the modern information age. Gleick discusses the overwhelming amount of information we face today and the need for new tools to filter, organize, and make sense of it all.
+### Shannon's Information Theory
+- **The bit as fundamental unit** — Claude Shannon defined information as the reduction of uncertainty, measurable in binary digits (bits), separating the concept of information from meaning and grounding it in mathematics
+- **Entropy and information** — Shannon showed that the information content of a message is related to its statistical surprise; highly predictable messages carry little information, establishing a formal link between information theory and thermodynamic entropy
+- **Channel capacity and noise** — the noisy-channel coding theorem proved that reliable communication is possible even over imperfect channels, provided the transmission rate stays below a calculable capacity — the theoretical foundation of all modern digital communication
+
+### Information in Physics and Biology
+- **Maxwell's demon and thermodynamics** — the thought experiment linking information to physical entropy was resolved by Landauer's principle: erasing a bit of information necessarily dissipates a minimum amount of energy, proving information is physical
+- **DNA as biological information** — genetics can be reframed as an information system: DNA stores, copies, and transmits hereditary instructions using a four-letter code, subject to noise (mutation) and error-correction (DNA repair enzymes)
+- **Quantum information** — the book touches on how quantum mechanics complicates the classical picture, with qubits existing in superposition and entanglement enabling correlations that have no classical information-theoretic analogue
+
+### The Information Flood
+- **Exponential growth** — the total amount of stored information has grown super-exponentially since the mid-20th century, driven by digitisation, the internet, and sensor proliferation
+- **Signal versus noise** — more information does not automatically mean more knowledge; filtering, compression, and search algorithms become essential when data outstrips human cognitive bandwidth
+- **Randomness and incompressibility** — Gleick explores Kolmogorov complexity and algorithmic information theory, where a truly random string contains maximal information because it cannot be compressed — a counter-intuitive result that deepens the concept of what information really is
 
 ## Personal Reflection
 

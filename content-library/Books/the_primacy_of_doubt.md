@@ -26,8 +26,6 @@ Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamen
 
 ## Key Concepts
 
-<!-- ... -->
-
 ### Foundations of Uncertainty
 
 **Complex Mechanisms** The shift from classical linearity and determinism to nonlinearity and chaos is driven by feedback loops and extreme sensitivity to initial conditions.
@@ -60,11 +58,9 @@ Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamen
 
 **Counterfactual Inconsistency** Bell's theorem relies on being able to ask counterfactual questions: What would have happened if the experimenter had chosen a different measurement setting? In IST, changing the measurement setting from x to x' while attempting to keep the hidden variables λ and the other setting y fixed takes the universe off the invariant set (since it is a fractal set and thus incredibly sparse, many counterfactuals are incosistent with the laws of physics, i.e., the geometry of the invariant set).
 
-                  While very interesting and appealing to some chaotic intuition, the final part remains very speculative. The most valuable takeaway is how to embrace uncertainty and use it in favour of making better predictions rather than fighting it.
-
 ## Personal Reflection
 
-[To be added]
+While very interesting and appealing to some chaotic intuition, the final part remains very speculative. The most valuable takeaway is how to embrace uncertainty and use it in favour of making better predictions rather than fighting it.
 
 ## Related Books
 

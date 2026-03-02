@@ -21,21 +21,29 @@ tags:
 
 ## Overview
 
-In "Treepedia: A Brief Compendium of Arboreal Lore," Joan Maloof celebrates all things tree-related. This informative and entertaining book takes readers on a journey through the fascinating world of trees.
+Joan Maloof presents an encyclopaedic celebration of trees, covering their biology, ecology, cultural significance, and conservation status across a wide range of species and ecosystems. Structured as a compendium of entries on individual tree species, anatomical features, and ecological relationships, the book reveals the extraordinary complexity hidden in what most people regard as inert fixtures of the landscape. Maloof emphasises that trees are not passive organisms but active engineers of their environments, shaping soils, water cycles, atmospheric chemistry, and the communities of organisms that depend on them.
 
 ## Key Concepts
 
-Maloof explores the diverse roles that trees play in our lives and the environment, from providing oxygen and shade to serving as habitats for wildlife. Here are some key takeaways from the book:
+### Tree Anatomy and Physiology
+- **Vascular architecture** — xylem transports water and dissolved minerals from roots to canopy under tension (cohesion-tension theory), while phloem distributes photosynthetic sugars via pressure-driven flow; together they form the circulatory system that enables trees to reach heights exceeding 100 metres
+- **Meristems and growth** — apical meristems drive vertical extension, while the vascular cambium (a lateral meristem) adds annual layers of wood (secondary xylem) and bark (secondary phloem), producing the growth rings that encode climate history
+- **Heartwood and sapwood** — only the outermost rings (sapwood) are physiologically active in water transport; the inner heartwood, impregnated with resins and tannins, provides structural support and chemical defence against decay organisms
 
- (1) Tree Anatomy: Trees are complex organisms with intricate structures that allow them to grow, reproduce, and interact with their surroundings. Maloof delves into the anatomy of trees, from their roots and trunks to their leaves and branches, from and treerings and heartwood to meristem and phloem/xylem.
-                  
- (2) Remarkable Trees: The book introduces you to unique species like the baobab, with its massive trunk for water storage, and the Fitzroya, one of the longest-living trees on Earth.
-                  
- (3) Ecology and Trees: Trees play a crucial role in maintaining ecosystems and supporting biodiversity. Maloof discusses the interconnectedness of trees with other organisms, including fungi, insects, and birds.
-                  
- (4) Conservation: The book highlights various humans and organizations focusing on preserving forests and protecting tree species that are threatened by deforestation, pests, climate change, and other human activities.
+### Ecological Roles
+- **Carbon sequestration** — trees fix atmospheric CO₂ through photosynthesis and store it in biomass and soil organic matter; old-growth forests are particularly significant carbon sinks because their massive trunks and root systems represent centuries of accumulated carbon
+- **Mycorrhizal networks** — most trees form symbiotic associations with fungi that extend the root system's effective surface area by orders of magnitude; these networks facilitate nutrient exchange between trees of different species, enabling resource-sharing sometimes called the "wood wide web"
+- **Habitat provision** — a single mature oak can support over 2,000 species of insects, fungi, lichens, birds, and mammals; dead and decaying wood (snags, fallen logs) is itself a critical habitat for saproxylic organisms
 
-                  Packed with illustrations and interesting facts, "Treepedia" is a perfect companion for anyone who appreciates the beauty and importance of trees.
+### Remarkable Species
+- **Baobabs (*Adansonia*)** — with massive trunks capable of storing thousands of litres of water, baobabs are adapted to arid savannas and can live for over a thousand years; their hollow interiors have been used as shelters, prisons, and even pubs
+- **Bristlecone pines (*Pinus longaeva*)** — the oldest known non-clonal organisms on Earth, with individual specimens exceeding 5,000 years; their extreme longevity is linked to slow growth in harsh alpine environments and dense, resin-rich wood that resists decay
+- **Fitzroya (*Fitzroya cupressoides*)** — the South American equivalent of giant sequoias, reaching ages of 3,600+ years; endangered by logging, their surviving stands are a conservation priority
+
+### Conservation and Threats
+- **Deforestation rates** — tropical forests lose approximately 10 million hectares per year to agriculture, logging, and development, with cascading effects on biodiversity, carbon cycling, and indigenous communities
+- **Invasive pests and pathogens** — globalised trade has introduced devastating diseases (chestnut blight, Dutch elm disease, ash dieback) to naive tree populations, illustrating how monoculture and reduced genetic diversity increase vulnerability
+- **Old-growth protection** — Maloof advocates for the preservation of primary forests, which harbour biodiversity, structural complexity, and carbon stocks that cannot be replicated by plantation forestry, even over centuries
 
 ## Personal Reflection
 

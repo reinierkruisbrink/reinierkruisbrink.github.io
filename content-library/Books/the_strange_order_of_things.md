@@ -56,12 +56,10 @@ Damasio posits that consciousness didn't suddenly appear with complex brains but
 **Feeling Feelings** For feelings to have an impact and drive behavior, they must be "felt" or consciously experienced by the organism. This conscious awareness of our internal states is what allows them to affect our decisions, learning, and overall life regulation, and drive creative intelligence and cultures.
 
 **Cultures** Consciousness, driven by the imperative to regulate life and optimize feelings, leads to the creation of complex cultures—our collective efforts to improve well-being, manage suffering, and create a more stable and flourishing existence.
-
-                  Overall an incredibly interesting book, but written in a very dense and academic style (sometimes too much for my taste). Damasio's exploration of the evolution of consciousness and the role of feelings in shaping our minds and cultures is a thought-provoking journey that challenges traditional views of consciousness as a mere byproduct of complex brain activity. He emphasizes the importance of understanding our emotional lives as a foundation for navigating the complexities of existence, and how this understanding can lead to a more compassionate and interconnected world.
-
+        
 ## Personal Reflection
 
-[To be added]
+Overall an incredibly interesting book, but written in a very dense and academic style (sometimes too much for my taste). Damasio's exploration of the evolution of consciousness and the role of feelings in shaping our minds and cultures is a thought-provoking journey that challenges traditional views of consciousness as a mere byproduct of complex brain activity. He emphasizes the importance of understanding our emotional lives as a foundation for navigating the complexities of existence, and how this understanding can lead to a more compassionate and interconnected world.
 
 ## Related Books
 

@@ -49,13 +49,11 @@ How Life Works by Philip Ball is an incredibly interesting book of the principle
 
 **Agency** is Ball's idea on how living systems can act with purpose and intentionality, even though they are made up of non-living components. This is a way to describe the self-organizing and self-regulating behaviors of living systems that are not reducible to their individual parts, and according to Ball one of the aspects of life.
 
-**Emergent Engineering** introduces the idea of designing systems by harnessing emergent behaviors, such as creating materials or biological systems that self-organize and adapt in ways inspired by living systems.
-
-                  It is wonderfully unfortunate that the answer to the question "How Life Works" is "We don't know exactly, but it is a lot more complex than we thought!". All those mechanisms for diversity on different layers of organization cause the combinatorial possibilities to explode, and these possibilities are pruned through the interplay of environment and organism. This is like seeing the classic nature vs nurture debate as an interaction instead of a dichotomy.
+**Emergent Engineering** introduces the idea of designing systems by harnessing emergent behaviors, such as creating materials or biological systems that self-organize and adapt in ways inspired by living systems.                
 
 ## Personal Reflection
 
-[To be added]
+It is wonderfully unfortunate that the answer to the question "How Life Works" is "We don't know exactly, but it is a lot more complex than we thought!". All those mechanisms for diversity on different layers of organization cause the combinatorial possibilities to explode, and these possibilities are pruned through the interplay of environment and organism. This is like seeing the classic nature vs nurture debate as an interaction instead of a dichotomy.
 
 ## Related Books
 

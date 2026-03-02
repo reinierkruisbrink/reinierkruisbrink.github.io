@@ -21,19 +21,28 @@ tags:
 
 ## Overview
 
-Mukherjee traces the scientific journey of unraveling the mysteries of genes, from Gregor Mendel's pioneering pea plant experiments to the discovery of the double helix structure of DNA by Watson and Crick.
+In *The Gene*, Siddhartha Mukherjee traces the scientific and cultural history of the gene from Mendel's monastery garden to CRISPR gene editing. The book interweaves the author's own family history of severe mental illness with the broader arc of genetics, asking how much of who we are is written in DNA and how much is shaped by environment. It is both a history of ideas and a warning about the ethical pitfalls of genetic determinism.
 
 ## Key Concepts
 
-The author weaves in his own family's history of mental illness, raising questions about the complex interplay between genes and environment in shaping human traits and health.
-                  
- (1) Genetic Modules: Mukherjee describes the concept of genetic modules, which are clusters of genes that work together to control specific traits or functions. These modules can be turned on or off in response to environmental signals, highlighting the complex interplay between genes and the environment.
-                  
- (2) Non-Coding DNA: The book discusses the vast amounts of non-coding DNA, which make up the majority of the human genome. While once thought to be "junk DNA," recent research suggests that these regions play important roles in epigenetic gene regulation and other cellular processes.
-                  
- (3) Eugenics: Mukherjee delves into the dark history of eugenics, a movement that sought to improve the human population through selective breeding. The book explores the ethical implications of eugenics and the dangers of genetic discrimination.
+### The Arc of Discovery
 
-                  Genes play a significant role, but Mukherjee emphasizes that they don't dictate our entire fate. Environment and lifestyle also influence how genes are expressed.
+- **Mendel's laws**: Gregor Mendel's experiments with pea plants (1850s-60s) established the particulate nature of inheritance — traits are carried by discrete "factors" (genes) that segregate independently, rather than blending. His work was ignored for decades.
+- **Chromosomes and linkage**: The rediscovery of Mendel (1900) and Thomas Hunt Morgan's fruit-fly experiments connected abstract "factors" to physical structures — chromosomes — and revealed that genes on the same chromosome are *linked*, violating independent assortment.
+- **The double helix**: Watson, Crick, Franklin, and Wilkins determined DNA's three-dimensional structure (1953), revealing how complementary base pairing (A-T, G-C) enables faithful replication and information storage.
+- **The central dogma**: DNA → RNA → Protein. The genetic code (triplet codons) was cracked in the 1960s, establishing a unidirectional flow of information from nucleic acids to proteins.
+
+### Beyond the Simple Gene
+
+- **Genetic modules and regulation**: Genes do not act in isolation. Regulatory networks (promoters, enhancers, transcription factors) control when, where, and how much a gene is expressed. The same genome produces over 200 distinct cell types in the human body.
+- **Non-coding DNA**: The Human Genome Project revealed that only ~1.5% of the genome codes for proteins. Much of the rest was once dismissed as "junk," but large portions are now known to have regulatory, structural, or as-yet-unknown functions (ENCODE project).
+- **Epigenetics**: Chemical modifications to DNA (methylation) and histones (acetylation, methylation) alter gene expression without changing the underlying sequence. Environmental factors (diet, stress, toxins) can induce epigenetic changes, some of which may be heritable across generations.
+
+### Genes, Society, and Ethics
+
+- **Eugenics**: Mukherjee documents the dark history of the eugenics movement — forced sterilizations in the US, Nazi racial hygiene programs — showing how a crude, deterministic understanding of genetics was weaponized to justify atrocities.
+- **Gene-environment interaction**: Complex traits (intelligence, mental illness, height) are influenced by hundreds to thousands of genetic variants, each of tiny effect, interacting with environmental factors. Single-gene determinism is the exception, not the rule.
+- **CRISPR and the future**: Precision gene editing raises profound ethical questions — from curing monogenic diseases (sickle cell, cystic fibrosis) to the specter of heritable germline modifications and "designer babies."
 
 ## Personal Reflection
 

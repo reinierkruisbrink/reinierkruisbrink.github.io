@@ -24,22 +24,34 @@ tags:
 
 ## Key Concepts
 
-Chudler opens with a quote by Ramón y Cajal: 
+Chudler opens with a quote by Ramón y Cajal:
 
-*Mientras el cerebro sea un arcano, el universo, reflejo de su estructura, será un mistério también. 
-- Ramón y Cajal *
+*Mientras el cerebro sea un arcano, el universo, reflejo de su estructura, será un mistério también.*
+— Santiago Ramón y Cajal
 
- Here are some key takeaways from the book:
+### Neuroanatomy — Structure of the Nervous System
 
- (1) Neuroanatomy: The book touches on different brain regions and their functions, the spinal cord and the vertebra, as well as the 12 cranial nerves (my favourite is the vagus nerve). It also covers the anatomy of the eye, ear, and other sensory organs.
-                  
- (2) Notable Neuroscientists: Several key figures in the field of neuroscience are highlighted, including Santiago Ramón y Cajal, who won the Nobel Prize for his work on the structure of the nervous system, and Rita Levi-Montalcini, who discovered nerve growth factor.
-                  
- (3) Diseases and Disorders: The book discusses various neurological conditions such as Alzheimer's disease, Parkinson's disease, epilepsy, and multiple sclerosis, as well as the the possible causes and treatments for these conditions.
-                  
- (4) Numerous Neurons: Although the brain constitutes only 2% of the body's weight, it consumes 20% of the body's energy. The book explains the role of dendrites, axons, synapses, and neurotransmitters in transmitting information between neurons and glands or muscles.
+- **Brain regions and organisation**: The book surveys the major divisions of the brain — the cerebral cortex (frontal, parietal, temporal, occipital lobes and their functional specialisations), the limbic system (hippocampus, amygdala — memory and emotion), the cerebellum (motor coordination and learning), and the brainstem (vital functions: breathing, heart rate, arousal)
+  - **The spinal cord**: A segmented relay between brain and body, carrying ascending sensory tracts and descending motor tracts; spinal reflexes (e.g., the withdrawal reflex) demonstrate that complex, fast motor responses can occur without conscious brain involvement
+- **Cranial nerves**: Twelve pairs, each with distinct sensory, motor, or mixed functions; the vagus nerve (cranial nerve X) is highlighted as the most extensive — innervating heart, lungs, and gut, and serving as a major conduit for the gut–brain axis and parasympathetic regulation
 
-                  Overall, the book provides an overview of many topics in neuroscience without going into too much detail, making it accessible to readers who are new to the field and peak the interest of those who are already familiar with it.
+### Neural Signalling — How Neurons Communicate
+
+- **The neuron**: Dendrites receive incoming signals; the cell body (soma) integrates them; the axon transmits action potentials — regenerative electrical impulses that propagate at speeds from ~1 m/s (unmyelinated) to ~120 m/s (myelinated, due to saltatory conduction at nodes of Ranvier)
+- **Synaptic transmission**: When an action potential reaches the axon terminal, voltage-gated calcium channels open, triggering neurotransmitter release into the synaptic cleft; neurotransmitters bind to receptors on the postsynaptic cell, either exciting or inhibiting it
+  - **Key neurotransmitters**: Glutamate (the principal excitatory neurotransmitter), GABA (the principal inhibitory neurotransmitter), dopamine (reward, motivation, motor control), serotonin (mood, sleep, appetite), acetylcholine (muscle activation, attention, memory), and norepinephrine (arousal, alertness)
+- **Energy demands**: Although the brain constitutes only ~2% of body mass, it consumes ~20% of the body's resting energy — reflecting the metabolic cost of maintaining ion gradients and synaptic activity across ~86 billion neurons and ~100 trillion synapses
+
+### Sensory Systems
+
+- **Vision**: Light is transduced by photoreceptors (rods for dim light, cones for colour) in the retina; signals are processed through retinal layers before travelling via the optic nerve to the lateral geniculate nucleus and then to the primary visual cortex (V1), where orientation, motion, and spatial frequency are processed in parallel
+- **Audition**: Sound waves are transduced by hair cells in the cochlea; tonotopic organisation (different frequencies mapped to different locations) is preserved from the cochlea through the auditory pathway to the primary auditory cortex
+- **Other senses**: The book covers somatosensation (touch, temperature, pain — mediated by diverse receptor types), proprioception (body position), the vestibular system (balance and spatial orientation), olfaction (chemical binding in the olfactory epithelium), and gustation (taste receptor cells on the tongue)
+
+### Neurological Disorders and Notable Scientists
+
+- **Diseases and conditions**: Chudler discusses Alzheimer's disease (amyloid plaques, neurofibrillary tangles, progressive memory loss), Parkinson's disease (dopaminergic neuron loss in the substantia nigra, motor symptoms), epilepsy (abnormal synchronised neuronal firing), and multiple sclerosis (autoimmune demyelination disrupting signal conduction)
+- **Pioneers of neuroscience**: Santiago Ramón y Cajal — Nobel laureate who established the neuron doctrine (the nervous system is composed of discrete cells, not a continuous net); Rita Levi-Montalcini — Nobel laureate who discovered nerve growth factor (NGF), a protein essential for neuron survival and differentiation; and others who built the foundations of modern brain science
 
 ## Personal Reflection
 

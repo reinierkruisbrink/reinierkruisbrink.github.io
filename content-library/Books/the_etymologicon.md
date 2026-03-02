@@ -19,13 +19,24 @@ tags:
 
 ## Overview
 
-In The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language, Mark Forsyth takes you on a captivating journey of etymology - the study of words' origins and how their meanings evolve.  It's not a dry dictionary, but a witty and engaging journey through the fascinating world of words. Even if not all of the stories are proven, they're entertaining and thought-provoking.
+Mark Forsyth follows the hidden threads that connect English words to one another, tracing each term back through centuries of borrowing, semantic drift, and cultural accident. Rather than organising entries alphabetically, the book links one etymology to the next in a circular chain, demonstrating that language is a vast network where every word connects to others through shared roots, metaphors, or historical coincidence. The result is an entertaining tour through the mechanisms by which words are born, mutate, and sometimes end up meaning the opposite of what they originally signified.
 
 ## Key Concepts
 
-Forget memorizing static definitions. Forsyth delves into the stories behind words, exploring how historical events, cultural shifts, and even technological advancements have shaped their usage and meaning.
-                  The book doesn't follow a strict alphabetical order. Instead, Forsyth uses thematic links to connect seemingly unrelated words, revealing surprising etymological journeys.  For example, you might learn how the phrase "a turn up for the books" (a surprising event)  and "caterpillar" (the insect stage before a butterfly) are connected through the history of silk production.
-                  The Etymologicon isn't just a wordplay extravaganza. It sheds light on the evolution of societies and cultures. By tracing the etymology of words, we gain a deeper understanding of the historical context, social values, and technological advancements that shaped their development.
+### Semantic Drift and Meaning Change
+- **Amelioration and pejoration** — words shift valence over time: "nice" once meant foolish or ignorant (from Latin *nescius*), while "villain" simply meant a farm worker (*villanus*) before acquiring its sinister connotation through class prejudice
+- **Metonymy and metaphor** — much of vocabulary growth comes from figurative extension; "capital" (money) traces back to *caput* (head), because wealth was once counted in heads of cattle
+- **Back-formation and folk etymology** — speakers reshape unfamiliar words to fit familiar patterns, sometimes creating entirely new derivations: "pea" was back-formed from "pease" (originally a mass noun), and "hamburger" was reanalysed as "ham" + "burger" despite having nothing to do with ham
+
+### Chains of Connection
+- **Circular structure** — Forsyth's key device: each chapter ends by linking to the next through an etymological connection, forming a loop that returns to the starting word, illustrating that the lexicon is a network rather than a list
+- **Cross-linguistic borrowing** — English is a magpie language; Germanic roots mix with Norman French, Latin, Greek, Arabic, Hindi, and dozens of others, and Forsyth traces how specific historical events (the Norman Conquest, colonial trade) injected each layer
+- **Doublets and cognates** — words like "royal" (via French) and "regal" (via Latin) descend from the same root but entered English through different routes, acquiring distinct nuances along the way
+
+### Language as Cultural History
+- **Etymology as archaeology** — word origins preserve evidence of past technologies, social structures, and beliefs that may have otherwise been forgotten; "salary" records the Roman practice of paying soldiers in salt (*sal*)
+- **Taboo and euphemism cycles** — Forsyth shows how socially sensitive words undergo rapid replacement: each euphemism eventually absorbs the taboo of the concept it replaced, driving a perpetual cycle of lexical turnover
+- **Place names and personal names** — proper nouns often encode geography, occupation, or patronage; Forsyth reveals how they leak back into common vocabulary (e.g. "denim" from *de Nîmes*, "champagne" from the French region)
 
 ## Personal Reflection
 
