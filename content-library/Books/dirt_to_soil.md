@@ -89,6 +89,8 @@ Besides ecological sustainability, the book also emphasizes the economic benefit
 
 - [[i_contain_multitudes|I Contain Multitudes]] - The importance of and ubiquity of microbes. While Yong looks at microbes in animals, *Dirt to Soil* shows that the soil itself contains multitudes that are just as vital.
 - [[the_secret_network_of_nature|The Secret Network of Nature]] - The interconnectedness of life and the importance of biodiversity. Brown's emphasis on diversity in agriculture echoes the themes of interconnectedness and mutualism in this book.
+- [[entangled_life|Entangled Life]] - The role of fungi in ecosystems. Brown's discussion of mycorrhizal fungi and their symbiotic relationships with plants is a key aspect of regenerative agriculture, which is also explored in depth in *Entangled Life*.
+<!-- - [[roots_demystified|Roots Demystified]] - The importance of roots and soil biology. Both books emphasize the critical role of roots in maintaining soil health and the overall ecosystem, challenging traditional views of agriculture that focus primarily on above-ground plant parts. -->
 
 ---
 
