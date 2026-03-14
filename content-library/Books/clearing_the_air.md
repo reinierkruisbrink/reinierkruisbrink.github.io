@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/40653218-clearing-the-air"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554810633i/40653218.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-08-28"
+my_rating: 8.5
 synopsis: "Clearing the Air by Tim Smedley is a comprehensive and urgent exploration of the pervasive problem of air pollution, detailing its varied forms, profound health impacts, and the complex web of sources that contribute to it."
 tags:
   - "environmental-science"
@@ -63,7 +63,9 @@ tags:
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_last_drop|The Last Drop]] - Same author, same structure: air and water as companion environmental crises
+- [[the_future_of_energy|The Future of Energy]] - The energy transition is the upstream solution to the air pollution Smedley documents
+- [[er_is_leven_na_de_groei|Er is leven na de groei]] - Schenderling's post-growth framework addresses the systemic overconsumption driving pollution
 
 ---
 

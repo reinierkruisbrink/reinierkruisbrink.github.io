@@ -51,7 +51,9 @@ Stephen Fry shifts focus from the gods of *Mythos* to the mortal heroes of Greek
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[mythos|Mythos]] - First volume in Fry's trilogy — the divine backstory
+- [[troy|Troy]] - Third volume — where many heroes meet their fates
+- [[the_iliad|The Iliad]] - Homer's original, covering the peak of the heroic tradition
 
 ---
 

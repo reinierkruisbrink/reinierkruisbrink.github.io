@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/12870068-the-etymologicon"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356841195i/12870068.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-01-24"
+my_rating: 7.7
 synopsis: "In The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language, Mark Forsyth takes you on a captivating journey of etymology - the study of words' origins and how their meanings evolve.  It's not a dry dictionary, but a witty and engaging journey through the fascinating world of words. Even if not all of the stories are proven, they're entertaining and thought-provoking."
 tags:
   - "linguistics"
@@ -44,7 +44,9 @@ Mark Forsyth follows the hidden threads that connect English words to one anothe
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_language_instinct|The Language Instinct]] - Pinker explains the biological machinery; Forsyth shows what happens to words once it sets them loose
+- [[the_stuff_of_thought|The Stuff of Thought]] - Pinker probes words as cognitive windows; Forsyth traces them backward through time
+- [[papyrus|Papyrus]] - Vallejo follows the material carriers of language; Forsyth follows the words themselves
 
 ---
 

@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/154293.Linked"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1309203512i/154293.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 6
+date: "2025-09-27"
+my_rating: 6.9
 synopsis: "Linked is a foundational work in network science by Albert-László Barabási, originally published in 2002. While the field has advanced significantly since its publication, making some of its discussions quite out of date, the book remains an interesting look into the history and early development of the internet and modern network theory."
 tags:
   - "mathematics"
@@ -55,7 +55,9 @@ Linked is a foundational work in network science by Albert-László Barabási, o
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[entangled_life|Entangled Life]] - Mycorrhizal networks are a biological instantiation of scale-free network topology
+- [[the_information|The Information]] - Gleick covers the signals that flow through the networks Barabási maps
+- [[chaos|Chaos]] - Nonlinear dynamics complements network dynamics — together they cover complexity science
 
 ---
 

@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_Hi
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447047702i/63697.jpg"
 read_date: "2022"
-date: "2022-01-01"
+date: "2022-12-10"
 my_rating: 8
 synopsis: "In The Man Who Mistook His Wife for a Hat, Oliver Sacks, a renowned neurologist, presents a collection of case studies exploring various neurological disorders.  The title itself comes from the story of Dr. P., a patient with a condition called visual agnosia."
 tags:
@@ -51,7 +51,9 @@ In *The Man Who Mistook His Wife for a Hat*, neurologist Oliver Sacks presents a
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[a_leg_to_stand_on|A Leg to Stand On]] - Sacks on both sides of the clinical encounter — physician in *Hat*, patient in *Leg*
+- [[the_nocturnal_brain|The Nocturnal Brain]] - Leschziner's case-study approach is explicitly modelled on Sacks's
+- [[being_you|Being You]] - Seth's predictive-processing framework explains many of the perceptual breakdowns Sacks documents
 
 ---
 

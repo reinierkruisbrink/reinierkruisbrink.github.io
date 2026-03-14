@@ -29,6 +29,7 @@ In *Dirt to Soil*, Gabe Brown shares his journey from failing conventional farme
 ### Problems with Conventional Farming
 
 - **The Extractive Model**: Brown compares conventional farming to mining. Government soil tests consistently show depletion in organic matter and reduced rates of water infiltration compared to historical levels. This approach is fundamentally unsustainable.
+- **Disturbance of Soil Biology**: Monocultures, tillage, synthetic fertilizers, herbicides, and pesticides all disrupt the complex web of life in the soil. This leads to a loss of beneficial microbes and fungi that are essential for nutrient cycling and plant health.
 - **Cycle of Dependency**:
   - **Fertilizers**: Synthetic fertilizers feed plants directly but discourage them from forming essential mycorrhizal bonds with soil fungi. High-yield crop strains have been selected in sterile environments, making them dependent on these inputs and blind to natural relationships.
   - **Herbicides & Pesticides**: Herbicides often bind to metals (chelation) to kill weeds. However, crops also need these metals for their immune systems. This deficiency makes crops more susceptible to pests, ironicially increasing the demand for pesticides.

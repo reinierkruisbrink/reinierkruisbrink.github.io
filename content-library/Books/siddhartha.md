@@ -8,7 +8,7 @@ published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634523216i/59381643.jpg"
 read_date: "2025"
 date: "2025-01-01"
-my_rating: 8
+my_rating: 8.8
 synopsis: "Siddhartha by Herman Hesse (I read it in German) is a timeless novel on the spiritual journey of self-discovery and enlightenment. Set in ancient India, the book is heavily inspired by Buddhist and Hindu philosophies."
 tags:
   - "fiction"
@@ -49,7 +49,8 @@ Hermann Hesse's novella follows a young Brahmin named Siddhartha through ancient
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[el_alquimista|El Alquimista]] - Both are philosophical fables where wisdom comes through experience, not teaching
+- [[looking_for_spinoza|Looking for Spinoza]] - Damasio and Hesse both argue that self-knowledge requires feeling, not just intellect
 
 ---
 

@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/62586003-ultra-processed-peo
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679715862i/62586003.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-02-17"
 my_rating: 10
 synopsis: "Chris van Tulleken's Ultra-Processed People explores the profound impact of ultra-processed foods (UPFs) on human health, society, and the food industry. He argues that UPFs—industrially formulated products high in additives, emulsifiers, and preservatives, and low in fibers and the natural food-matrix, —are not just unhealthy but are actively reshaping our biology, behavior, and culture. The book examines how these foods affect our bodies at a molecular level while also exposing the corporate forces driving their dominance in global diets."
 tags:
@@ -57,7 +57,9 @@ Chris has written an incredible keystone book that has shaken public view on UPF
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman explains the evolutionary mismatch that ultra-processed food exploits
+- [[i_contain_multitudes|I Contain Multitudes]] - Yong covers the gut microbiome that UPF disrupts
+- [[chasing_the_sun|Chasing the Sun]] - Geddes shows another lifestyle factor (light) that industrialisation has distorted, paralleling van Tulleken on food
 
 ---
 

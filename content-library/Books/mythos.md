@@ -50,7 +50,9 @@ Stephen Fry retells the Greek myths from the very beginning — the emergence of
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[heroes|Heroes]] - Second volume in Fry's trilogy — the mortal successors to the gods
+- [[troy|Troy]] - Third volume — the war that binds gods and heroes
+- [[metamorphoses|Metamorphoses]] - Ovid's poem is the other great literary compendium of the same myths
 
 ---
 

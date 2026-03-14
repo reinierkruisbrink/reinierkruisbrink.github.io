@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/162370.Looking_for_Spinoza"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328874779i/162370.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-01-21"
 my_rating: 10
 synopsis: "In Looking for Spinoza, neuroscientist Antonio Damasio embarks on a unique quest: to bridge the gap between science and philosophy in understanding human emotions. He finds an unlikely partner in the 17th-century philosopher Baruch Spinoza, whose ideas surprisingly align with Damasio's own research on the role of the feeling brain."
 tags:
@@ -50,7 +50,9 @@ António Damásio bridges modern neuroscience and 17th-century philosophy to bui
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[feeling_and_knowing|Feeling & Knowing]] - Damasio's later, more concise statement of the same core thesis
+- [[the_hidden_spring|The Hidden Spring]] - Solms extends Damasio by anchoring affect in the brainstem with free energy maths
+- [[the_strange_order_of_things|The Strange Order of Things]] - Damasio's companion extending feelings into culture and homeostasis
 
 ---
 

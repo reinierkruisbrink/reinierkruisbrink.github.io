@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/208920500-good-nature"
 published_date: "2024"
 cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729700090i/208920500.jpg"
 read_date: "2026"
-date: "2026-01-01"
-my_rating: 8
+date: "2026-01-02"
+my_rating: 8.7
 synopsis: "Good Nature explores the research and benefits of nature exposure on human health, focusing on the physiological and psychological mechanisms that link natural environments to well-being, and how these can be applied in practice."
 tags:
   - "biology"
@@ -61,7 +61,9 @@ I found this book perfect, except for the fact that the author did not end with 
 
 ## Related Books
 
-- ...
+- [[an_immense_world|An Immense World]] - Yong's sensory ecology explains why natural stimuli are biologically potent
+- [[chasing_the_sun|Chasing the Sun]] - Geddes focuses on one specific natural stimulus (sunlight) with the same "nature is medicine" thesis
+- [[in_praise_of_walking|In Praise of Walking]] - O'Mara provides the neuroscience of one specific nature-health pathway Willis's framework encompasses
 
 ---
 

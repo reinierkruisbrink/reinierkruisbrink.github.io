@@ -8,7 +8,7 @@ published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654622398i/60149545.jpg"
 read_date: "2021"
 date: "2021-01-01"
-my_rating: 8
+my_rating: 8.5
 synopsis: "In Papyrus, Irene Vallejo tells the captivating story of how books, as we know them, came to be. It's not just a dry historical account; it's a love letter to the written word."
 tags:
   - "history"
@@ -50,7 +50,9 @@ Irene Vallejo traces the material and cultural history of the book from its orig
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_information|The Information]] - Gleick traces information encoding from drums to digital; Vallejo covers the book as information technology
+- [[the_etymologicon|The Etymologicon]] - Both celebrate how language shapes and preserves knowledge — through books vs through words
+- [[kruiden_kokkels_en_kippen|Kruiden, Kokkels, en Kippen]] - Both explore how fragile the transmission of knowledge through history has been
 
 ---
 

@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/54390506-a-brief-history-of-
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1612736914i/54390506.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-08-05"
 my_rating: 8
 synopsis: "A Brief History of Earth by Andrew Knoll is an interesting retelling of our planet's 4.6 billion-year history. Knoll takes readers on a journey through time, from the Earth's fiery birth to the rise of complex life and the Anthropocene era."
 tags:
@@ -66,7 +66,9 @@ A Brief History of Earth by Andrew Knoll is an interesting retelling of our plan
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[geopedia|Geopedia]] - Companion geological reference covering the terms and concepts behind Earth's deep history
+- [[transformer|Transformer]] - Lane traces the origin of metabolism at hydrothermal vents, the biochemical prelude to the biological innovation Knoll charts
+- [[the_invention_of_nature|The Invention of Nature]] - Humboldt pioneered the view of Earth as a coupled system that Knoll's narrative depends on
 
 ---
 

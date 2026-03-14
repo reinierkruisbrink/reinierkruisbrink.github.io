@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/23995249-the-invention-of-na
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452449264i/23995249.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-03-06"
+my_rating: 8.7
 synopsis: "The Invention of Nature: Alexander von Humboldt's New World by Andrea Wulf is a biography of Prussian naturalist and explorer Alexander von Humboldt (1769-1859). The book explores how Humboldt's travels and writings greatly influenced the way we understand the natural world today."
 tags:
   - "environmental-science"
@@ -51,7 +51,9 @@ Andrea Wulf reconstructs the life of Alexander von Humboldt (1769–1859), the P
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_secret_network_of_nature|The Secret Network of Nature]] - Wohlleben's ecological interconnection is a direct descendant of Humboldt's holistic view
+- [[a_brief_history_of_earth|A Brief History of Earth]] - Knoll covers the deep time behind the landscapes Humboldt explored
+- [[dirt_to_soil|Dirt to Soil]] - Brown's regenerative agriculture embodies Humboldt's insight that nature is a web
 
 ---
 

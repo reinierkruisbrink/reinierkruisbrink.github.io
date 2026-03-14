@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/53443339-troy"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1589888687i/53443339.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-02-20"
 my_rating: 10
 synopsis: "In Stephen Fry's witty and engaging book, Troy, he takes you on a thrilling journey through the legendary Trojan War. Unlike other retellings that focus solely on the Iliad's timeframe, Fry offers a more comprehensive view."
 tags:
@@ -49,7 +49,9 @@ Stephen Fry retells the saga of the Trojan War from its mythological origins to 
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[mythos|Mythos]] - Fry’s Greek-myth overview; Troy zooms in on the war at the centre of those myths
+- [[heroes|Heroes]] - Fry’s character-driven companion; many heroes reach their fate at Troy
+- [[the_iliad|The Iliad]] - Homer’s original source for the siege Fry retells
 
 ---
 

@@ -49,6 +49,8 @@ tags:
 ## Related Books
 
 - [[dirt_to_soil|Dirt to Soil]] - Both books emphasize the critical role of roots in maintaining soil health and the overall ecosystem, challenging traditional views of agriculture that focus primarily on above-ground plant parts.
+- [[entangled_life|Entangled Life]] - Sheldrake explores the mycorrhizal fungi that colonise the roots Kourik demystifies
+- [[treepedia|Treepedia]] - Maloof catalogues the trees whose root systems Kourik describes
 ---
 
 **Parent:** [[Books/index|Books]]

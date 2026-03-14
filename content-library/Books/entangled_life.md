@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/52668915-entangled-life"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575341220l/52668915.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-04-26"
+my_rating: 8.4
 synopsis: "Sheldrake argues that fungi are vastly underestimated. Often overlooked, they play a critical role in Earth's ecosystems, from decomposition and nutrient cycling to forming symbiotic relationships with plants (like the mycorrhizal network nicknamed the Wood Wide Web)."
 tags:
   - "biology"
@@ -59,7 +59,9 @@ Sheldrake argues that fungi are vastly underestimated. Often overlooked, they pl
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[fungipedia|Fungipedia]] - Millman's compendium provides the taxonomic breadth that complements Sheldrake's narrative depth
+- [[the_secret_network_of_nature|The Secret Network of Nature]] - Wohlleben describes ecosystem cascades that depend on the fungal networks Sheldrake explores mechanistically
+- [[i_contain_multitudes|I Contain Multitudes]] - Both challenge individual-organism thinking — Yong with microbes, Sheldrake with fungi
 
 ---
 

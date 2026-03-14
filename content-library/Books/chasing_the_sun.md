@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/42603316-chasing-the-sun"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541060453i/42603316.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-03-03"
 my_rating: 8
 synopsis: "Chasing the Sun by Linda Geddes explores the impact of sunlight on human health and well-being, delving into the science behind its effects and the consequences of our increasingly indoor lifestyles."
 tags:
@@ -57,7 +57,9 @@ tags:
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_nocturnal_brain|The Nocturnal Brain]] - Geddes covers what sunlight does to the clock; Leschziner covers what happens when the clock breaks during sleep
+- [[good_nature|Good Nature]] - Both examine how sensory exposure to natural stimuli (sunlight, green spaces) modulates health
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman's "mismatch diseases" include the sun-deprived conditions Geddes attributes to indoor living
 
 ---
 

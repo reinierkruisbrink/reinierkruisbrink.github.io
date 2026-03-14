@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/5755.The_Language_Instinct"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388342388i/5755.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-09-18"
 my_rating: 8
 synopsis: "In The Language Instinct: How the Mind Creates Language, Steven Pinker argues that humans are born with a natural predisposition for language, not just a learned ability."
 tags:
@@ -50,7 +50,9 @@ Steven Pinker argues that language is not a cultural invention learned purely th
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_stuff_of_thought|The Stuff of Thought]] - Pinker's companion; *Language Instinct* covers biological basis, *Stuff of Thought* explores cognition
+- [[the_etymologicon|The Etymologicon]] - Forsyth traces historical word drift; Pinker explains the biological machinery producing and processing them
+- [[being_you|Being You]] - Seth's predictive brain resonates with Pinker's "mentalese" — internal models structuring experience
 
 ---
 

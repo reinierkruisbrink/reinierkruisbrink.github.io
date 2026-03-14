@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/29780118-the-extended-selfis
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550733215i/29780118.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-04-10"
+my_rating: 8.1
 synopsis: "The Extended Selfish Gene by Richard Dawkins is a follow-up to his highly influential book, The Selfish Gene. Dawkins expands on his original view that genes, not individual organisms, are the fundamental unit of natural selection."
 tags:
   - "biology"
@@ -48,7 +48,9 @@ In *The Extended Selfish Gene*, Richard Dawkins combines his two foundational wo
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_gene|The Gene]] - Mukherjee provides the history Dawkins' theoretical framework operates within
+- [[how_life_works|How Life Works]] - Ball pushes beyond the gene-centric view Dawkins champions — a direct counterpoint
+- [[i_contain_multitudes|I Contain Multitudes]] - The microbiome is a vivid example of Dawkins' "extended phenotype"
 
 ---
 

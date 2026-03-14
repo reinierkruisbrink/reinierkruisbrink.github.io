@@ -54,7 +54,9 @@ In *Being You*, neuroscientist Anil Seth proposes that consciousness is best und
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_hidden_spring|The Hidden Spring]] - Both map consciousness onto predictive processing but disagree on the locus (cortex vs brainstem)
+- [[active_inference|Active Inference]] - The mathematical formalism behind the "controlled hallucination" Seth describes
+- [[looking_for_spinoza|Looking for Spinoza]] - Damasio's somatic-marker hypothesis prefigures Seth's interoceptive model of selfhood
 
 ---
 

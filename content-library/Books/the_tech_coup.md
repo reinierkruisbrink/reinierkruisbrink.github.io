@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/208187020-the-tech-coup"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718862535i/208187020.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-06-22"
 my_rating: 8
 synopsis: "In De Tech Coup, Marietje Schaake, a former Member of European Parliament and current Stanford policy expert, critically examines the increasing power and influence of major tech companies and how their largely unregulated dominance poses significant risks to democracy, privacy, and societal well-being."
 tags:
@@ -46,7 +46,9 @@ Marietje Schaake, former Member of European Parliament and Stanford cyber-policy
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[er_is_leven_na_de_groei|Er is leven na de groei]] - Both critique unchecked growth — Timmer in tech, Kalshoven in the wider economy
+- [[the_future_of_energy|The Future of Energy]] - Smil supplies the resource constraints behind the tech-driven promises Timmer challenges
+- [[linked|Linked]] - Barabási’s network theory provides the structural lens for the platform dynamics Timmer describes
 
 ---
 

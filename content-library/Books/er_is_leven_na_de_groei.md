@@ -1,14 +1,14 @@
 ---
 title: "Er is leven na de groei"
-subtitle: ""
+subtitle: "Hoe we onze toekomst realistisch veiligstellen"
 author: "Paul Schenderling"
 author_url: "https://www.goodreads.com/author/show/6529799.Paul_Schenderling"
 goodreads_url: "https://www.goodreads.com/book/show/61327673-er-is-leven-na-de-groei"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655727331i/61327673.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-07-15"
+my_rating: 7.6
 synopsis: "Er is leven na de groei by Paul Schenderling argues for a post-growth society in The Netherlands, challenging the relentless pursuit of economic expansion as the sole measure of progress and well-being."
 tags:
   - "society"
@@ -55,7 +55,9 @@ tags:
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_future_of_energy|The Future of Energy]] - Black's energy roadmap is the operational complement to Schenderling's post-growth vision
+- [[clearing_the_air|Clearing the Air]] - Smedley's pollution crisis provides environmental evidence for the growth-limits Schenderling argues
+- [[ultra_processed_people|Ultra-Processed People]] - Both critique industrial systems optimised for growth at the expense of health
 
 ---
 

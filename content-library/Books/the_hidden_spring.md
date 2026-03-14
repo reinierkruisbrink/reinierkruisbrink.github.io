@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/53642061-the-hidden-spring"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605906973i/53642061.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 10
+date: "2023-08-30"
+my_rating: 9.5
 synopsis: "In The Hidden Spring, Mark Solms, a neuropsychologist, ventures on a quest to understand the origin of consciousness. In my opinion, this book is an extension/combination of the work of Damasio and Seth/Friston."
 tags:
   - "neuroscience"
@@ -53,7 +53,9 @@ In *The Hidden Spring*, neuropsychologist Mark Solms argues that consciousness d
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[being_you|Being You]] - Both map consciousness onto predictive processing but disagree on the locus (brainstem vs cortex)
+- [[looking_for_spinoza|Looking for Spinoza]] - Solms explicitly extends Damasio's affect-first thesis with Friston's maths
+- [[active_inference|Active Inference]] - The formal framework Solms draws on to explain feelings as precision-weighted prediction errors
 
 ---
 

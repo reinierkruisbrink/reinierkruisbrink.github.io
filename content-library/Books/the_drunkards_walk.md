@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/2272880.The_Drunkard_s_Walk"
 published_date: ""
 cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1320392907i/2272880.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-10-23"
 my_rating: 8
 synopsis: "In The Drunkard's Walk: How Randomness Rules Our Lives Mlodinow argues that we fundamentally underestimate the role of chance in daily events, mistakenly attributing random outcomes to skill, intention, or deeper causality."
 tags:
@@ -58,7 +58,9 @@ The central metaphor is the *drunkard's walk* (random walk) — the unpredictabl
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[everything_is_predictable|Everything Is Predictable]] - Mlodinow shows our probability failures; Chivers argues Bayesian thinking is the remedy
+- [[the_primacy_of_doubt|The Primacy of Doubt]] - Palmer operationalises uncertainty — turning narrated randomness into actionable science
+- [[chaos|Chaos]] - Gleick reveals deterministic systems that look random; Mlodinow reveals randomness that looks deterministic
 
 ---
 

@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/27276428-the-gene"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452452965i/27276428.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 10
+date: "2024-03-07"
+my_rating: 9.5
 synopsis: "Mukherjee traces the scientific journey of unraveling the mysteries of genes, from Gregor Mendel's pioneering pea plant experiments to the discovery of the double helix structure of DNA by Watson and Crick."
 tags:
   - "biology"
@@ -50,7 +50,9 @@ In *The Gene*, Siddhartha Mukherjee traces the scientific and cultural history o
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[how_life_works|How Life Works]] - Ball argues modern biology has moved beyond the gene-centric view Mukherjee's history culminates in
+- [[the_extended_selfish_gene|The Extended Selfish Gene]] - Dawkins provides the theoretical gene's-eye-view Mukherjee narrates historically
+- [[the_song_of_the_cell|The Song of the Cell]] - Mukherjee's companion; *The Gene* tells heredity, *The Song of the Cell* tells the unit genes build
 
 ---
 

@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/60321392-the-song-of-the-cel
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1666198162i/60321392.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 10
+date: "2024-03-30"
+my_rating: 9.9
 synopsis: "In The Song of the Cell, Pulitzer Prize-winning author Siddhartha Mukherjee delves into the fascinating world of cellular biology and its impact on human health."
 tags:
   - "biology"
@@ -51,7 +51,9 @@ Siddhartha Mukherjee traces the history of cell biology from its earliest micros
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_gene|The Gene]] - Mukherjee's earlier work; DNA-centred view that this book extends to the cell
+- [[how_life_works|How Life Works]] - Ball argues biology is more than genes — same cell-first perspective Mukherjee reaches
+- [[immune|Immune]] - Dettmer visualises the immune cells whose deeper story Mukherjee tells
 
 ---
 

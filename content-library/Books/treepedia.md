@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/56355780-treepedia"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1568046678i/44526053.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 6
+date: "2024-06-14"
+my_rating: 6.4
 synopsis: "In Treepedia: A Brief Compendium of Arboreal Lore, Joan Maloof celebrates all things tree-related. This informative and entertaining book takes readers on a journey through the fascinating world of trees."
 tags:
   - "biology"
@@ -51,7 +51,9 @@ Joan Maloof presents an encyclopaedic celebration of trees, covering their biolo
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[florapedia|Florapedia]] - Both are encyclopaedic plant references; Florapedia covers wider botany, Treepedia focuses on trees
+- [[the_secret_network_of_nature|The Secret Network of Nature]] - Wohlleben narrates tree ecology; Treepedia provides the species-level knowledge
+- [[entangled_life|Entangled Life]] - Sheldrake explores the fungal partners that underpin every tree in the book
 
 ---
 

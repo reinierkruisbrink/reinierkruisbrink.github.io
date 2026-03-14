@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/40528036-the-secret-network-
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1528982901i/40528036.jpg"
 read_date: "2022"
-date: "2022-01-01"
-my_rating: 8
+date: "2022-12-21"
+my_rating: 8.3
 synopsis: "In The Secret Network of Nature, forester and author Peter Wohlleben sheds light on the intricate web of connections that sustains our natural world. It's a fascinating departure from the traditional view of ecosystems as independent entities."
 tags:
   - "environmental-science"
@@ -49,7 +49,9 @@ In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden w
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[entangled_life|Entangled Life]] - Sheldrake dives into the fungal networks Wohlleben describes as hidden connections
+- [[the_invention_of_nature|The Invention of Nature]] - Humboldt first articulated the interconnected web of nature Wohlleben illustrates
+- [[linked|Linked]] - Barabási formalises the network science behind the ecological links Wohlleben narrates
 
 ---
 

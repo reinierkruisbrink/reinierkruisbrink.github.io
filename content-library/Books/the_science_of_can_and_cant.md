@@ -8,7 +8,7 @@ published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616017771i/54837100.jpg"
 read_date: "2022"
 date: "2022-01-01"
-my_rating: 4
+my_rating: 5
 synopsis: "In The Science of Can and Can't, physicist Chiara Marletto proposes a radical new way to look at the universe: through the lens of counterfactuals."
 tags:
   - "physics"
@@ -48,7 +48,9 @@ Chiara Marletto introduces "constructor theory," a framework developed with Davi
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_information|The Information]] - Gleick traces information theory historically; Marletto redefines it from first principles
+- [[transformer|Transformer]] - Lane's thermodynamic account of life connects to Marletto's counterfactual reformulation of irreversibility
+- [[life_on_the_edge|Life on the Edge]] - Both push physics into biology — quantum mechanics vs constructor theory
 
 ---
 

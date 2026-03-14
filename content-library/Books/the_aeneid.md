@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/54846104-the-aeneid"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604222972i/54846104.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-11-29"
 my_rating: 8
 synopsis: "The Aeneid by Virgil is an epic poem that follows Aeneas, a Trojan warrior, after the fall of Troy. Heavily inspired by the Oddyssey by Homer, this Roman version of Greece art is slightly altered in such a way to account for Rome's glory."
 tags:
@@ -53,7 +53,9 @@ The Aeneid by Virgil is an epic poem that follows Aeneas, a Trojan warrior, afte
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_odyssey|The Odyssey]] - Virgil's direct literary model; Aeneas's wandering deliberately echoes Odysseus's
+- [[the_iliad|The Iliad]] - The Trojan War that drives Aeneas into exile
+- [[troy|Troy]] - Fry covers the complete narrative, including the fall that launches Aeneas's story
 
 ---
 

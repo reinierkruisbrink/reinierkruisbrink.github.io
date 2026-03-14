@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/54110452-the-secret-world-of
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616956880i/54110452.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-10-14"
 my_rating: 8
 synopsis: "The Secret World of Weather by Tristan Gooley is a fascinating blend of the science and art of weather forecasting. Gooley delves into the intricacies of meteorology, providing readers with a deeper understanding of the forces that shape our climate."
 tags:
@@ -48,7 +48,9 @@ Tristan Gooley teaches readers to read weather at the hyper-local scale — not 
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_blue_machine|The Blue Machine]] - Talley provides the oceanic counterpart to Gooley's atmospheric patterns
+- [[the_primacy_of_doubt|The Primacy of Doubt]] - Palmer explains the physics and chaos behind the weather patterns Gooley reads
+- [[geopedia|Geopedia]] - Marais covers Earth-system concepts that overlap with Gooley's micro-weather
 
 ---
 

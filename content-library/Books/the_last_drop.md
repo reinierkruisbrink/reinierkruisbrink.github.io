@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/125070173-the-last-drop"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680670467i/125070173.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-09-14"
+my_rating: 8.6
 synopsis: "The Last Drop by Tim Smedley explores the global water crisis, arguing that the issue isn't a lack of water on Earth but rather how humans mismanage and distribute it."
 tags:
   - "environmental-science"
@@ -55,7 +55,9 @@ Overall very interesting insights into water management, although it can be heav
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[clearing_the_air|Clearing the Air]] - Same author, same urgency: air and water as companion environmental crises
+- [[the_blue_machine|The Blue Machine]] - Czerski explains the physical water cycle Smedley shows humans are disrupting
+- [[dirt_to_soil|Dirt to Soil]] - Brown's regenerative agriculture directly addresses the water-cycle damage Smedley documents
 
 ---
 

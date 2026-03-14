@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/80050.A_Leg_to_Stand_On"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924902i/80050.jpg"
 read_date: "2022"
-date: "2022-01-01"
-my_rating: 8
+date: "2022-11-22"
+my_rating: 8.2
 synopsis: "In A Leg to Stand On, Oliver Sacks, the renowned neurologist, sheds his usual white coat and becomes the patient. The book chronicles his experience recovering from a severe leg injury sustained in a mountaineering accident."
 tags:
   - "neuroscience"
@@ -49,7 +49,9 @@ Oliver Sacks, renowned for documenting the neurological conditions of others, tu
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_man_who_mistook_his_wife_for_a_hat_and_other_clinical_tales|The Man Who Mistook His Wife for a Hat]] - Sacks's case-study companion; the same neurological themes from the physician's side of the bed
+- [[being_you|Being You]] - Seth's predictive-processing framework explains why losing proprioceptive predictions dissolves bodily ownership
+- [[the_nocturnal_brain|The Nocturnal Brain]] - Another case-study book using patient stories to reveal how the brain constructs normal experience
 
 ---
 

@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/57423646-immune"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617072418i/57423646.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 8
+date: "2024-08-13"
+my_rating: 8.8
 synopsis: "Immune by Philip Dettmer is a beautiful introduction to the human immune system, its functions, and its impact on our health. Dettmer delves into the complex world of immunology, breaking down concepts in an accessible manner for readers of all backgrounds."
 tags:
   - "biology"
@@ -52,7 +52,9 @@ Philipp Dettmer (creator of the Kurzgesagt YouTube channel) provides a comprehen
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[i_contain_multitudes|I Contain Multitudes]] - The microbiome is the immune system's constant negotiation partner
+- [[the_song_of_the_cell|The Song of the Cell]] - Mukherjee explores the cells (T-cells, macrophages) Dettmer describes at the system level
+- [[the_secret_body|The Secret Body]] - Davis covers recent immunology breakthroughs extending Dettmer's story
 
 ---
 

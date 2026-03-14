@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/27213168-i-contain-multitude
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445606162i/27213168.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 10
+date: "2024-05-30"
+my_rating: 9.7
 synopsis: "Ed Yong's I Contain Multitudes dives into the fascinating world of microbes living within us. From bacteria that help us digest food to viruses that shape our immune system, these tiny organisms play a far bigger role than just causing sickness."
 tags:
   - "biology"
@@ -57,7 +57,9 @@ Ed Yong's "I Contain Multitudes" dives into the fascinating world of microbes li
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[immune|Immune]] - The immune system must negotiate with the microbial multitudes Yong describes
+- [[entangled_life|Entangled Life]] - Extends the symbiosis paradigm from bacteria to fungi
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman contextualises the microbiome within human evolutionary history
 
 ---
 

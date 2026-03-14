@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/199798096-everything-is-pred
 published_date: ""
 cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1713212812i/199798096.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-11-15"
+my_rating: 8.5
 synopsis: "The book is not so much an engaging deep dive into how Bayesian probability works, but rather advocating for its power as a framework for understanding not just statistics, but human reasoning, psychology, and even the functioning of the brain."
 tags:
   - "mathematics"
@@ -46,11 +46,13 @@ Tom Chivers argues that Bayes' theorem — a simple formula for updating beliefs
 
 ## Personal Reflection
 
-[To be added]
+"I beseech you, in the bowels of Christ, think it possible you may be mistaken." (Cromwell's Rule) This is the core lesson of Bayesian reasoning: to always consider the possibility that your current beliefs are wrong and to update them in light of new evidence. The book is not so much an engaging deep dive into how Bayesian probability works, but rather advocating for its power as a framework for understanding not just statistics, but human reasoning, psychology, and even the functioning of the brain. It has made me more aware of the cognitive biases that can lead us astray and the importance of maintaining intellectual humility in the face of uncertainty.
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[being_you|Being You]] - Seth's "Bayesian brain" is exactly the cognitive architecture Chivers advocates
+- [[the_drunkards_walk|The Drunkard's Walk]] - Mlodinow shows how badly we fail at probability; Chivers shows how Bayes can fix it
+- [[active_inference|Active Inference]] - The mathematical formalisation of the Bayesian inference Chivers popularises
 
 ---
 

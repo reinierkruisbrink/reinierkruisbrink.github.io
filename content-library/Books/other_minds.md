@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/28116739-other-minds"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606353700i/28116739.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-06-10"
+my_rating: 7.8
 synopsis: "Peter Godfrey-Smith dives into the intriguing world of cephalopod intelligence, particularly octopuses, and what it means to be conscious."
 tags:
   - "biology"
@@ -51,7 +51,9 @@ In *Other Minds*, philosopher of science Peter Godfrey-Smith uses the octopus as
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[an_immense_world|An Immense World]] - Both explore non-human consciousness through radically different sensory/neural architectures
+- [[feeling_and_knowing|Feeling & Knowing]] - Damasio traces consciousness to simple organisms; Godfrey-Smith asks whether octopuses have it
+- [[being_you|Being You]] - Seth's framework applies directly to the question of what it is like to be an octopus
 
 ---
 

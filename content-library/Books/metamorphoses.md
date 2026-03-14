@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/20808817-metamorphoses"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503387251i/20808817.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 8
+date: "2024-07-30"
+my_rating: 8.9
 synopsis: "Ovid's Metamorphoses is a sprawling epic poem that recounts a series of mythological transformations. From the creation of the universe to the transformation of humans into animals and objects, the poem explores the vast tapestry of Greek and Roman mythology."
 tags:
   - "classics"
@@ -55,7 +55,9 @@ Ovid's Metamorphoses is a sprawling epic poem that recounts a series of mytholog
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[mythos|Mythos]] - Fry retells the creation myths and divine stories that are raw material for Ovid's transformations
+- [[heroes|Heroes]] - Several of Ovid's human protagonists reappear with expanded arcs in Fry
+- [[the_odyssey|The Odyssey]] - Homer shares the transformation-through-journey theme; Ovid reworks Homeric episodes
 
 ---
 

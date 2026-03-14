@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/54232154-feeling-knowing"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602569086i/54232154.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 10
+date: "2025-05-29"
+my_rating: 9.5
 synopsis: "In Feeling & Knowing: Making Minds Conscious, Antonio Damasio presents a compelling argument for consciousness as an evolved biological phenomenon, not a sudden emergence. He meticulously traces its origins, highlighting feelings as crucial precursors to consciousness."
 tags:
   - "neuroscience"
@@ -56,7 +56,9 @@ In "Feeling & Knowing: Making Minds Conscious," Antonio Damasio presents a compe
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[looking_for_spinoza|Looking for Spinoza]] - Damasio's earlier, deeper treatment of the same thesis: feelings as the foundation of consciousness
+- [[the_hidden_spring|The Hidden Spring]] - Solms synthesises Damasio's affective core with Friston's free energy principle
+- [[the_strange_order_of_things|The Strange Order of Things]] - Damasio's companion work extending feelings into culture and homeostasis
 
 ---
 

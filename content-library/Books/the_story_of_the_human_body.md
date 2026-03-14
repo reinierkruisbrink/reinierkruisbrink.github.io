@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/17736859-the-story-of-the-hu
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375545961i/17736859.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-04-28"
 my_rating: 10
 synopsis: "Lieberman meticulously traces the evolutionary journey of the human body, highlighting key adaptations like bipedalism, changes in diet and brain size, and fat storage. He then contrasts this deep history with the relatively recent and dramatic shifts brought about by cultural evolution, particularly agriculture and industrialization."
 tags:
@@ -59,7 +59,9 @@ This rapid environmental change has created a "mismatch" where our bodies are il
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[guns_germs_and_steel|Guns, Germs, and Steel]] - Diamond covers the macro-history; Lieberman zooms in on the body’s mismatch with that history
+- [[ultra_processed_people|Ultra-Processed People]] - Van Tulleken details a modern mismatch disease Lieberman would predict
+- [[in_praise_of_walking|In Praise of Walking]] - O’Mara celebrates the movement Lieberman argues our bodies evolved for
 
 ---
 

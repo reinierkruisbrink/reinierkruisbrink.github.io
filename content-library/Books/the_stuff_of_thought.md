@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/3108476-the-stuff-of-thought
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365987925i/3108476.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-10-16"
+my_rating: 8.9
 synopsis: "In The Stuff of Thought: Language As a Window Into Human Nature, Steven Pinker dives into the fascinating world of language and how it reflects our thoughts. The book explores the concept of mentalese, a hypothetical mental language underlying all human languages."
 tags:
   - "linguistics"
@@ -50,7 +50,9 @@ Steven Pinker uses the structure of everyday language — verb constructions, me
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_language_instinct|The Language Instinct]] - Pinker’s foundational case for innate grammar; this book builds on it by exploring meaning
+- [[ondraaglijke_lichtheid|Ondraaglijke Lichtheid]] - Kundera also probes metaphor and meaning, through literature rather than linguistics
+- [[the_etymologicon|The Etymologicon]] - Forsyth plays with the surprising connections between words that Pinker analyses formally
 
 ---
 

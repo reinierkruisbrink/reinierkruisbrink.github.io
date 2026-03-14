@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/44526053-fungipedia"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621244075i/56355780.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 6
+date: "2024-06-08"
+my_rating: 6.8
 synopsis: "Fungipedia: A Brief Compendium of Mushroom Lore is a quirky and informative account of the world of fungi. It delves into various aspects of mushrooms, from their surprising connection to humans to their fascinating biology and cultural significance."
 tags:
   - "biology"
@@ -50,7 +50,8 @@ Lawrence Millman presents an alphabetical compendium of entries on fungi — cov
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[entangled_life|Entangled Life]] - Sheldrake provides in-depth narrative treatment of the fungal biology Millman surveys
+- [[i_contain_multitudes|I Contain Multitudes]] - Extends the symbiosis theme to bacteria and viruses — the other invisible kingdom
 
 ---
 

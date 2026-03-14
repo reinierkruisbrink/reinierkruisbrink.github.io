@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/199239387-kruiden-kokkels-en
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696113429i/199239387.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-02-06"
 my_rating: 8
 synopsis: "In Kruiden, Kokkels en Kippen, Dutch scientist and author Louise Fresco explores the scientific journey through the lens of two historical figures."
 tags:
@@ -48,7 +48,9 @@ In *Kruiden, Kokkels en Kippen*, Dutch scientist Louise O. Fresco uses the lives
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_invention_of_nature|The Invention of Nature]] - Both reconstruct how colonial-era naturalists built scientific knowledge
+- [[papyrus|Papyrus]] - Vallejo traces how knowledge was preserved; Fresco shows how fragile and contingent that process was
+- [[guns_germs_and_steel|Guns, Germs, and Steel]] - Diamond's colonial-geographic framework is the macro backdrop to Fresco's individual stories
 
 ---
 

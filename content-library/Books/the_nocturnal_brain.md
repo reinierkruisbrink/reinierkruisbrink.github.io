@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/41150417-the-nocturnal-brain
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1560905389i/41150417.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-04-03"
+my_rating: 8.4
 synopsis: "The Nocturnal Brain by Guy Leschziner explores the often-bizarre and sometimes frightening world of sleep disorders. As a leading neurologist specializing in sleep medicine, Leschziner uses compelling case studies from his own practice to illuminate the complex neurological processes that govern our nights and what happens when they go awry."
 tags:
   - "neuroscience"
@@ -57,7 +57,9 @@ The book delves into a range of sleep disorders, moving beyond simple insomnia t
 Similarly to the books and descriptions by neurologist Oliver Sacks, Leschziner's writing is engaging and accessible, making complex neurological concepts understandable to a general audience. He weaves together personal anecdotes, scientific insights, and patient stories to create a compelling narrative that sheds light on the mysteries of sleep and its disorders. The book serves as a reminder of the importance of sleep for our overall well-being and the intricate workings of the brain during this enigmatic state.
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[chasing_the_sun|Chasing the Sun]] - The circadian system Geddes describes is the clock whose disorders Leschziner treats
+- [[the_man_who_mistook_his_wife_for_a_hat_and_other_clinical_tales|The Man Who Mistook His Wife for a Hat]] - Leschziner's case-study approach descends from Sacks's neurological storytelling
+- [[the_spike|The Spike]] - Humphries covers the neural mechanisms underlying the sleep phenomena Leschziner observes
 
 ---
 

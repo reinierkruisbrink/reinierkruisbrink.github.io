@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/49607743-ondraaglijke-lichth
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1569598243l/49607743.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-07-31"
+my_rating: 8.5
 synopsis: "Ondraaglijke Lichtheid (Unbearable Lightness) by Ilja Leonard Pfeijffer is a collection of essays that critically examines the pervasive role of irony in contemporary society, particularly in public discourse and social interactions."
 tags:
   - "philosophy"
@@ -46,7 +46,9 @@ A short but very insightful read on the role of irony in our society, and how it
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_stuff_of_thought|The Stuff of Thought]] - Pinker analyses how language reveals thought; Pfeijffer analyses how irony conceals it
+- [[alice_in_wonderland|Alice in Wonderland]] - Carroll weaponises nonsense the way modern culture weaponises irony — both expose the fragility of meaning
+- [[the_etymologicon|The Etymologicon]] - Forsyth traces how words drift from original meanings; Pfeijffer shows how irony accelerates the same process
 
 ---
 

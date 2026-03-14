@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/en/book/show/58999183"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650681579i/58999183.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-04-21"
 my_rating: 10
 synopsis: "In Transformer: The Deep Chemistry of Life and Death, Nick Lane challenges traditional views on life by placing the spotlight on a fundamental biochemical process: the Krebs cycle / citric acid cycle."
 tags:
@@ -51,7 +51,9 @@ Nick Lane argues that the Krebs cycle (citric acid cycle) is not merely a metabo
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[introductory_biochemistry|Introductory Biochemistry]] - The textbook foundations underlying the energy transformations Lane describes
+- [[how_life_works|How Life Works]] - Ball and Lane converge: life is about energy flow and cellular organisation, not just genes
+- [[what_is_life|What is Life?]] - Schrödinger asks the big question; Lane answers it with proton gradients and thermodynamics
 
 ---
 

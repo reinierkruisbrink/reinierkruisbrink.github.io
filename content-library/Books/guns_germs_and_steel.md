@@ -8,7 +8,7 @@ published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1453215833i/1842.jpg"
 read_date: "2021"
 date: "2021-01-01"
-my_rating: 10
+my_rating: 9.6
 synopsis: "In Jared Diamond's thought-provoking book, Guns, Germs, and Steel, he tackles a big question: Why did some societies develop complex technologies and empires while others remained hunter-gatherers? Diamond argues that the answer lies not in racial superiority, but in geographical advantages."
 tags:
   - "history"
@@ -51,7 +51,9 @@ Jared Diamond asks why Eurasian civilisations came to dominate and displace othe
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman picks up where Diamond leaves off: how agriculture reshaped the human body
+- [[the_invention_of_nature|The Invention of Nature]] - Humboldt was among the first to link geography to life distribution — the intellectual precursor to Diamond's argument
+- [[the_extended_selfish_gene|The Extended Selfish Gene]] - Dawkins' gene-level evolution provides the mechanism behind the domestication processes Diamond describes
 
 ---
 

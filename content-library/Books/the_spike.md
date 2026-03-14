@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/55271760-the-spike"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1610926435i/55271760.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-08-13"
+my_rating: 8.9
 synopsis: "The Spike by Mark Humphries takes a deep dive into the fundamental unit of communication in the brain: the electrical spike."
 tags:
   - "neuroscience"
@@ -53,7 +53,9 @@ In *The Spike*, computational neuroscientist Mark Humphries follows a single mom
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[being_you|Being You]] - Seth and Humphreys both build on prediction and neural coding; complementary perspectives on consciousness
+- [[active_inference|Active Inference]] - Parr et al.’s formal framework gives mathematical depth to the predictive-brain ideas Humphreys narrates
+- [[neuropedia|Neuropedia]] - Coltart’s quick-reference entries contextualise the neurons and circuits Humphreys describes
 
 ---
 

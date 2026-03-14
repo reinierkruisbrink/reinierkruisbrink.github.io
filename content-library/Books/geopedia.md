@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/58537508-geopedia"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635863606i/58537508.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 8
+date: "2024-08-14"
+my_rating: 8.5
 synopsis: "Geopedia by Marcia Bjornerud is a fascinating account on the geological terms and concepts that shape our understanding of the Earth. It's a captivating journey through the lexicon of geology, from ancient Greek words to modern scientific terms."
 tags:
   - "environmental-science"
@@ -50,7 +50,9 @@ Marcia Bjornerud presents an A-to-Z exploration of geological concepts, terms, a
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[a_brief_history_of_earth|A Brief History of Earth]] - Knoll narrates the story Bjornerud's entries define
+- [[the_blue_machine|The Blue Machine]] - Czerski covers the ocean half of Earth's systems; Bjornerud covers the solid-earth half
+- [[the_secret_world_of_weather|The Secret World of Weather]] - Gooley reads weather at the surface; Bjornerud explains the geological forces that shape the landscapes weather acts upon
 
 ---
 

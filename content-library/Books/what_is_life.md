@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/53404245-what-is-life"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605906932i/53404245.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 10
+date: "2024-02-04"
+my_rating: 9.2
 synopsis: "In What is Life?, Nobel laureate Paul Nurse tackles the fundamental question of what defines life. The book isn't a rigid scientific treatise, but rather a journey of discovery through five key biological concepts:"
 tags:
   - "biology"
@@ -56,7 +56,9 @@ Nobel laureate Paul Nurse distils the question "What is life?" into five foundat
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[how_life_works|How Life Works]] - Ball’s modern answer to Schrödinger’s question, going beyond genes to process
+- [[transformer|Transformer]] - Lane answers the same question with bioenergetics and proton gradients
+- [[the_gene|The Gene]] - Mukherjee traces the gene concept Schrödinger helped launch
 
 ---
 

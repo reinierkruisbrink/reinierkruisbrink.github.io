@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/201632470-the-future-of-ener
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1706299751i/201632470.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-06-04"
 my_rating: 8
 synopsis: "Richard Black's The Future of Energy presents a concise and optimistic roadmap for transitioning to a clean energy future. Drawing on his experience as a former BBC environment correspondent and director at the clean energy think tank Ember, Black argues that the world can nearly eliminate fossil fuel use without compromising modern lifestyles."
 tags:
@@ -57,7 +57,9 @@ Black identifies five technologies that, deployed together, can decarbonise the 
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[clearing_the_air|Clearing the Air]] - The fossil-fuel pollution Smedley documents is what Black's transition aims to eliminate
+- [[er_is_leven_na_de_groei|Er is leven na de groei]] - Schenderling questions whether green growth suffices; Black argues it does — a productive tension
+- [[the_last_drop|The Last Drop]] - Water and energy are coupled resource crises
 
 ---
 

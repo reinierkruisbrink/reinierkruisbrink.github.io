@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/8701960-the-information"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348046486i/8701960.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-02-13"
+my_rating: 8.8
 synopsis: "In James Gleick's The Information, information itself takes center stage. It's not just about data or facts; it's a fundamental concept that has shaped human history, our way of thinking, and even the technologies we use today."
 tags:
   - "mathematics"
@@ -51,7 +51,9 @@ James Gleick traces the concept of information from African talking drums and th
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[chaos|Chaos]] - Gleick's earlier book; together they trace deterministic chaos to information entropy
+- [[the_gene|The Gene]] - DNA as an information system — genetics as one instance of Gleick's broader argument
+- [[the_science_of_can_and_cant|The Science of Can and Can't]] - Marletto redefines information as a physical counterfactual property — a radical extension
 
 ---
 

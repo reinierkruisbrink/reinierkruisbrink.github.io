@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/6929661-the-odyssey"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1311646896i/6929661.jpg"
 read_date: "2022"
-date: "2022-01-01"
-my_rating: 10
+date: "2022-11-09"
+my_rating: 9.6
 synopsis: "The Odyssey, Homer's epic poem following Odysseus's journey home after the Trojan War, is a cornerstone of Greek literature. The Odyssey picks up the story after the events of the Iliad, assuming the reader has some familiarity with the Trojan War. Odysseus himself is a master storyteller, using his wit to weave tales and escape danger. The poem is a blend of adventure, myth, and human drama, exploring themes of homecoming, loyalty, and the power of storytelling."
 tags:
   - "classics"
@@ -48,7 +48,9 @@ The *Odyssey*, Homer's second epic, follows Odysseus on his ten-year journey hom
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_iliad|The Iliad]] - Homer's prequel — the war preceding Odysseus's journey
+- [[the_aeneid|The Aeneid]] - Virgil's direct response; Aeneas's voyage mirrors and inverts Odysseus's
+- [[troy|Troy]] - Fry provides the full context surrounding the war
 
 ---
 

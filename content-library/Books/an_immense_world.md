@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/59575939-an-immense-world"
 published_date: ""
 cover_image_url: "https://cdn.penguin.co.uk/dam-assets/books/9781529112115/9781529112115-jacket-large.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-05-28"
 my_rating: 10
 synopsis: "In An Immense World, Ed Yong takes us on an absolutely fascinating and mind-bending journey to explore the world through the senses of various animals. Thick and information dense but written in a way that is easy to understand, this book is a must-read for anyone interested in the natural world and the creatures that inhabit it."
 tags:
@@ -63,7 +63,9 @@ In An Immense World, Ed Yong takes us on an absolutely fascinating and mind-bend
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[other_minds|Other Minds]] - Both explore non-human consciousness through radically different sensory systems — Yong kingdom-wide, Godfrey-Smith deep into the octopus
+- [[being_you|Being You]] - Seth argues all perception is "controlled hallucination"; Yong shows that every animal hallucinates a different world (Umwelt)
+- [[the_light_eaters|The Light Eaters]] - Extends the Umwelt concept to plants — if animals perceive hidden realms, what about light-sensing plants?
 
 ---
 

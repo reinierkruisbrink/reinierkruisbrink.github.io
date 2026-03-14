@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/58275959-active-inference"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647801522i/58275959.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-07-26"
+my_rating: 7.7
 synopsis: "Active Inference: The Free Energy Principle in Mind, Brain, and Behavior by Thomas Parr, Giovanni Pezzulo, and Karl Friston offers a comprehensive and mathematical look at Karl Friston's theoretical framework for understanding cognition and behavior."
 tags:
   - "neuroscience"
@@ -59,7 +59,9 @@ Active Inference: The Free Energy Principle in Mind, Brain, and Behavior by Thom
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[being_you|Being You]] - Seth applies predictive processing to consciousness; Active Inference provides the mathematical underpinning
+- [[the_hidden_spring|The Hidden Spring]] - Solms maps the free energy principle onto brainstem affect — the clinical counterpart to the formal theory
+- [[everything_is_predictable|Everything Is Predictable]] - Chivers explains the Bayesian reasoning that Active Inference formalises into a theory of mind
 
 ---
 

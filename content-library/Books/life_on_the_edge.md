@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/24040194-life-on-the-edge"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429821731i/24040194.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 6
+date: "2023-07-09"
+my_rating: 6.8
 synopsis: "The Coming of Age of Quantum Biology by Johnjoe McFadden and Jim Al-Khalili isn't about pushing yourself to the limit, but rather exploring the surprising role of quantum mechanics in biological processes."
 tags:
   - "biology"
@@ -60,7 +60,9 @@ The Coming of Age of Quantum Biology by Johnjoe McFadden and Jim Al-Khalili isn'
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[transformer|Transformer]] - Lane explores deep chemistry; McFadden adds the quantum dimension — both argue physics shapes biology
+- [[an_immense_world|An Immense World]] - Yong describes bird magnetoreception; McFadden explains it via the radical-pair quantum mechanism
+- [[what_is_life|What is Life?]] - Nurse asks what defines life; McFadden suggests quantum effects may be part of the answer
 
 ---
 

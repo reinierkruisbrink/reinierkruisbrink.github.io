@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/53122217-in-praise-of-walkin
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578598459l/53122217.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 6
+date: "2025-03-10"
+my_rating: 6.5
 synopsis: "In Praise of Walking by Shane O'Mara celebrates the impact of walking on our physical and mental well-being, arguing that it's not just a means of locomotion, but a fundamental aspect of being human."
 tags:
   - "neuroscience"
@@ -51,7 +51,9 @@ Shane O'Mara draws on neuroscience, evolutionary biology, physiology, and psycho
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman traces the evolution of bipedalism that O'Mara argues shaped cognition
+- [[good_nature|Good Nature]] - Willis provides the broader nature-health evidence O'Mara attributes specifically to walking
+- [[chasing_the_sun|Chasing the Sun]] - Both explore how simple, ancestral behaviours are essential to modern health
 
 ---
 

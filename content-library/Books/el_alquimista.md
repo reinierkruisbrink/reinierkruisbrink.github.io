@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/45497.El_alquimista"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342834074i/45497.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 8
+date: "2024-09-12"
+my_rating: 8.5
 synopsis: "The Alchemist by Paulo Coelho (I read it in Spanish) is a philosophical novel that follows Santiago, a young shepherd boy from Spain, on his journey to fulfill his Personal Legend."
 tags:
   - "fiction"
@@ -45,7 +45,8 @@ Paulo Coelho's philosophical fable follows Santiago, a young Andalusian shepherd
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[siddhartha|Siddhartha]] - Twin spiritual quests where wisdom comes through lived experience, not instruction
+- [[the_odyssey|The Odyssey]] - The archetypal journey narrative; Coelho echoes the Homeric pattern of departure, trial, and return
 
 ---
 

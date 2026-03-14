@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/61089458-planta-sapiens"
 published_date: "2022"
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654912824i/61089458.jpg"
 read_date: "2023"
-date: "2023-06-01"
-my_rating: 8
+date: "2023-04-15"
+my_rating: 7.2
 synopsis: "Plants possess complex behaviors and abilities that rival those of animals, challenging the traditional view of plants as passive organisms through the lens of predictive processing theory."
 tags:
   - "biology"
@@ -61,6 +61,7 @@ The most compelling aspect of this book is how it reframes plant behavior throug
 
 - [[the_light_eaters|The Light Eaters]] - More empirically-focused exploration of plant senses
 - [[good_nature|Good Nature]] - Human interaction with plant systems
+- [[active_inference|Active Inference]] - Calvo applies the free energy principle to plant cognition; this provides the formal framework
 
 ---
 

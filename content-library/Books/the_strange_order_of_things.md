@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/32335976-the-strange-order-o
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501495937i/32335976.jpg"
 read_date: "2025"
-date: "2025-01-01"
+date: "2025-05-19"
 my_rating: 8
 synopsis: "The Strange Order of Things by Antonio Damasio proposes a radical rethinking of consciousness, arguing that feelings are the foundational layer upon which minds, consciousness, and culture are built."
 tags:
@@ -63,7 +63,9 @@ Overall an incredibly interesting book, but written in a very dense and academic
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[looking_for_spinoza|Looking for Spinoza]] - Damasío's earlier work on emotions; this book broadens the canvas to homeostasis and culture
+- [[feeling_and_knowing|Feeling & Knowing]] - Damasío distils the consciousness argument he builds up here
+- [[the_hidden_spring|The Hidden Spring]] - Solms offers an alternative affect-based consciousness theory that dialogues with Damasío's
 
 ---
 

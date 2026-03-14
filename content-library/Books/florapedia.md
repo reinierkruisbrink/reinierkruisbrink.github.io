@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/55271785-florapedia"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1602565617i/55271785.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 8
+date: "2024-01-27"
+my_rating: 7
 synopsis: "Florapedia is an illustrated compendium that celebrates the diversity and wonder of the plant world. The book features nearly 100 entries on a wide range of topics, from plant ecology and conservation to the role of plants in art, literature, and human culture."
 tags:
   - "biology"
@@ -51,7 +51,9 @@ Carol Gracie presents nearly 100 entries on plants and plant-related topics, spa
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[treepedia|Treepedia]] - Companion compendium focused specifically on trees
+- [[the_light_eaters|The Light Eaters]] - Schlanger explores the active, intelligent side of the plants Gracie catalogues
+- [[planta_sapiens|Planta Sapiens]] - Calvo frames plant behaviour through predictive processing — the theoretical counterpart
 
 ---
 

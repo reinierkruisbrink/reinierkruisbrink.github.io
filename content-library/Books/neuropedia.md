@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/60194735-neuropedia"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1650238850i/60194735.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-07-08"
 my_rating: 8
 synopsis: "Neuropedia serves as an informative and entertaining guide to the many wonders of the brain, providing readers with a deeper appreciation of the complexities and marvels of the human nervous system."
 tags:
@@ -59,7 +59,9 @@ Chudler opens with a quote by Ramón y Cajal:
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_spike|The Spike]] - Humphries focuses on the neural spike — the signalling unit Chudler catalogues among many brain phenomena
+- [[the_man_who_mistook_his_wife_for_a_hat_and_other_clinical_tales|The Man Who Mistook His Wife for a Hat]] - Sacks brings the neurological disorders Chudler defines to life through case studies
+- [[being_you|Being You]] - Seth builds a theory of consciousness on top of the neural machinery Chudler surveys
 
 ---
 

@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/23006281-the-iliad"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1408635245i/23006281.jpg"
 read_date: "2022"
-date: "2022-01-01"
+date: "2022-11-04"
 my_rating: 8
 synopsis: "The Iliad, by Homer, is an epic poem considered one of the foundational works of Western literature. It doesn't tell the entire prelude, story, and aftermath of the Trojan War (which is a lot; see Troy by Stephen Fry for more), but focuses solely on a crucial two-week period (!) near the end of the ten-year conflict. Still, a lot of the events are covered through flashbacks and dialogues."
 tags:
@@ -48,7 +48,9 @@ The *Iliad*, attributed to Homer, is the foundational epic of Western literature
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_odyssey|The Odyssey]] - Homer's sequel; Odysseus's journey home from the war
+- [[troy|Troy]] - Fry provides the complete arc — prelude and aftermath Homer omits
+- [[heroes|Heroes]] - Achilles, Ajax, and Hector profiled within Fry's broader survey of Greek heroism
 
 ---
 

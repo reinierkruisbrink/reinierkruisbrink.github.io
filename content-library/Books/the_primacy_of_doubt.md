@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/60383041-the-primacy-of-doub
 published_date: ""
 cover_image_url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1665472977i/60383041.jpg"
 read_date: "2025"
-date: "2025-01-01"
-my_rating: 8
+date: "2025-10-11"
+my_rating: 8.4
 synopsis: "Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamental to the universe and to our best models of it, moving beyond the classical ideal of perfect predictability. The book explores this concept across physics, climate, economics, and philosophy, advocating for methods that embrace and quantify doubt."
 tags:
   - "mathematics"
@@ -64,7 +64,9 @@ While very interesting and appealing to some chaotic intuition, the final part r
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[chaos|Chaos]] - Gleick tells the origin story of the nonlinear dynamics Palmer applies to weather and climate
+- [[everything_is_predictable|Everything Is Predictable]] - Chivers explains Bayesian reasoning; Palmer shows how ensemble forecasting operationalises it
+- [[the_drunkards_walk|The Drunkard's Walk]] - Both explore how uncertainty governs outcomes — everyday life vs physics/policy
 
 ---
 

@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/77265008-the-blue-machine"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678223126i/77265008.jpg"
 read_date: "2024"
-date: "2024-01-01"
-my_rating: 6
+date: "2024-09-22"
+my_rating: 6.9
 synopsis: "The Blue Machine by Helen Czerksi is a story of the world's oceans, often referred to as the blue machine due to their complex and interconnected systems. The book delves into the intricate workings of the oceans, as well as our connection to the ocean and the effects of human activity."
 tags:
   - "environmental-science"
@@ -51,7 +51,9 @@ Helen Czerski explains the ocean as a single, interconnected physical engine —
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_last_drop|The Last Drop]] - Czerski explains the physical ocean; Smedley explains the freshwater crisis — together they cover Earth's water
+- [[the_secret_world_of_weather|The Secret World of Weather]] - Ocean and atmosphere are coupled systems
+- [[geopedia|Geopedia]] - Bjornerud covers the solid-earth context shaping the ocean basins Czerski describes
 
 ---
 

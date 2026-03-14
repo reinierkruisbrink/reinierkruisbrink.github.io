@@ -8,7 +8,7 @@ published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630487234i/24213.jpg"
 read_date: "2022"
 date: "2022-01-01"
-my_rating: 8
+my_rating: 7.6
 synopsis: "Lewis Carroll's famous works,  Alice's Adventures in Wonderland and Through the Looking-Glass, are a fantastical journey following Alice down the rabbit hole into a world of nonsensicality and wordplay."
 tags:
   - "fiction"
@@ -50,7 +50,9 @@ Lewis Carroll's two Alice books plunge a rational, polite Victorian child into w
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_stuff_of_thought|The Stuff of Thought]] - Pinker uses language structure to probe cognition; Carroll uses it to subvert cognition — both reveal how meaning depends on shared rules
+- [[ondraaglijke_lichtheid|Ondraaglijke Lichtheid]] - Both explore what happens when language undermines its own surface meaning — nonsense vs irony
+- [[the_etymologicon|The Etymologicon]] - Forsyth follows words through centuries of drift; Carroll invents words to expose the same instability of meaning
 
 ---
 

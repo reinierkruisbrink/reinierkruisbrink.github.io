@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/123012858-how-life-works"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682223645i/123012858.jpg"
 read_date: "2024"
-date: "2024-01-01"
+date: "2024-12-27"
 my_rating: 10
 synopsis: "How Life Works by Philip Ball is an incredibly interesting book of the principles and mechanisms underlying the complexity of living systems by moving past the it's all genetics mindset. Ball emphasizes the dynamic and interconnected nature of life, showing how molecular mechanisms, cellular interactions, and larger-scale patterns work together to create the diversity and functionality of living systems. The book blends biology, physics, and systems theory to explain life as a dynamic and emergent phenomenon."
 tags:
@@ -57,7 +57,9 @@ It is wonderfully unfortunate that the answer to the question "How Life Works" i
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_gene|The Gene]] - Mukherjee tells the story of the gene Ball argues we need to move beyond — complementary perspectives
+- [[transformer|Transformer]] - Lane places metabolism at life's centre, supporting Ball's argument that genes alone can't explain complexity
+- [[what_is_life|What is Life?]] - Nurse distils the same "what makes life work" question into five core principles
 
 ---
 

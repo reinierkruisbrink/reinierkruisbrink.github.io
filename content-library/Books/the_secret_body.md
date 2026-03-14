@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/55877549-the-secret-body"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1621252462i/55877549.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 6
+date: "2023-06-16"
+my_rating: 6.2
 synopsis: "The Secret Body is an exploration of recent breakthroughs in human biology that are revolutionizing our understanding of ourselves. Davis dives into six key areas: advancements in microscopy, fetal development, the immune system, the brain, the microbiome, and the genome."
 tags:
   - "biology"
@@ -61,7 +61,9 @@ In *The Secret Body*, immunologist Daniel M. Davis surveys six frontiers of huma
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_song_of_the_cell|The Song of the Cell]] - Both chronicle recent biological breakthroughs through cellular and molecular discoveries
+- [[immune|Immune]] - Dettmer covers the immune system; Davis shows how new tools are rewriting its story
+- [[i_contain_multitudes|I Contain Multitudes]] - The microbiome is one of the "secret body" frontiers Davis surveys
 
 ---
 

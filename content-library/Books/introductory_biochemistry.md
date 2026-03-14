@@ -7,7 +7,7 @@ goodreads_url: "https://www.goodreads.com/book/show/24929658-biochemistry-free-e
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440102905i/24929658.jpg"
 read_date: "2023"
-date: "2023-01-01"
+date: "2023-12-24"
 my_rating: 8
 synopsis: "Introductory Biochemistry by Kevin Ahern is an open-access textbook that provides a comprehensive overview of essential biochemistry concepts."
 tags:
@@ -52,7 +52,9 @@ Kevin Ahern's open-access textbook provides a systematic introduction to the mol
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[transformer|Transformer]] - Lane turns the Krebs cycle from a textbook diagram into the narrative hub of all biochemistry
+- [[what_is_life|What is Life?]] - Nurse contextualises molecular machinery within biology's five big ideas
+- [[the_song_of_the_cell|The Song of the Cell]] - Mukherjee shows how textbook biochemistry plays out in health and disease
 
 ---
 

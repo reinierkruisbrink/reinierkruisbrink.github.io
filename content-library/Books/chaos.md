@@ -7,8 +7,8 @@ goodreads_url: "https://www.goodreads.com/book/show/64582.Chaos"
 published_date: ""
 cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327941595i/64582.jpg"
 read_date: "2023"
-date: "2023-01-01"
-my_rating: 8
+date: "2023-01-09"
+my_rating: 8.8
 synopsis: "In James Gleick's Chaos: Making a New Science, we delve into the fascinating world of chaos theory. It's not about randomness, but rather the surprising order hidden within seemingly unpredictable systems."
 tags:
   - "mathematics"
@@ -56,7 +56,9 @@ In James Gleick's "Chaos: Making a New Science," we delve into the fascinating w
 
 ## Related Books
 
-- [[Book Title 1]] - [Brief reason for connection]
+- [[the_primacy_of_doubt|The Primacy of Doubt]] - Palmer extends chaos theory into practical uncertainty quantification — the operational successor to Gleick's narrative
+- [[the_information|The Information]] - Gleick's other masterpiece; connects chaos/entropy to information theory
+- [[linked|Linked]] - Networks exhibit chaos-adjacent phenomena (cascading failures, emergence) — together they map complexity science
 
 ---
 
