@@ -9,16 +9,7 @@ A curated collection of [[Books/index|books]] and [[Ideas/index|Ideas]] explorin
 
 ## Tag System
 
-This library uses a hierarchical tagging system to organize and classify content. Tags help identify content types, intellectual themes, and cross-cutting concepts.
-
-### Content Type Tags
-
-These tags are used across all library content (Books, Essays, etc.):
-
-- **[book](tags/book)** - Full-length book reviews and annotations
-- **[essay](tags/essay)** - Original essays and shorter-form writing
-- **[article](tags/article)** - Article summaries and responses
-- **[review](tags/review)** - Critical reviews and analyses
+This library uses a hierarchical tagging system to organize and classify content. Tags help identify intellectual themes, and cross-cutting concepts.
 
 ### Intellectual Domain Tags
 
