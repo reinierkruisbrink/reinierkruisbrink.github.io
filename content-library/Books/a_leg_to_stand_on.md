@@ -45,7 +45,7 @@ Oliver Sacks, renowned for documenting the neurological conditions of others, tu
 
 ## Personal Reflection
 
-[To be added]
+Interesting perspective on the experience of a patient / physician. I especially liked the way Sacks connected his personal experience to the broader neurological literature, and the books I read in the section below, showing how his case was not an isolated oddity but part of a continuum of body representation disorders. The book also highlights the importance of listening to patients' subjective experiences, which can provide crucial insights into their conditions and recovery trajectories.
 
 ## Related Books
 

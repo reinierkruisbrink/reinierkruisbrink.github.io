@@ -62,11 +62,10 @@ A Brief History of Earth by Andrew Knoll is an interesting retelling of our plan
 
 ## Personal Reflection
 
-[To be added]
+Knoll's narrative is compelling and accessible, weaving together geology, biology, and chemistry to tell the story of our planet. I appreciated how he emphasised the interconnectedness of life and Earth systems — a perspective that feels especially relevant in the context of current environmental challenges. The chapters on the Great Oxygenation Event and the Cambrian Explosion were particularly fascinating, highlighting how key innovations can reshape the trajectory of life. Overall, this book deepened my appreciation for Earth's dynamic history and the delicate balance that sustains life.
 
 ## Related Books
 
-- [[geopedia|Geopedia]] - Companion geological reference covering the terms and concepts behind Earth's deep history
 - [[transformer|Transformer]] - Lane traces the origin of metabolism at hydrothermal vents, the biochemical prelude to the biological innovation Knoll charts
 - [[the_invention_of_nature|The Invention of Nature]] - Humboldt pioneered the view of Earth as a coupled system that Knoll's narrative depends on
 

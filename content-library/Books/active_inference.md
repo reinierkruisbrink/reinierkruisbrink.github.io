@@ -55,7 +55,7 @@ Active Inference: The Free Energy Principle in Mind, Brain, and Behavior by Thom
 
 ## Personal Reflection
 
-[To be added]
+Very informative but heavy on the mathematics and technical jargon, I did mostly like the conceptual explanations and of course the unification of perception and action under a single principle.
 
 ## Related Books
 

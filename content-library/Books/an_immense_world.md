@@ -59,7 +59,8 @@ In An Immense World, Ed Yong takes us on an absolutely fascinating and mind-bend
 
 ## Personal Reflection
 
-[To be added]
+One of my absolute favourites. It is quite information dense and requires effortto read but the payoff is fantastic. Another book that changes the way you see the world, literally. And it is a great but sad reminder of our impact on the natural world.
+
 
 ## Related Books
 

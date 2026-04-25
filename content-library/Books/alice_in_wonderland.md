@@ -44,10 +44,6 @@ Lewis Carroll's two Alice books plunge a rational, polite Victorian child into w
 - **Infinity and recursion** — the Red King dreaming Alice who is dreaming the Red King creates an infinite regress; Tweedledee and Tweedledum's symmetric arguments encode the logical concept of duality
 - **Carroll as Dodgson** — the mathematical substructure reflects Dodgson's professional interests in symbolic logic, Euclidean geometry, and the foundations of arithmetic, making the books legible on a level entirely invisible to most child readers
 
-## Personal Reflection
-
-[To be added]
-
 ## Related Books
 
 - [[the_stuff_of_thought|The Stuff of Thought]] - Pinker uses language structure to probe cognition; Carroll uses it to subvert cognition — both reveal how meaning depends on shared rules

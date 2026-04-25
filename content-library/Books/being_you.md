@@ -50,7 +50,7 @@ In *Being You*, neuroscientist Anil Seth proposes that consciousness is best und
 
 ## Personal Reflection
 
-[To be added]
+When I read this book, and the idea of top-down preditictions and bottom-up signals clicked for me, it was like a lightbulb went off. The topic of perception is what mostly interested me and has influence me heavily (together with Somatic Markers and Umwelt) in how I see the world. The idea that we don't see the world as it is, but as it is useful for us, is a powerful one. It has made me more aware of my own perceptual biases and how they shape my experience of reality.
 
 ## Related Books
 
