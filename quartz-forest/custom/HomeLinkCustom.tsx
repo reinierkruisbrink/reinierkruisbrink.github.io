@@ -1,6 +1,6 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../quartz/components/types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-const HomeLink: QuartzComponentConstructor = () => {
+const HomeLinkCustom: QuartzComponentConstructor = () => {
   const Component: QuartzComponent = (_props: QuartzComponentProps) => {
     return (
       <a class="home-link" href="https://reinierkruisbrink.github.io/">
@@ -26,4 +26,4 @@ const HomeLink: QuartzComponentConstructor = () => {
   return Component
 }
 
-export default HomeLink
+export default HomeLinkCustom

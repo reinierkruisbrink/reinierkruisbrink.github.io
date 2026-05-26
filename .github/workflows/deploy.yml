@@ -32,7 +32,7 @@ jobs:
       # BUILD FOREST VAULT
       - name: Clone Quartz for Forest
         run: |
-          git clone https://github.com/jackyzha0/quartz.git quartz-forest-build
+          git clone --branch v4.5.2 --depth 1 https://github.com/jackyzha0/quartz.git quartz-forest-build
           cd quartz-forest-build
           npm ci
 
@@ -49,9 +49,9 @@ jobs:
           if [ -d "quartz-forest/custom" ]; then
             cp quartz-forest/custom/*.tsx quartz-forest-build/quartz/components/ || true
             # Register custom components
-            if [ -f "quartz-forest/custom/HomeLink.tsx" ]; then
-              echo 'import HomeLink from "./HomeLink"' >> quartz-forest-build/quartz/components/index.ts
-              sed -i 's/export {/export { HomeLink,/' quartz-forest-build/quartz/components/index.ts
+            if [ -f "quartz-forest/custom/HomeLinkCustom.tsx" ]; then
+              echo 'import HomeLinkCustom from "./HomeLinkCustom"' >> quartz-forest-build/quartz/components/index.ts
+              sed -i 's/export {/export { HomeLinkCustom,/' quartz-forest-build/quartz/components/index.ts
             fi
           fi
           
@@ -70,7 +70,7 @@ jobs:
       # BUILD LIBRARY VAULT
       - name: Clone Quartz for Library
         run: |
-          git clone https://github.com/jackyzha0/quartz.git quartz-library-build
+          git clone --branch v4.5.2 --depth 1 https://github.com/jackyzha0/quartz.git quartz-library-build
           cd quartz-library-build
           npm ci
 
@@ -92,9 +92,9 @@ jobs:
           if [ -d "quartz-library/custom" ]; then
             cp quartz-library/custom/*.tsx quartz-library-build/quartz/components/ || true
             # Register custom components
-            if [ -f "quartz-library/custom/HomeLink.tsx" ]; then
-              echo 'import HomeLink from "./HomeLink"' >> quartz-library-build/quartz/components/index.ts
-              sed -i 's/export {/export { HomeLink,/' quartz-library-build/quartz/components/index.ts
+            if [ -f "quartz-library/custom/HomeLinkCustom.tsx" ]; then
+              echo 'import HomeLinkCustom from "./HomeLinkCustom"' >> quartz-library-build/quartz/components/index.ts
+              sed -i 's/export {/export { HomeLinkCustom,/' quartz-library-build/quartz/components/index.ts
             fi
             if [ -f "quartz-library/custom/BookHeader.tsx" ]; then
               echo 'import BookHeader from "./BookHeader"' >> quartz-library-build/quartz/components/index.ts
