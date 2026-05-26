@@ -1,7 +1,7 @@
 # Quartz build outputs
 public/
 .quartz-cache/
-book_template.md
+_book_template.md
 
 # Dependencies
 node_modules/
