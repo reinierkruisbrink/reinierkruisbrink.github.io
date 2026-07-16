@@ -25,7 +25,7 @@ Jabr surveys the many ways in which living organisms, from deep-crust microbes t
 
 ## Key Concepts
 
-### What Does It Mean for Earth to Be Alive?
+### What Does It Mean for Earth to Be "Alive"?
 
 - **A working definition**: Jabr opens with the proposition that if "being alive" means being a self-sustaining system that resists entropy, then Earth qualifies, its living components cycle nutrients, regulate atmospheric chemistry, and maintain conditions that allow more life. Whether this definition is useful is a separate question.
 - **Homeostasis at scale**: Just as individual organisms maintain internal homeostasis while themselves hosting ecosystems of microbes, it is plausible that larger systems, coral reefs, old-growth forests, the biosphere as a whole, exhibit analogous self-stabilising feedback. The book returns to this idea throughout without fully resolving it.
@@ -67,7 +67,7 @@ Jabr surveys the many ways in which living organisms, from deep-crust microbes t
 
 The book is strongest as a collection of fascinating mechanisms, deep-earth microbes, plankton forming limestone, ice-nucleating bacteria, but its framing I like less. The opening definition of life (a self-sustaining system resisting entropy) is deliberately broad, and Jabr never fully justifies why it is the right one. It feels like the conclusion is chosen first. Whether calling Earth "alive" under this definition adds explanatory power, rather than just rhetorical warmth, is left unexamined.
 
-The same tension runs through the chapters on regulation. When scientists say plankton "regulate" ocean chemistry or that the biosphere "stabilises" climate, they usually mean something precise: negative feedback loops dampen perturbations within a range. Jabr sometimes lets that slide into a more loaded claim, that life *tends* toward balance, or that ecosystems are *for* maintaining conditions. Life created an environment it then coevolved with. The GOE was catastrophic for most life that existed at the time. Whatever organisms survive the current extinction will, in millions of years, have "benefited" from it. The language of stewardship and regulation imports moral direction that the science does not support.
+The same teleological tension runs through the points on regulation. When scientists say plankton "regulate" ocean chemistry or that the biosphere "stabilises" climate, they usually mean something precise: negative feedback loops dampen perturbations within a range. Jabr sometimes lets that slide into a more loaded claim, that life *tends* toward balance, or that ecosystems are *for* maintaining conditions. Life created an environment it then simply coevolved with. For instance, the GOE was catastrophic for most life that existed at the time. Whatever organisms survive the current extinction will, in millions of years, have "benefited" from it. The language of purpose of regulation, used this way, imports moral direction that I simply do not agree with.
 
 ## Related Books
 
