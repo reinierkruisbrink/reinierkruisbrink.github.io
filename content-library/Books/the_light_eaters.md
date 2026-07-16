@@ -13,7 +13,7 @@ synopsis: "An exploration of plants' hidden intelligence, communication, and sen
 tags:
   - "biology"
   - "botany"
-  - "ecology"
+  - "perception"
   - "intelligence"
 ---
 

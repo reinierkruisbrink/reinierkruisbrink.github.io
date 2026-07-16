@@ -14,8 +14,6 @@ tags:
   - "biology"
   - "botany"
   - "perception"
-  - "plant-science"
-  - "ecology"
 ---
 
 # What a Plant Knows: A Field Guide to the Senses

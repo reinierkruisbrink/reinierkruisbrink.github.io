@@ -71,7 +71,6 @@ More focused disciplines, often nested within a broad domain.
 | `geology` | environmental-science | Earth history, rocks, plate tectonics | Stratigraphy, volcanism, mineral formation, deep time |
 | `meteorology` | environmental-science | Weather, atmosphere, climate dynamics | Jet streams, pressure systems, storm formation, albedo |
 | `hydrology` | environmental-science | Oceans, freshwater systems, water cycle | Ocean currents, aquifers, thermohaline circulation, rivers |
-| `probability` | mathematics | Chance, Bayesian reasoning, statistical thinking | Bayes' theorem, distributions, risk, frequentism |
 | `quantum-mechanics` | physics | Quantum effects in biology and physics | Superposition, tunneling, entanglement, decoherence |
 
 ---
@@ -86,6 +85,7 @@ Themes that weave across multiple domains, connecting ideas from different field
 | `health` | biology + society | Well-being, disease prevention, lifestyle impacts | Exercise, chronic disease, mental health, public health |
 | `predictive-processing` | neuroscience + philosophy + mathematics | Free energy principle, prediction error, active inference | Bayesian brain, surprise minimization, Markov blankets |
 | `complexity` | mathematics + biology + physics | Chaos, emergence, nonlinear dynamics | Fractals, strange attractors, self-organization, bifurcation |
+| `probability` | mathematics | Chance, Bayesian reasoning, statistical thinking | Bayes' theorem, distributions, risk, frequentism |
 | `sustainability` | environmental-science + society | Resource stewardship, regeneration, long-term viability | Circular economy, soil health, renewable energy, degrowth |
 | `systems-thinking` | biology + society + mathematics | Holistic approaches, feedback loops, interconnectedness | Causal loops, leverage points, stocks and flows |
 | `network-science` | mathematics + biology + society | Graphs, hubs, connectivity, scale-free networks | Small-world networks, preferential attachment, centrality |
