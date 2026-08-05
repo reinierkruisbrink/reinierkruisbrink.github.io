@@ -4,30 +4,11 @@ title: Reinier Kruisbrink
 
 # Reinier Kruisbrink
 
-Notes from reading, thinking, and spending time outside. The [[Books/index|Library]] collects book notes and ideas that accumulate while reading across disciplines. The [[Forest/index|Forest]] is a field guide to the plants and fungi I actually encounter.
+I'm Reinier, a data & AI engineer and hobby-naturalist based in the Netherlands. I built this site to keep track of what I read, what I think about it, and what I find growing in the ground.
 
-→ [[Books/index|Library]] · [[Forest/index|Forest]] · [[about|About]]
+The [[Library/index|Library]] collects book notes and ideas across disciplines. The [[Forest/index|Forest]] is a field guide to the plants and fungi I actually encounter.
 
-## Tag System
+→ [[Library/index|Library]] · [[Forest/index|Forest]]
 
-This library uses a hierarchical tagging system to organize and classify content. Tags help identify intellectual themes, and cross-cutting concepts.
-
-### Intellectual Domain Tags
-
-Core fields of study represented in the library:
-
-- **biology** - Life sciences, evolution, ecology, genetics
-- **mathematics** - Mathematical thinking, probability, statistics
-- **environmental-science** - Climate, ecology, sustainability
-- **neuroscience** - Brain function, cognition, consciousness
-- **philosophy** - Philosophical inquiry and fundamental questions
-- **society** - Social systems, culture, economics, politics
-- **physics** - Physical laws and fundamental nature of reality
-- **history** - Historical analysis and evolution of ideas
-- **linguistics** - Language, communication, semantics
-- **classics** - Timeless intellectual works
-- **fiction** - Literary narrative and storytelling
-- **energy** - Energy systems and thermodynamics
-
----
+**Links:** [LinkedIn](https://nl.linkedin.com/in/reinier-kruisbrink-846795153) · [GitHub](https://github.com/reinierkruisbrink) · [Goodreads](https://www.goodreads.com/user/show/157295953-reinier) · [Instagram](https://www.instagram.com/reinierkruisbrink/) · [reinierkruisbrink@gmail.com](mailto:reinierkruisbrink@gmail.com)
 
