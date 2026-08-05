@@ -65,15 +65,7 @@ jobs:
           npx quartz build
 
       - name: Prepare deployment directory
-        run: |
-          mkdir -p deploy
-          # Template assets still referenced by portfolio.html (removed in Phase 3)
-          cp -r assets deploy/
-          cp portfolio.html deploy/ 2>/dev/null || true
-          cp *.txt deploy/ 2>/dev/null || true
-          # Quartz output last so its index.html wins
-          cp -r quartz-build/public/* deploy/
-          mv deploy public
+        run: mv quartz-build/public public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
