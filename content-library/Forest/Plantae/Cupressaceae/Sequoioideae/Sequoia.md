@@ -1,0 +1,30 @@
+---
+title: Sequoia
+tags:
+  - forest/genus
+  - forest/evergreen
+date: "2026-01-01"
+---
+
+# Sequoia
+
+**Common name:** Coast redwood  
+**Dutch:** Kustmammoetboom
+
+## Identifying Features
+
+- **Habit:** Extremely tall evergreen, the world's tallest trees (up to 115m)
+- **Leaves:** Flat, dark green needles in two ranks, resembling yew
+- **Bark:** Thick, fibrous, deeply furrowed, cinnamon-red
+- **Cones:** Small, ovoid, woody
+- **Distinguishing:** Tallest tree species; sprouts from base after damage
+
+## Species Encountered
+
+| Species | Photo | Date | Location |
+|---------|-------|------|----------|
+| *S. sempervirens* | | | |
+
+---
+
+**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]
