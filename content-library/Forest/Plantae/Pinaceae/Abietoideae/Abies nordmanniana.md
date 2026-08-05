@@ -1,8 +1,9 @@
 ---
 title: Abies nordmanniana
 tags:
-  - forest/species
-  - forest/evergreen
+  - species
+  - evergreen
+  - botany
 date: "2026-01-01"
 ---
 
@@ -12,4 +13,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae/Abies|Abies]]
+**Parent:** [[Forest/Plantae/Pinaceae/Abietoideae/Abies|Abies]]

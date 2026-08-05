@@ -1,7 +1,8 @@
 ---
 title: Cantharellaceae
 tags:
-  - forest/family
+  - family
+  - mycology
 date: "2026-01-01"
 ---
 
@@ -23,4 +24,4 @@ The Cantharellaceae is a family comprising about 6 genera and 200+ species. They
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

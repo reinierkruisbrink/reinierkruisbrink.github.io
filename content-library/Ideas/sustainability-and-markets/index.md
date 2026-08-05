@@ -2,6 +2,10 @@
 title: "Sustainability and Markets"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - environmental-science
+  - society
 ---
 
 <!--

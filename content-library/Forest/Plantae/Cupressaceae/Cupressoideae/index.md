@@ -1,7 +1,8 @@
 ---
 title: Cupressoideae
 tags:
-  - forest/subfamily
+  - subfamily
+  - botany
 date: "2026-01-01"
 ---
 
@@ -11,4 +12,4 @@ The true cypress subfamily is the largest and most diverse group within Cupressa
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/index|Cupressaceae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/index|Cupressaceae]]

@@ -2,6 +2,10 @@
 title: "Uncertainty and Randomness"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - mathematics
+  - philosophy
 ---
 
 <!--

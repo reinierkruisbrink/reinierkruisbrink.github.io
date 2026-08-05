@@ -1,8 +1,9 @@
 ---
 title: Cryptomeria
 tags:
-  - forest/genus
-  - forest/evergreen
+  - genus
+  - evergreen
+  - botany
 date: "2026-01-01"
 ---
 
@@ -27,4 +28,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]

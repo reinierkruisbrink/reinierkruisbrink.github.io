@@ -1,8 +1,9 @@
 ---
 title: Cephalotaxus
 tags:
-  - forest/genus
-  - forest/evergreen
+  - genus
+  - evergreen
+  - botany
 date: "2026-01-01"
 ---
 
@@ -28,4 +29,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Taxaceae/index|Taxaceae]]
+**Parent:** [[Forest/Plantae/Taxaceae/index|Taxaceae]]

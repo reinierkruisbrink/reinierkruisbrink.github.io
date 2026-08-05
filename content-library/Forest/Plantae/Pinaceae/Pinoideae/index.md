@@ -1,7 +1,8 @@
 ---
 title: Pinoideae
 tags:
-  - forest/subfamily
+  - subfamily
+  - botany
 date: "2026-01-01"
 ---
 
@@ -11,4 +12,4 @@ The pine subfamily contains the single largest genus of conifers. Pines are easi
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/index|Pinaceae]]
+**Parent:** [[Forest/Plantae/Pinaceae/index|Pinaceae]]

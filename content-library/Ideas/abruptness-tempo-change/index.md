@@ -2,6 +2,10 @@
 title: "Abruptness, Tempo, Change"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - biology
+  - history
 ---
 
 <!--

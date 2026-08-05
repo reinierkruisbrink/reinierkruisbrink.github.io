@@ -1,7 +1,8 @@
 ---
 title: Fagaceae
 tags:
-  - forest/family
+  - family
+  - botany
 date: "2026-01-01"
 ---
 
@@ -21,4 +22,4 @@ The Fagaceae is a family of deciduous and evergreen trees comprising 8 genera an
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

@@ -1,7 +1,8 @@
 ---
 title: Ulmaceae
 tags:
-  - forest/family
+  - family
+  - botany
 date: "2026-01-01"
 ---
 
@@ -21,4 +22,4 @@ The Ulmaceae is a small family of deciduous trees comprising about 6-8 genera an
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

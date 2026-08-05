@@ -7,7 +7,7 @@ date: "2026-01-01"
 
 A field guide to the plants and fungi I encounter — catalogued by family, genus, and species.
 
-→ [[Plantae/index|Plantae]] · [[Fungi/index|Fungi]]
+→ [[Forest/Plantae/index|Plantae]] · [[Forest/Fungi/index|Fungi]]
 
 Notes that share botanical or mycological ground with the [[../Books/index|Library]] are cross-linked via the shared tags `botany`, `mycology`, `ecology`, and `soil`.
 

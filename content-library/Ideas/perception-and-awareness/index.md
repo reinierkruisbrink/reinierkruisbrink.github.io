@@ -2,6 +2,10 @@
 title: "Perception and Awareness"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - neuroscience
+  - philosophy
 ---
 
 <!--

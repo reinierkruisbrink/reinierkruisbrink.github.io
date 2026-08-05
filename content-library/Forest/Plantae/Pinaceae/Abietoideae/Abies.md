@@ -1,8 +1,9 @@
 ---
 title: Abies
 tags:
-  - forest/genus
-  - forest/evergreen
+  - genus
+  - evergreen
+  - botany
 date: "2026-01-01"
 ---
 
@@ -24,11 +25,11 @@ date: "2026-01-01"
 | Species | Photo | Date | Location |
 |---------|-------|------|----------|
 | *A. alba* | | | |
-| *[[Plantae/Pinaceae/Abietoideae/Abies nordmanniana|A. nordmanniana]]* | | | |
+| *[[Forest/Plantae/Pinaceae/Abietoideae/Abies nordmanniana|A. nordmanniana]]* | | | |
 | *A. balsamea* | | | |
 | *A. grandis* | | | |
 | *A. procera* | | | |
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/Abietoideae/index|Abietoideae]]
+**Parent:** [[Forest/Plantae/Pinaceae/Abietoideae/index|Abietoideae]]

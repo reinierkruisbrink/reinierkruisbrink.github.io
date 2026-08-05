@@ -1,7 +1,8 @@
 ---
 title: Amanitaceae
 tags:
-  - forest/family
+  - family
+  - mycology
 date: "2026-01-01"
 ---
 
@@ -23,4 +24,4 @@ The Amanitaceae is a family of gilled mushrooms comprising about 2 genera and 60
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

@@ -1,7 +1,8 @@
 ---
 title: Sapindaceae
 tags:
-  - forest/family
+  - family
+  - botany
 date: "2026-01-01"
 ---
 
@@ -21,4 +22,4 @@ The Sapindaceae is a large family comprising about 138 genera and 1,858 species.
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

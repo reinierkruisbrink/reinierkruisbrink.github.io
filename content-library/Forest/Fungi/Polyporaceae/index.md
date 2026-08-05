@@ -1,7 +1,8 @@
 ---
 title: Polyporaceae
 tags:
-  - forest/family
+  - family
+  - mycology
 date: "2026-01-01"
 ---
 
@@ -23,4 +24,4 @@ The Polyporaceae is a family of wood-decay fungi comprising about 75 genera and 
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

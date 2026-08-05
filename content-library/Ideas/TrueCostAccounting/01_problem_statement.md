@@ -4,6 +4,8 @@ date: "2026-01-12"
 tags:
   - tca
   - externalities
+  - environmental-science
+  - idea
   - sustainability
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Orchidaceae
 tags:
-  - forest/family
+  - family
+  - botany
 date: "2026-01-01"
 ---
 
@@ -21,4 +22,4 @@ The Orchidaceae is one of the largest plant families, comprising about 880 gener
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

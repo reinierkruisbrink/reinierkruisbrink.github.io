@@ -1,7 +1,8 @@
 ---
 title: Taxodioideae
 tags:
-  - forest/subfamily
+  - subfamily
+  - botany
 date: "2026-01-01"
 ---
 
@@ -11,4 +12,4 @@ The bald cypress subfamily includes deciduous and semi-evergreen conifers adapte
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/index|Cupressaceae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/index|Cupressaceae]]

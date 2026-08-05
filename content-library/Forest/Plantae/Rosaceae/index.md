@@ -1,7 +1,8 @@
 ---
 title: Rosaceae
 tags:
-  - forest/family
+  - family
+  - botany
 date: "2026-01-01"
 ---
 
@@ -21,4 +22,4 @@ The Rosaceae is a large and diverse family comprising about 91 genera and 4,828 
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]
