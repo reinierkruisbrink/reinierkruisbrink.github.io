@@ -1,11 +1,11 @@
 ---
-title: Ginkgoacea
+title: Ginkgoaceae
 tags:
-    - family
+  - family
   - botany
 ---
 
-# Ginkgoacea
+# Ginkgoaceae
 
 ...
 
