@@ -116,36 +116,19 @@ jobs:
 
       - name: Prepare deployment directory
         run: |
-          # Create deployment structure
           mkdir -p deploy/forest
-          mkdir -p deploy/library
-          
-          # Copy Forest vault output to forest subdirectory
+
+          # Forest vault at /forest
           cp -r quartz-forest-build/public/* deploy/forest/
-          
-          # Debug: List what's in forest
-          echo "Contents of deploy/forest:"
-          ls -la deploy/forest/
-          echo ""
-          echo "Looking for index.html in forest:"
-          find deploy/forest -name "index.html" -type f
-          
-          # Copy Library vault output to library subdirectory
-          cp -r quartz-library-build/public/* deploy/library/
-          
-          # Debug: List what's in library
-          echo "Contents of deploy/library:"
-          ls -la deploy/library/
-          echo ""
-          echo "Looking for index.html in library:"
-          find deploy/library -name "index.html" -type f
-          
-          # Copy existing site files to root
+
+          # Template assets still referenced by portfolio.html (removed in Phase 3)
           cp -r assets deploy/
-          cp *.html deploy/
+          cp portfolio.html deploy/ 2>/dev/null || true
           cp *.txt deploy/ 2>/dev/null || true
-          
-          # Move everything to public for upload
+
+          # Library vault at root; copy last so its index.html takes precedence
+          cp -r quartz-library-build/public/* deploy/
+
           mv deploy public
 
       - name: Upload artifact
