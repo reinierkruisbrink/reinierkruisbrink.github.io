@@ -2,6 +2,7 @@
 title: Pinaceae
 tags:
   - forest/family
+  - botany
 date: "2026-01-01"
 ---
 

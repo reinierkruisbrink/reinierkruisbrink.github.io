@@ -2,6 +2,10 @@
 title: "Comfort and Stressors"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - biology
+  - neuroscience
 ---
 
 <!--

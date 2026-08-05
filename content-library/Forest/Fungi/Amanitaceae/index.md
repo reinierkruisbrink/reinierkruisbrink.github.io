@@ -2,6 +2,7 @@
 title: Amanitaceae
 tags:
   - forest/family
+  - mycology
 date: "2026-01-01"
 ---
 

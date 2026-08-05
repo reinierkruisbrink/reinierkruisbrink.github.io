@@ -2,6 +2,9 @@
 title: "Perspective, Balance, Spectra"
 date: ""
 status: "stub"
+tags:
+  - idea
+  - philosophy
 ---
 
 <!--

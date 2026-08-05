@@ -3,6 +3,7 @@ title: Taxodium
 tags:
   - forest/genus
   - forest/deciduous
+  - botany
 date: "2026-01-01"
 ---
 

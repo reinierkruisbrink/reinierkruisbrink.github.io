@@ -2,6 +2,7 @@
 title: Cantharellaceae
 tags:
   - forest/family
+  - mycology
 date: "2026-01-01"
 ---
 

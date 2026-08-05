@@ -3,6 +3,7 @@ title: Picea
 tags:
   - forest/genus
   - forest/evergreen
+  - botany
 date: "2026-01-01"
 ---
 
