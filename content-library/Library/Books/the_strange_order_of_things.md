@@ -69,4 +69,4 @@ Overall an incredibly interesting book, but written in a very dense and academic
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

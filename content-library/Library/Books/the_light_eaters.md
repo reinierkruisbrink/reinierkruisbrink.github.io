@@ -53,4 +53,4 @@ While plant intelligence is a controversial topic, it is in my opinion even more
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

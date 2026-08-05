@@ -56,4 +56,4 @@ Marcia Bjornerud presents an A-to-Z exploration of geological concepts, terms, a
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

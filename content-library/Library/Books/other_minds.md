@@ -57,4 +57,4 @@ In *Other Minds*, philosopher of science Peter Godfrey-Smith uses the octopus as
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

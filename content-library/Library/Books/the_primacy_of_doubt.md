@@ -70,4 +70,4 @@ While very interesting and appealing to some chaotic intuition, the final part r
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

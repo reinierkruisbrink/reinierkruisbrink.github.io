@@ -78,4 +78,4 @@ The chapter-by-chapter sense structure works well as a pedagogical device. Read 
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

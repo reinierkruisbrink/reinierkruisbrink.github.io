@@ -65,4 +65,4 @@ Very informative but heavy on the mathematics and technical jargon, I did mostly
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

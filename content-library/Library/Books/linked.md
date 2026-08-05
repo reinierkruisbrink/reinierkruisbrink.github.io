@@ -61,4 +61,4 @@ Linked is a foundational work in network science by Albert-László Barabási, o
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

@@ -56,4 +56,4 @@ Tom Chivers argues that Bayes' theorem — a simple formula for updating beliefs
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

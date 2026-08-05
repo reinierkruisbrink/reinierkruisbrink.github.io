@@ -54,4 +54,4 @@ Chiara Marletto introduces "constructor theory," a framework developed with Davi
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

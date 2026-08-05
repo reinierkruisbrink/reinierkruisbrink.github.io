@@ -54,4 +54,4 @@ Tristan Gooley teaches readers to read weather at the hyper-local scale — not 
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

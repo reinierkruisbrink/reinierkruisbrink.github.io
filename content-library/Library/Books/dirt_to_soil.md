@@ -95,4 +95,4 @@ Besides ecological sustainability, the book also emphasizes the economic benefit
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

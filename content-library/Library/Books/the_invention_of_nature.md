@@ -57,4 +57,4 @@ Andrea Wulf reconstructs the life of Alexander von Humboldt (1769–1859), the P
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

@@ -50,4 +50,4 @@ Paulo Coelho's philosophical fable follows Santiago, a young Andalusian shepherd
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

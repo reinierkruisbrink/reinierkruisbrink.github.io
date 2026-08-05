@@ -57,4 +57,4 @@ Jared Diamond asks why Eurasian civilisations came to dominate and displace othe
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

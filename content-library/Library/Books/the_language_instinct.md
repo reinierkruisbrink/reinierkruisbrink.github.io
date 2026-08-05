@@ -56,4 +56,4 @@ Steven Pinker argues that language is not a cultural invention learned purely th
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

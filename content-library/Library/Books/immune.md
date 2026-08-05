@@ -58,4 +58,4 @@ Philipp Dettmer (creator of the Kurzgesagt YouTube channel) provides a comprehen
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

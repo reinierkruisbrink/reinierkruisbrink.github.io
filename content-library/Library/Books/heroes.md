@@ -57,4 +57,4 @@ Stephen Fry shifts focus from the gods of *Mythos* to the mortal heroes of Greek
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

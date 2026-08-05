@@ -70,4 +70,4 @@ One of my absolute favourites. It is quite information dense and requires effort
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

@@ -59,4 +59,4 @@ In *The Hidden Spring*, neuropsychologist Mark Solms argues that consciousness d
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

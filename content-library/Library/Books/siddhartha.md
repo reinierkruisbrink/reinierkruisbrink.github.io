@@ -54,4 +54,4 @@ Hermann Hesse's novella follows a young Brahmin named Siddhartha through ancient
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

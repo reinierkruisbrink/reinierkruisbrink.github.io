@@ -64,4 +64,4 @@ The central metaphor is the *drunkard's walk* (random walk) — the unpredictabl
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

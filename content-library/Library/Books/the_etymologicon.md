@@ -50,4 +50,4 @@ Mark Forsyth follows the hidden threads that connect English words to one anothe
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

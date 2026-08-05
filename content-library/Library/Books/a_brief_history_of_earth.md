@@ -71,4 +71,4 @@ Knoll's narrative is compelling and accessible, weaving together geology, biolog
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

@@ -56,4 +56,4 @@ Stephen Fry retells the Greek myths from the very beginning — the emergence of
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

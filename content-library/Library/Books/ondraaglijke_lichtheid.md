@@ -52,4 +52,4 @@ A short but very insightful read on the role of irony in our society, and how it
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

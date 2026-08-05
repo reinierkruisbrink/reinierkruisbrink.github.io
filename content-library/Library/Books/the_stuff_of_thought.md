@@ -56,4 +56,4 @@ Steven Pinker uses the structure of everyday language — verb constructions, me
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

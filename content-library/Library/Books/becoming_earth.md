@@ -77,4 +77,4 @@ The same teleological tension runs through the points on regulation. When scient
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

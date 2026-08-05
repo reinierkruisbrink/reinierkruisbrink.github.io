@@ -68,4 +68,4 @@ The book is interspersed with practical gardening tips that I have mostly skippe
 - [[entangled_life|Entangled Life]] - Sheldrake explores the mycorrhizal fungi that colonise the roots Kourik demystifies
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]

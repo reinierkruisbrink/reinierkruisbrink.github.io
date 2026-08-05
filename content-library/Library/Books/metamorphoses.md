@@ -61,4 +61,4 @@ Ovid's Metamorphoses is a sprawling epic poem that recounts a series of mytholog
 
 ---
 
-**Parent:** [[Books/index|Books]]
+**Parent:** [[Library/Books/index|Books]]
