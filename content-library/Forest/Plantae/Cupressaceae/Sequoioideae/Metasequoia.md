@@ -1,8 +1,8 @@
 ---
 title: Metasequoia
 tags:
-  - forest/genus
-  - forest/deciduous
+  - genus
+  - deciduous
   - botany
 date: "2026-01-01"
 ---
@@ -28,4 +28,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/Sequoioideae/index|Sequoioideae]]

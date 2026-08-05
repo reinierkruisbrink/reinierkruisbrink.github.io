@@ -1,7 +1,7 @@
 ---
 title: Oleaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Oleaceae is a family of trees and shrubs comprising about 25 genera and 600 
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

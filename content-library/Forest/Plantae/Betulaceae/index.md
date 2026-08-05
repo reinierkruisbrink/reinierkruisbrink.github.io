@@ -1,7 +1,7 @@
 ---
 title: Betulaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Betulaceae is a family of deciduous trees and shrubs comprising 6 genera and
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

@@ -1,7 +1,7 @@
 ---
 title: Lamiaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Lamiaceae is a family of aromatic herbs and shrubs comprising about 236 gene
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

@@ -1,7 +1,7 @@
 ---
 title: Cupressaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Cupressaceae is a large family of conifers comprising about 27-30 genera and
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

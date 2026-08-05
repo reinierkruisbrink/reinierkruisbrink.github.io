@@ -1,8 +1,8 @@
 ---
 title: Larix
 tags:
-  - forest/genus
-  - forest/deciduous
+  - genus
+  - deciduous
   - botany
 date: "2026-01-01"
 ---
@@ -30,4 +30,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/Laricoideae/index|Laricoideae]]
+**Parent:** [[Forest/Plantae/Pinaceae/Laricoideae/index|Laricoideae]]

@@ -1,7 +1,7 @@
 ---
 title: Fabaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Fabaceae is the third-largest plant family, comprising about 765 genera and 
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

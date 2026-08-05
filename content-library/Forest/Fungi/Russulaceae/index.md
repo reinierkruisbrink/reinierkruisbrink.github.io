@@ -1,7 +1,7 @@
 ---
 title: Russulaceae
 tags:
-  - forest/family
+  - family
   - mycology
 date: "2026-01-01"
 ---
@@ -24,4 +24,4 @@ The Russulaceae is a family of gilled mushrooms comprising 2 main genera (Russul
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

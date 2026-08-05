@@ -1,7 +1,7 @@
 ---
 title: Apiaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Apiaceae is a family of aromatic herbs comprising about 434 genera and 3,780
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

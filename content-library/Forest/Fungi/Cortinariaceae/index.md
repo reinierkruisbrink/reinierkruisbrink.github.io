@@ -1,7 +1,7 @@
 ---
 title: Cortinariaceae
 tags:
-  - forest/family
+  - family
   - mycology
 date: "2026-01-01"
 ---
@@ -24,4 +24,4 @@ The Cortinariaceae is a large family of gilled mushrooms comprising about 14 gen
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

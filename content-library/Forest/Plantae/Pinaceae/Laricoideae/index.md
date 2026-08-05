@@ -1,7 +1,7 @@
 ---
 title: Laricoideae
 tags:
-  - forest/subfamily
+  - subfamily
   - botany
 date: "2026-01-01"
 ---
@@ -12,4 +12,4 @@ The larch subfamily contains the only deciduous conifers in the pine family. Lar
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/index|Pinaceae]]
+**Parent:** [[Forest/Plantae/Pinaceae/index|Pinaceae]]

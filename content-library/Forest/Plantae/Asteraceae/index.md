@@ -1,7 +1,7 @@
 ---
 title: Asteraceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Asteraceae is one of the largest plant families, comprising about 1,900 gene
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

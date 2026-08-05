@@ -1,8 +1,8 @@
 ---
 title: Pinus
 tags:
-  - forest/genus
-  - forest/evergreen
+  - genus
+  - evergreen
   - botany
 date: "2026-01-01"
 ---
@@ -39,4 +39,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/Pinoideae/index|Pinoideae]]
+**Parent:** [[Forest/Plantae/Pinaceae/Pinoideae/index|Pinoideae]]

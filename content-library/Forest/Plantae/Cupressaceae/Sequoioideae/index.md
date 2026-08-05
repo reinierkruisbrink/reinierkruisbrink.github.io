@@ -1,7 +1,7 @@
 ---
 title: Sequoioideae
 tags:
-  - forest/subfamily
+  - subfamily
   - botany
 date: "2026-01-01"
 ---
@@ -12,4 +12,4 @@ The redwood subfamily contains the world's tallest and most massive trees. These
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/index|Cupressaceae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/index|Cupressaceae]]

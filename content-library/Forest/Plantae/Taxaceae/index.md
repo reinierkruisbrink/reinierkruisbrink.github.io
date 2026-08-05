@@ -1,7 +1,7 @@
 ---
 title: Taxaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Taxaceae is a small family of conifers comprising about 6 genera and 30 spec
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

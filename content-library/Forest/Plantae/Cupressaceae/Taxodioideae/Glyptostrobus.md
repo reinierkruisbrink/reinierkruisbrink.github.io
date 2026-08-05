@@ -1,8 +1,8 @@
 ---
 title: Glyptostrobus
 tags:
-  - forest/genus
-  - forest/deciduous
+  - genus
+  - deciduous
   - botany
 date: "2026-01-01"
 ---
@@ -28,4 +28,4 @@ date: "2026-01-01"
 
 ---
 
-**Parent:** [[Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]
+**Parent:** [[Forest/Plantae/Cupressaceae/Taxodioideae/index|Taxodioideae]]

@@ -1,7 +1,7 @@
 ---
 title: Abietoideae
 tags:
-  - forest/subfamily
+  - subfamily
   - botany
 date: "2026-01-01"
 ---
@@ -12,4 +12,4 @@ The fir subfamily includes some of the most symmetrical and architecturally beau
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/index|Pinaceae]]
+**Parent:** [[Forest/Plantae/Pinaceae/index|Pinaceae]]

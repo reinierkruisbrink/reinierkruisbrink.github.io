@@ -1,7 +1,7 @@
 ---
 title: Ginkgoacea
 tags:
-    - forest/family
+    - family
   - botany
 ---
 
@@ -11,4 +11,4 @@ tags:
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

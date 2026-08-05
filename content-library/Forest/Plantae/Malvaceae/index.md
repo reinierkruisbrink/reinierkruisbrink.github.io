@@ -1,7 +1,7 @@
 ---
 title: Malvaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Malvaceae is a large family comprising about 244 genera and 4,225 species. I
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

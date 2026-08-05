@@ -1,7 +1,7 @@
 ---
 title: Boletaceae
 tags:
-  - forest/family
+  - family
   - mycology
 date: "2026-01-01"
 ---
@@ -23,4 +23,4 @@ The Boletaceae is a family of pored mushrooms comprising about 28 genera and 800
 
 ---
 
-**Parent:** [[Fungi/index|Fungi]]
+**Parent:** [[Forest/Fungi/index|Fungi]]

@@ -1,7 +1,7 @@
 ---
 title: Ranunculaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Ranunculaceae is a family of herbaceous plants comprising about 43 genera an
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

@@ -1,7 +1,7 @@
 ---
 title: Pinaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Pinaceae is the largest family of conifers, comprising 11 genera and about 2
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]

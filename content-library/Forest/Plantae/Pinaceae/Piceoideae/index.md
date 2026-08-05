@@ -1,7 +1,7 @@
 ---
 title: Piceoideae
 tags:
-  - forest/subfamily
+  - subfamily
   - botany
 date: "2026-01-01"
 ---
@@ -12,4 +12,4 @@ The spruce subfamily contains trees with characteristic four-sided needles attac
 
 ---
 
-**Parent:** [[Plantae/Pinaceae/index|Pinaceae]]
+**Parent:** [[Forest/Plantae/Pinaceae/index|Pinaceae]]

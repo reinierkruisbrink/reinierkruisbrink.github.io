@@ -1,7 +1,7 @@
 ---
 title: Brassicaceae
 tags:
-  - forest/family
+  - family
   - botany
 date: "2026-01-01"
 ---
@@ -22,4 +22,4 @@ The Brassicaceae is a family of herbaceous plants comprising about 372 genera an
 
 ---
 
-**Parent:** [[Plantae/index|Plantae]]
+**Parent:** [[Forest/Plantae/index|Plantae]]
