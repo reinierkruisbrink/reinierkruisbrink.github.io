@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <!-- Fallback: redirect /library/ root to site root -->
+  <meta http-equiv="refresh" content="0; url=/">
+  <link rel="canonical" href="https://reinierkruisbrink.github.io/">
+  <script>
+    // Strip /library prefix so /library/Books/foo → /Books/foo
+    var target = window.location.pathname.replace(/^\/library\/?/, '/') || '/';
+    window.location.replace(target + window.location.search + window.location.hash);
+  </script>
+  <title>Redirecting…</title>
+</head>
+<body>
+  <p>Redirecting… <a href="/">click here</a></p>
+</body>
+</html>

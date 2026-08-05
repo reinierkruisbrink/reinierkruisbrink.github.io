@@ -5,8 +5,7 @@ const SiteNav: QuartzComponentConstructor = () => {
     return (
       <nav class="site-nav">
         <a href="/">Home</a>
-        <a href="/about">About</a>
-        <a href="/Books">Library</a>
+        <a href="/Library">Library</a>
         <a href="/Forest">Forest</a>
       </nav>
     )

@@ -9,7 +9,7 @@ A field guide to the plants and fungi I encounter — catalogued by family, genu
 
 → [[Forest/Plantae/index|Plantae]] · [[Forest/Fungi/index|Fungi]]
 
-Notes that share botanical or mycological ground with the [[../Books/index|Library]] are cross-linked via the shared tags `botany`, `mycology`, `ecology`, and `soil`.
+Notes that share botanical or mycological ground with the [[Library/index|Library]] are cross-linked via the shared tags `botany`, `mycology`, `ecology`, and `soil`.
 
 ## Tag Vocabulary
 
