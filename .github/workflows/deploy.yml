@@ -1,4 +1,4 @@
-name: Deploy Dual Quartz Vaults to GitHub Pages
+name: Deploy Quartz to GitHub Pages
 
 on:
   push:
@@ -29,106 +29,50 @@ jobs:
         with:
           node-version: 22
 
-      # BUILD FOREST VAULT
-      - name: Clone Quartz for Forest
+      # BUILD VAULT
+      - name: Clone Quartz
         run: |
-          git clone --branch v4.5.2 --depth 1 https://github.com/jackyzha0/quartz.git quartz-forest-build
-          cd quartz-forest-build
+          git clone --branch v4.5.2 --depth 1 https://github.com/jackyzha0/quartz.git quartz-build
+          cd quartz-build
           npm ci
 
-      - name: Setup Forest Vault
+      - name: Setup Vault
         run: |
-          # Remove default Quartz content
-          rm -rf quartz-forest-build/content/*
-          # Copy our content and configs into Quartz
-          cp -r content-forest/* quartz-forest-build/content/
-          cp quartz-forest/quartz.config.ts quartz-forest-build/quartz.config.ts
-          cp quartz-forest/quartz.layout.ts quartz-forest-build/quartz.layout.ts
-          
-          # Copy custom components
-          if [ -d "quartz-forest/custom" ]; then
-            cp quartz-forest/custom/*.tsx quartz-forest-build/quartz/components/ || true
-            # Register custom components
-            if [ -f "quartz-forest/custom/HomeLinkCustom.tsx" ]; then
-              echo 'import HomeLinkCustom from "./HomeLinkCustom"' >> quartz-forest-build/quartz/components/index.ts
-              sed -i 's/export {/export { HomeLinkCustom,/' quartz-forest-build/quartz/components/index.ts
-            fi
-          fi
-          
-          # Copy favicon icon if it exists
-          if [ -f "assets/icon.png" ]; then
-            cp assets/icon.png quartz-forest-build/quartz/static/icon.png
-          fi
+          rm -rf quartz-build/content/*
+          cp -r content-library/* quartz-build/content/
+          cp quartz-library/quartz.config.ts quartz-build/quartz.config.ts
+          cp quartz-library/quartz.layout.ts quartz-build/quartz.layout.ts
 
-      - name: Build Forest Vault
-        run: |
-          cd quartz-forest-build
-          npx quartz build
-          echo "Forest build output:"
-          ls -la public/
-
-      # BUILD LIBRARY VAULT
-      - name: Clone Quartz for Library
-        run: |
-          git clone --branch v4.5.2 --depth 1 https://github.com/jackyzha0/quartz.git quartz-library-build
-          cd quartz-library-build
-          npm ci
-
-      - name: Setup Library Vault
-        run: |
-          # Remove default Quartz content
-          rm -rf quartz-library-build/content/*
-          # Copy our content and configs into Quartz
-          cp -r content-library/* quartz-library-build/content/
-          cp quartz-library/quartz.config.ts quartz-library-build/quartz.config.ts
-          cp quartz-library/quartz.layout.ts quartz-library-build/quartz.layout.ts
-          
-          # Copy custom components if any
           if [ -d "quartz-library/custom" ]; then
-            cp quartz-library/custom/*.tsx quartz-library-build/quartz/components/ || true
-          fi
-
-          # Copy custom components
-          if [ -d "quartz-library/custom" ]; then
-            cp quartz-library/custom/*.tsx quartz-library-build/quartz/components/ || true
-            # Register custom components
-            if [ -f "quartz-library/custom/HomeLinkCustom.tsx" ]; then
-              echo 'import HomeLinkCustom from "./HomeLinkCustom"' >> quartz-library-build/quartz/components/index.ts
-              sed -i 's/export {/export { HomeLinkCustom,/' quartz-library-build/quartz/components/index.ts
-            fi
+            cp quartz-library/custom/*.tsx quartz-build/quartz/components/ || true
             if [ -f "quartz-library/custom/BookHeader.tsx" ]; then
-              echo 'import BookHeader from "./BookHeader"' >> quartz-library-build/quartz/components/index.ts
-              sed -i 's/export {/export { BookHeader,/' quartz-library-build/quartz/components/index.ts
+              echo 'import BookHeader from "./BookHeader"' >> quartz-build/quartz/components/index.ts
+              sed -i 's/export {/export { BookHeader,/' quartz-build/quartz/components/index.ts
+            fi
+            if [ -f "quartz-library/custom/SiteNav.tsx" ]; then
+              echo 'import SiteNav from "./SiteNav"' >> quartz-build/quartz/components/index.ts
+              sed -i 's/export {/export { SiteNav,/' quartz-build/quartz/components/index.ts
             fi
           fi
-          
-          # Copy favicon icon if it exists
+
           if [ -f "assets/icon.png" ]; then
-            cp assets/icon.png quartz-library-build/quartz/static/icon.png
+            cp assets/icon.png quartz-build/quartz/static/icon.png
           fi
 
-      - name: Build Library Vault
+      - name: Build
         run: |
-          cd quartz-library-build
+          cd quartz-build
           npx quartz build
-          echo "Library build output:"
-          ls -la public/
 
       - name: Prepare deployment directory
         run: |
-          mkdir -p deploy/forest
-
-          # Forest vault at /forest
-          cp -r quartz-forest-build/public/* deploy/forest/
-
+          mkdir -p deploy
           # Template assets still referenced by portfolio.html (removed in Phase 3)
           cp -r assets deploy/
           cp portfolio.html deploy/ 2>/dev/null || true
           cp *.txt deploy/ 2>/dev/null || true
-
-          # Library vault at root; copy last so its index.html takes precedence
-          cp -r quartz-library-build/public/* deploy/
-
+          # Quartz output last so its index.html wins
+          cp -r quartz-build/public/* deploy/
           mv deploy public
 
       - name: Upload artifact

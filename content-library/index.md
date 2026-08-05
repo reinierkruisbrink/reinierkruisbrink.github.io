@@ -1,11 +1,12 @@
 ---
-title: Digital Library
-date: "2026-01-01"
+title: Reinier Kruisbrink
 ---
 
-# Digital Library
+# Reinier Kruisbrink
 
-A curated collection of [[Books/index|books]] and [[Ideas/index|Ideas]] exploring ideas across disciplines, annotated with key concepts, mechanisms, and connections.
+Notes from reading, thinking, and spending time outside. The [[Books/index|Library]] collects book notes and ideas that accumulate while reading across disciplines. The [[Forest/index|Forest]] is a field guide to the plants and fungi I actually encounter.
+
+→ [[Books/index|Library]] · [[Forest/index|Forest]] · [[about|About]]
 
 ## Tag System
 
