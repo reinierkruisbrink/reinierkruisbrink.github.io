@@ -67,6 +67,13 @@ jobs:
       - name: Prepare deployment directory
         run: mv quartz-build/public public
 
+      - name: Inject redirect stubs
+        run: |
+          cp redirects/portfolio.html public/portfolio.html
+          cp redirects/blog.html public/blog.html
+          mkdir -p public/library
+          cp redirects/library/index.html public/library/index.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
