@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Abruptness, Tempo, Change"
 date: ""
 status: "stub"

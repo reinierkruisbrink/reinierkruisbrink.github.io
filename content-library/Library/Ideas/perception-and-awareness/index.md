@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Perception and Awareness"
 date: ""
 status: "stub"

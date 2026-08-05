@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Perspective, Balance, Spectra"
 date: ""
 status: "stub"

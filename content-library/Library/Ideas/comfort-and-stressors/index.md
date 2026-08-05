@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Comfort and Stressors"
 date: ""
 status: "stub"
