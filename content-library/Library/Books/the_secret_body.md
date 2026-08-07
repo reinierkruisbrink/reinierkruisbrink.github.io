@@ -21,7 +21,7 @@ tags:
 
 ## Overview
 
-In *The Secret Body*, immunologist Daniel M. Davis surveys six frontiers of human biology where recent technological breakthroughs have transformed our understanding of the body. The book is organized around the tools and discoveries that made each revolution possible — from super-resolution microscopy to single-cell genomics — emphasizing how *seeing differently* leads to *understanding differently*.
+In *The Secret Body*, immunologist Daniel M. Davis surveys six frontiers of human biology where recent technological breakthroughs have transformed our understanding of the body. The book is organized around the tools and discoveries that made each revolution possible, from super-resolution microscopy to single-cell genomics, emphasizing how *seeing differently* leads to *understanding differently*.
 
 ## Key Concepts
 
@@ -37,7 +37,7 @@ In *The Secret Body*, immunologist Daniel M. Davis surveys six frontiers of huma
 
 ### The Immune System
 
-- **Immune checkpoint therapy**: Cancer cells can exploit immune checkpoints (PD-1/PD-L1, CTLA-4) to "switch off" T cells. Monoclonal antibodies that block these checkpoints release the brake, allowing the immune system to attack tumors — a revolution in oncology.
+- **Immune checkpoint therapy**: Cancer cells can exploit immune checkpoints (PD-1/PD-L1, CTLA-4) to "switch off" T cells. Monoclonal antibodies that block these checkpoints release the brake, allowing the immune system to attack tumors, a revolution in oncology.
 - **Trained innate immunity**: Contrary to the classical division (innate = fixed, adaptive = learnable), innate immune cells like macrophages can be "trained" by prior infections to mount stronger responses to subsequent unrelated threats, via epigenetic reprogramming.
 
 ### The Brain

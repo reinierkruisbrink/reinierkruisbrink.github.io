@@ -5,7 +5,7 @@ date: "2026-01-01"
 
 # Forest
 
-A field guide to the plants and fungi I encounter — catalogued by family, genus, and species.
+A field guide to the plants and fungi I encounter, catalogued by family, genus, and species.
 
 → [[Forest/Plantae/index|Plantae]] · [[Forest/Fungi/index|Fungi]]
 
@@ -13,7 +13,7 @@ Notes that share botanical or mycological ground with the [[Library/index|Librar
 
 ## Tag Vocabulary
 
-Forest notes carry a `forest/` prefix on all taxonomic and descriptive tags to keep them from flooding the Library tag space. Shared tags that genuinely apply to both pillars have no prefix — those cross-links are the main reason Library and Forest live in one instance.
+Forest notes carry a `forest/` prefix on all taxonomic and descriptive tags to keep them from flooding the Library tag space. Shared tags that genuinely apply to both pillars have no prefix, those cross-links are the main reason Library and Forest live in one instance.
 
 ### Taxonomic Rank Tags
 

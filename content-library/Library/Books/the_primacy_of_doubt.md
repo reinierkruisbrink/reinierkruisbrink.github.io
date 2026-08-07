@@ -66,7 +66,7 @@ While very interesting and appealing to some chaotic intuition, the final part r
 
 - [[chaos|Chaos]] - Gleick tells the origin story of the nonlinear dynamics Palmer applies to weather and climate
 - [[everything_is_predictable|Everything Is Predictable]] - Chivers explains Bayesian reasoning; Palmer shows how ensemble forecasting operationalises it
-- [[the_drunkards_walk|The Drunkard's Walk]] - Both explore how uncertainty governs outcomes — everyday life vs physics/policy
+- [[the_drunkards_walk|The Drunkard's Walk]] - Both explore how uncertainty governs outcomes, everyday life vs physics/policy
 
 ---
 

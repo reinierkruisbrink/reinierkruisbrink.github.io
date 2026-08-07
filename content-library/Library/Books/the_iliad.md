@@ -28,19 +28,19 @@ The *Iliad*, attributed to Homer, is the foundational epic of Western literature
 
 - **The inciting conflict**: Agamemnon, leader of the Greek coalition, seizes Briseis (a war prize) from Achilles, the Greeks' greatest warrior. Achilles perceives this as a violation of *timē* (honor/status) and withdraws from battle entirely.
 - **Consequences of withdrawal**: Without Achilles, the Greeks suffer devastating losses. The Trojans, led by Hector, push the fighting to the Greek ships. Achilles' refusal to fight demonstrates how individual honor and collective obligation can catastrophically collide.
-- **Return and vengeance**: When Achilles' companion Patroclus is killed by Hector while wearing Achilles' armor, rage transforms from political grievance into personal grief. Achilles returns to battle, kills Hector, and desecrates his body — only finding resolution when he returns Hector's corpse to Priam in a scene of shared mourning.
+- **Return and vengeance**: When Achilles' companion Patroclus is killed by Hector while wearing Achilles' armor, rage transforms from political grievance into personal grief. Achilles returns to battle, kills Hector, and desecrates his body, only finding resolution when he returns Hector's corpse to Priam in a scene of shared mourning.
 
 ### Gods and Mortals
 
-- **Divine partisanship**: The Olympian gods are active participants — Athena and Hera favor the Greeks; Apollo and Aphrodite favor Troy. Divine intervention shapes individual duels, shifts momentum, and overrides human plans.
+- **Divine partisanship**: The Olympian gods are active participants, Athena and Hera favor the Greeks; Apollo and Aphrodite favor Troy. Divine intervention shapes individual duels, shifts momentum, and overrides human plans.
 - **Fate (moira)**: Even the gods are constrained by fate. Zeus knows Troy will fall and Hector will die, but cannot alter the outcome without unraveling cosmic order. Human characters struggle against their prescribed destinies while the poem implies those destinies are inescapable.
-- **The shield of Achilles**: Hephaestus forges a new shield for Achilles depicting the entire scope of human life — cities at peace and war, marriage, harvest, litigation — framing the war within the full tapestry of civilization.
+- **The shield of Achilles**: Hephaestus forges a new shield for Achilles depicting the entire scope of human life, cities at peace and war, marriage, harvest, litigation, framing the war within the full tapestry of civilization.
 
 ### Themes of War and Mortality
 
 - **Kleos (glory) vs. nostos (homecoming)**: The central tension for Achilles is the choice between a short, glorious life and a long, obscure one. The *Iliad* is unflinching about the cost of choosing *kleos*.
 - **Empathy across enemy lines**: Despite its violence, the poem humanizes both sides. Hector's farewell to Andromache and his infant son is one of the most poignant scenes in literature, and the final meeting between Achilles and Priam transcends enmity entirely.
-- **No triumphalism**: The poem ends not with Greek victory but with Hector's funeral — a deliberate choice that refuses to celebrate conquest and instead closes with mourning.
+- **No triumphalism**: The poem ends not with Greek victory but with Hector's funeral, a deliberate choice that refuses to celebrate conquest and instead closes with mourning.
 
 ## Personal Reflection
 
@@ -49,7 +49,7 @@ The *Iliad*, attributed to Homer, is the foundational epic of Western literature
 ## Related Books
 
 - [[the_odyssey|The Odyssey]] - Homer's sequel; Odysseus's journey home from the war
-- [[troy|Troy]] - Fry provides the complete arc — prelude and aftermath Homer omits
+- [[troy|Troy]] - Fry provides the complete arc, prelude and aftermath Homer omits
 - [[heroes|Heroes]] - Achilles, Ajax, and Hector profiled within Fry's broader survey of Greek heroism
 
 ---

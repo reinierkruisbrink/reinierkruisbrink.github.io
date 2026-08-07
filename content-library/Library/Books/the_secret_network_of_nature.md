@@ -21,7 +21,7 @@ tags:
 
 ## Overview
 
-In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden web of connections that sustains ecosystems. Rather than treating species and processes as independent entities, the book demonstrates that ecosystems function as integrated networks where perturbations in one component cascade through the whole system — often in counterintuitive ways. Wohlleben draws on examples from temperate forests, rivers, grasslands, and oceans to argue that nature's resilience depends on the integrity of these connections.
+In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden web of connections that sustains ecosystems. Rather than treating species and processes as independent entities, the book demonstrates that ecosystems function as integrated networks where perturbations in one component cascade through the whole system, often in counterintuitive ways. Wohlleben draws on examples from temperate forests, rivers, grasslands, and oceans to argue that nature's resilience depends on the integrity of these connections.
 
 ## Key Concepts
 
@@ -33,7 +33,7 @@ In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden w
 
 ### Trophic Cascades
 
-- **Wolves and rivers**: The reintroduction of wolves to Yellowstone reduced elk overgrazing on riverbank vegetation. As willows and aspens recovered, root systems stabilized riverbanks, reducing erosion and actually changing the physical course of rivers — a classic top-down trophic cascade.
+- **Wolves and rivers**: The reintroduction of wolves to Yellowstone reduced elk overgrazing on riverbank vegetation. As willows and aspens recovered, root systems stabilized riverbanks, reducing erosion and actually changing the physical course of rivers, a classic top-down trophic cascade.
 - **Beavers as ecosystem engineers**: Beaver dams create ponds that raise water tables, increase habitat diversity, slow flood pulses, and filter sediment. The removal of beavers from a landscape has cascading hydrological and ecological consequences.
 - **Salmon feeding forests**: Pacific salmon carry marine-derived nitrogen and phosphorus into inland forests when they spawn and die. Trees near salmon streams grow significantly faster, and the entire riparian ecosystem depends on this annual nutrient subsidy.
 
@@ -41,7 +41,7 @@ In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden w
 
 - **Earthworms and wild boar**: Earthworm populations influence soil structure and leaf-litter decomposition, which affects the food available to wild boar. Boar rooting behavior in turn disturbs the soil, altering plant succession. Each species modulates the other in a feedback loop.
 - **Human disruption**: Deforestation, monoculture forestry, pollution, and climate change sever these network connections. Wohlleben argues that many conservation failures stem from managing individual species in isolation rather than preserving the network of relationships.
-- **Nonlinear thresholds**: Ecosystems can absorb a certain amount of disturbance, but beyond a tipping point, cascading failures can rapidly degrade the system — highlighting why precautionary management of ecological networks matters.
+- **Nonlinear thresholds**: Ecosystems can absorb a certain amount of disturbance, but beyond a tipping point, cascading failures can rapidly degrade the system, highlighting why precautionary management of ecological networks matters.
 
 ## Personal Reflection
 

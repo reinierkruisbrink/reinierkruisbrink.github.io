@@ -47,7 +47,7 @@ A short but very insightful read on the role of irony in our society, and how it
 ## Related Books
 
 - [[the_stuff_of_thought|The Stuff of Thought]] - Pinker analyses how language reveals thought; Pfeijffer analyses how irony conceals it
-- [[alice_in_wonderland|Alice in Wonderland]] - Carroll weaponises nonsense the way modern culture weaponises irony — both expose the fragility of meaning
+- [[alice_in_wonderland|Alice in Wonderland]] - Carroll weaponises nonsense the way modern culture weaponises irony, both expose the fragility of meaning
 - [[the_etymologicon|The Etymologicon]] - Forsyth traces how words drift from original meanings; Pfeijffer shows how irony accelerates the same process
 
 ---

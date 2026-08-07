@@ -27,8 +27,8 @@ In *The Gene*, Siddhartha Mukherjee traces the scientific and cultural history o
 
 ### The Arc of Discovery
 
-- **Mendel's laws**: Gregor Mendel's experiments with pea plants (1850s-60s) established the particulate nature of inheritance — traits are carried by discrete "factors" (genes) that segregate independently, rather than blending. His work was ignored for decades.
-- **Chromosomes and linkage**: The rediscovery of Mendel (1900) and Thomas Hunt Morgan's fruit-fly experiments connected abstract "factors" to physical structures — chromosomes — and revealed that genes on the same chromosome are *linked*, violating independent assortment.
+- **Mendel's laws**: Gregor Mendel's experiments with pea plants (1850s-60s) established the particulate nature of inheritance, traits are carried by discrete "factors" (genes) that segregate independently, rather than blending. His work was ignored for decades.
+- **Chromosomes and linkage**: The rediscovery of Mendel (1900) and Thomas Hunt Morgan's fruit-fly experiments connected abstract "factors" to physical structures, chromosomes, and revealed that genes on the same chromosome are *linked*, violating independent assortment.
 - **The double helix**: Watson, Crick, Franklin, and Wilkins determined DNA's three-dimensional structure (1953), revealing how complementary base pairing (A-T, G-C) enables faithful replication and information storage.
 - **The central dogma**: DNA → RNA → Protein. The genetic code (triplet codons) was cracked in the 1960s, establishing a unidirectional flow of information from nucleic acids to proteins.
 
@@ -40,9 +40,9 @@ In *The Gene*, Siddhartha Mukherjee traces the scientific and cultural history o
 
 ### Genes, Society, and Ethics
 
-- **Eugenics**: Mukherjee documents the dark history of the eugenics movement — forced sterilizations in the US, Nazi racial hygiene programs — showing how a crude, deterministic understanding of genetics was weaponized to justify atrocities.
+- **Eugenics**: Mukherjee documents the dark history of the eugenics movement, forced sterilizations in the US, Nazi racial hygiene programs, showing how a crude, deterministic understanding of genetics was weaponized to justify atrocities.
 - **Gene-environment interaction**: Complex traits (intelligence, mental illness, height) are influenced by hundreds to thousands of genetic variants, each of tiny effect, interacting with environmental factors. Single-gene determinism is the exception, not the rule.
-- **CRISPR and the future**: Precision gene editing raises profound ethical questions — from curing monogenic diseases (sickle cell, cystic fibrosis) to the specter of heritable germline modifications and "designer babies."
+- **CRISPR and the future**: Precision gene editing raises profound ethical questions, from curing monogenic diseases (sickle cell, cystic fibrosis) to the specter of heritable germline modifications and "designer babies."
 
 ## Personal Reflection
 
