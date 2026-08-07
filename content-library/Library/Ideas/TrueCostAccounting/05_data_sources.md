@@ -266,7 +266,7 @@ The unknown penalty is reduced as data quality improves through verification:
 
 **Access**:
 - Website: [world.openfoodfacts.org](https://world.openfoodfacts.org)
-- License: Open Database License (ODbL) — free to use with attribution
+- License: Open Database License (ODbL), free to use with attribution
 - Format: JSON, CSV, API
 
 **Integration**:

@@ -57,7 +57,7 @@ It is wonderfully unfortunate that the answer to the question "How Life Works" i
 
 ## Related Books
 
-- [[the_gene|The Gene]] - Mukherjee tells the story of the gene Ball argues we need to move beyond — complementary perspectives
+- [[the_gene|The Gene]] - Mukherjee tells the story of the gene Ball argues we need to move beyond, complementary perspectives
 - [[transformer|Transformer]] - Lane places metabolism at life's centre, supporting Ball's argument that genes alone can't explain complexity
 - [[what_is_life|What is Life?]] - Nurse distils the same "what makes life work" question into five core principles
 

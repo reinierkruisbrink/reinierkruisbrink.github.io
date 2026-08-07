@@ -24,19 +24,19 @@ Mark Forsyth follows the hidden threads that connect English words to one anothe
 ## Key Concepts
 
 ### Semantic Drift and Meaning Change
-- **Amelioration and pejoration** — words shift valence over time: "nice" once meant foolish or ignorant (from Latin *nescius*), while "villain" simply meant a farm worker (*villanus*) before acquiring its sinister connotation through class prejudice
-- **Metonymy and metaphor** — much of vocabulary growth comes from figurative extension; "capital" (money) traces back to *caput* (head), because wealth was once counted in heads of cattle
-- **Back-formation and folk etymology** — speakers reshape unfamiliar words to fit familiar patterns, sometimes creating entirely new derivations: "pea" was back-formed from "pease" (originally a mass noun), and "hamburger" was reanalysed as "ham" + "burger" despite having nothing to do with ham
+- **Amelioration and pejoration**: words shift valence over time: "nice" once meant foolish or ignorant (from Latin *nescius*), while "villain" simply meant a farm worker (*villanus*) before acquiring its sinister connotation through class prejudice
+- **Metonymy and metaphor**: much of vocabulary growth comes from figurative extension; "capital" (money) traces back to *caput* (head), because wealth was once counted in heads of cattle
+- **Back-formation and folk etymology**: speakers reshape unfamiliar words to fit familiar patterns, sometimes creating entirely new derivations: "pea" was back-formed from "pease" (originally a mass noun), and "hamburger" was reanalysed as "ham" + "burger" despite having nothing to do with ham
 
 ### Chains of Connection
-- **Circular structure** — Forsyth's key device: each chapter ends by linking to the next through an etymological connection, forming a loop that returns to the starting word, illustrating that the lexicon is a network rather than a list
-- **Cross-linguistic borrowing** — English is a magpie language; Germanic roots mix with Norman French, Latin, Greek, Arabic, Hindi, and dozens of others, and Forsyth traces how specific historical events (the Norman Conquest, colonial trade) injected each layer
-- **Doublets and cognates** — words like "royal" (via French) and "regal" (via Latin) descend from the same root but entered English through different routes, acquiring distinct nuances along the way
+- **Circular structure**: Forsyth's key device: each chapter ends by linking to the next through an etymological connection, forming a loop that returns to the starting word, illustrating that the lexicon is a network rather than a list
+- **Cross-linguistic borrowing**: English is a magpie language; Germanic roots mix with Norman French, Latin, Greek, Arabic, Hindi, and dozens of others, and Forsyth traces how specific historical events (the Norman Conquest, colonial trade) injected each layer
+- **Doublets and cognates**: words like "royal" (via French) and "regal" (via Latin) descend from the same root but entered English through different routes, acquiring distinct nuances along the way
 
 ### Language as Cultural History
-- **Etymology as archaeology** — word origins preserve evidence of past technologies, social structures, and beliefs that may have otherwise been forgotten; "salary" records the Roman practice of paying soldiers in salt (*sal*)
-- **Taboo and euphemism cycles** — Forsyth shows how socially sensitive words undergo rapid replacement: each euphemism eventually absorbs the taboo of the concept it replaced, driving a perpetual cycle of lexical turnover
-- **Place names and personal names** — proper nouns often encode geography, occupation, or patronage; Forsyth reveals how they leak back into common vocabulary (e.g. "denim" from *de Nîmes*, "champagne" from the French region)
+- **Etymology as archaeology**: word origins preserve evidence of past technologies, social structures, and beliefs that may have otherwise been forgotten; "salary" records the Roman practice of paying soldiers in salt (*sal*)
+- **Taboo and euphemism cycles**: Forsyth shows how socially sensitive words undergo rapid replacement: each euphemism eventually absorbs the taboo of the concept it replaced, driving a perpetual cycle of lexical turnover
+- **Place names and personal names**: proper nouns often encode geography, occupation, or patronage; Forsyth reveals how they leak back into common vocabulary (e.g. "denim" from *de Nîmes*, "champagne" from the French region)
 
 ## Personal Reflection
 

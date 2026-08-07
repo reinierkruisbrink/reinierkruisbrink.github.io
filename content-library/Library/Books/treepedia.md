@@ -26,24 +26,24 @@ Joan Maloof presents an encyclopaedic celebration of trees, covering their biolo
 ## Key Concepts
 
 ### Tree Anatomy and Physiology
-- **Vascular architecture** — xylem transports water and dissolved minerals from roots to canopy under tension (cohesion-tension theory), while phloem distributes photosynthetic sugars via pressure-driven flow; together they form the circulatory system that enables trees to reach heights exceeding 100 metres
-- **Meristems and growth** — apical meristems drive vertical extension, while the vascular cambium (a lateral meristem) adds annual layers of wood (secondary xylem) and bark (secondary phloem), producing the growth rings that encode climate history
-- **Heartwood and sapwood** — only the outermost rings (sapwood) are physiologically active in water transport; the inner heartwood, impregnated with resins and tannins, provides structural support and chemical defence against decay organisms
+- **Vascular architecture**: xylem transports water and dissolved minerals from roots to canopy under tension (cohesion-tension theory), while phloem distributes photosynthetic sugars via pressure-driven flow; together they form the circulatory system that enables trees to reach heights exceeding 100 metres
+- **Meristems and growth**: apical meristems drive vertical extension, while the vascular cambium (a lateral meristem) adds annual layers of wood (secondary xylem) and bark (secondary phloem), producing the growth rings that encode climate history
+- **Heartwood and sapwood**: only the outermost rings (sapwood) are physiologically active in water transport; the inner heartwood, impregnated with resins and tannins, provides structural support and chemical defence against decay organisms
 
 ### Ecological Roles
-- **Carbon sequestration** — trees fix atmospheric CO₂ through photosynthesis and store it in biomass and soil organic matter; old-growth forests are particularly significant carbon sinks because their massive trunks and root systems represent centuries of accumulated carbon
-- **Mycorrhizal networks** — most trees form symbiotic associations with fungi that extend the root system's effective surface area by orders of magnitude; these networks facilitate nutrient exchange between trees of different species, enabling resource-sharing sometimes called the "wood wide web"
-- **Habitat provision** — a single mature oak can support over 2,000 species of insects, fungi, lichens, birds, and mammals; dead and decaying wood (snags, fallen logs) is itself a critical habitat for saproxylic organisms
+- **Carbon sequestration**: trees fix atmospheric CO₂ through photosynthesis and store it in biomass and soil organic matter; old-growth forests are particularly significant carbon sinks because their massive trunks and root systems represent centuries of accumulated carbon
+- **Mycorrhizal networks**: most trees form symbiotic associations with fungi that extend the root system's effective surface area by orders of magnitude; these networks facilitate nutrient exchange between trees of different species, enabling resource-sharing sometimes called the "wood wide web"
+- **Habitat provision**: a single mature oak can support over 2,000 species of insects, fungi, lichens, birds, and mammals; dead and decaying wood (snags, fallen logs) is itself a critical habitat for saproxylic organisms
 
 ### Remarkable Species
-- **Baobabs (*Adansonia*)** — with massive trunks capable of storing thousands of litres of water, baobabs are adapted to arid savannas and can live for over a thousand years; their hollow interiors have been used as shelters, prisons, and even pubs
-- **Bristlecone pines (*Pinus longaeva*)** — the oldest known non-clonal organisms on Earth, with individual specimens exceeding 5,000 years; their extreme longevity is linked to slow growth in harsh alpine environments and dense, resin-rich wood that resists decay
-- **Fitzroya (*Fitzroya cupressoides*)** — the South American equivalent of giant sequoias, reaching ages of 3,600+ years; endangered by logging, their surviving stands are a conservation priority
+- **Baobabs (*Adansonia*)**: with massive trunks capable of storing thousands of litres of water, baobabs are adapted to arid savannas and can live for over a thousand years; their hollow interiors have been used as shelters, prisons, and even pubs
+- **Bristlecone pines (*Pinus longaeva*)**: the oldest known non-clonal organisms on Earth, with individual specimens exceeding 5,000 years; their extreme longevity is linked to slow growth in harsh alpine environments and dense, resin-rich wood that resists decay
+- **Fitzroya (*Fitzroya cupressoides*)**: the South American equivalent of giant sequoias, reaching ages of 3,600+ years; endangered by logging, their surviving stands are a conservation priority
 
 ### Conservation and Threats
-- **Deforestation rates** — tropical forests lose approximately 10 million hectares per year to agriculture, logging, and development, with cascading effects on biodiversity, carbon cycling, and indigenous communities
-- **Invasive pests and pathogens** — globalised trade has introduced devastating diseases (chestnut blight, Dutch elm disease, ash dieback) to naive tree populations, illustrating how monoculture and reduced genetic diversity increase vulnerability
-- **Old-growth protection** — Maloof advocates for the preservation of primary forests, which harbour biodiversity, structural complexity, and carbon stocks that cannot be replicated by plantation forestry, even over centuries
+- **Deforestation rates**: tropical forests lose approximately 10 million hectares per year to agriculture, logging, and development, with cascading effects on biodiversity, carbon cycling, and indigenous communities
+- **Invasive pests and pathogens**: globalised trade has introduced devastating diseases (chestnut blight, Dutch elm disease, ash dieback) to naive tree populations, illustrating how monoculture and reduced genetic diversity increase vulnerability
+- **Old-growth protection**: Maloof advocates for the preservation of primary forests, which harbour biodiversity, structural complexity, and carbon stocks that cannot be replicated by plantation forestry, even over centuries
 
 ## Personal Reflection
 
