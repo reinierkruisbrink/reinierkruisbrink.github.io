@@ -46,7 +46,7 @@ Lawrence Millman presents an alphabetical compendium of entries on fungi, coveri
 
 ## Personal Reflection
 
-[To be added]
+Similar to the other -pedia books, this one is a fun collection of entries on a wide range of mycology topics. It can be rather difficult for someone new to mycology to follow, as it jumps between topics and assumes some prior knowledge of biology and ecology. However, it is a good read for those interested in the fungal kingdom and its many roles in nature and human culture. It somehow does not feel like prior knowledge is needed but the topics are still jumping from one to another, which is a bit disorienting. Best read as a reference or as a starting point for further exploration.
 
 ## Related Books
 

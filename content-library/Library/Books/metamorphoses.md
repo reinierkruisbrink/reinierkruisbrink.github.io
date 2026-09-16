@@ -51,7 +51,7 @@ Ovid's Metamorphoses is a sprawling epic poem that recounts a series of mytholog
 
 ## Personal Reflection
 
-[To be added]
+Aside from the fact that I really like the ancient stories, and how they 'explain' the world, I really appreciate the theme of flux and change. It fits perfectly with impermanence, uncertaint, and evolution.
 
 ## Related Books
 

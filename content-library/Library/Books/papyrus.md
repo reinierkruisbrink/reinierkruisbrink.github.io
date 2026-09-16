@@ -46,13 +46,13 @@ Irene Vallejo traces the material and cultural history of the book from its orig
 
 ## Personal Reflection
 
-[To be added]
+One of the first books that started me reading again. Interestingly, a book about books, and the history of books, started me on a journey of reading. 
 
 ## Related Books
 
 - [[the_information|The Information]] - Gleick traces information encoding from drums to digital; Vallejo covers the book as information technology
+- [[the_unfolding_of_language|The Unfolding of Language]] - Deutscher traces the evolution of language which mostly depends on written records; Vallejo traces the evolution of the book which preserves language
 - [[the_etymologicon|The Etymologicon]] - Both celebrate how language shapes and preserves knowledge, through books vs through words
-- [[kruiden_kokkels_en_kippen|Kruiden, Kokkels, en Kippen]] - Both explore how fragile the transmission of knowledge through history has been
 
 ---
 

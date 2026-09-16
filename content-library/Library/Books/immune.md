@@ -48,7 +48,7 @@ Philipp Dettmer (creator of the Kurzgesagt YouTube channel) provides a comprehen
 
 ## Personal Reflection
 
-[To be added]
+The fact that this deep-dive has the images and animations of the Kurzgesagt team makes it a very enjoyable read. The immune system is a complex and fascinating topic, and Dettmer does an excellent job of breaking it down into understandable concepts while maintaining scientific accuracy. I particularly appreciated the visual explanations of immune processes, which helped me grasp the dynamic interactions between different cell types and molecules, although they are simplifications of course.
 
 ## Related Books
 

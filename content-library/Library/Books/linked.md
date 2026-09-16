@@ -51,7 +51,7 @@ Linked is a foundational work in network science by Albert-László Barabási, o
 
 ## Personal Reflection
 
-[To be added]
+Considering the book is from 2002, it is interesting to see how they spoke of the internet and *linked* it to the emerging field of network science. Aside from the history, it is a nice read on the early development of network theory and the ideas that have since become foundational in the field. 
 
 ## Related Books
 

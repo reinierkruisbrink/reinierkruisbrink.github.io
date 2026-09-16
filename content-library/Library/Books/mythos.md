@@ -9,7 +9,7 @@ cover_image_url: "https://images-na.ssl-images-amazon.com/images/S/compressed.ph
 read_date: "2021"
 date: "2021-01-01"
 my_rating: 10
-synopsis: "In Stephen Fry's Mythos, you're in for a treat - a witty and engaging retelling of Greek myths. Forget dry, textbook versions, Fry breathes new life into these classic stories with his signature humor and insightful commentary."
+synopsis: "In Stephen Fry's Mythos, you're in for a treat, a witty and engaging retelling of Greek myths. Forget dry, textbook versions, Fry breathes new life into these classic stories with his signature humor and insightful commentary."
 tags:
   - "classics"
   - "fiction"
@@ -52,6 +52,7 @@ Stephen Fry retells the Greek myths from the very beginning, the emergence of Ch
 
 - [[heroes|Heroes]] - Second volume in Fry's trilogy, the mortal successors to the gods
 - [[troy|Troy]] - Third volume, the war that binds gods and heroes
+- [[odyssey|Odyssey]] - Fourth volume, Fry's retelling of Homer's epic journey of Odysseus
 - [[metamorphoses|Metamorphoses]] - Ovid's poem is the other great literary compendium of the same myths
 
 ---

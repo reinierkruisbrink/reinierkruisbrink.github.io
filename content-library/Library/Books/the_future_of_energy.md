@@ -53,7 +53,7 @@ Black identifies five technologies that, deployed together, can decarbonise the 
 
 ## Personal Reflection
 
-[To be added]
+A light read and a perfectly sized introduction into the energy transition. When laid out like this it barely seems like a challenge at all, which points directly to the actual problem: the political and institutional barriers to deployment. The book is optimistic, but it is also a call to action: the technology exists, the economics are favourable, and the climate imperative is urgent. 
 
 ## Related Books
 

@@ -47,7 +47,7 @@ Shane O'Mara draws on neuroscience, evolutionary biology, physiology, and psycho
 
 ## Personal Reflection
 
-[To be added]
+While I found the historical and evolutionary context interesting, as well as the need for walking in our sedentary lives, I was disappointed by the lack of depth in the discussion of the neuroscience and physiology of walking. The book touches on these topics but does not provide the detailed mechanistic explanations I was hoping for. Additionally, some of the claims about walking's effects on creativity and cognition felt anecdotal rather than rigorously supported by empirical evidence. Overall, while the book is a compelling advocacy for walking, it left me wanting a more thorough exploration of the underlying science.
 
 ## Related Books
 

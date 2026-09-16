@@ -34,7 +34,7 @@ In *Kruiden, Kokkels en Kippen*, Dutch scientist Louise O. Fresco uses the lives
 
 - **The chicken experiment**: Eijkman observed that chickens fed polished (white) rice developed neurological symptoms resembling beriberi, while those fed unpolished (brown) rice did not. This accidental observation led to the identification of a "protective factor" in rice bran, later recognized as vitamin B1 (thiamine).
 - **Germ theory bias**: Eijkman initially searched for a bacterial cause of beriberi, as germ theory dominated medical thinking. The nutritional explanation emerged *despite* his theoretical framework, illustrating how paradigms can both enable and constrain discovery.
-- **Delayed recognition**: Eijkman received the Nobel Prize in 1929, decades after his key observations, and the full biochemical role of thiamine was understood only later still. Attribution in science is rarely straightforward.
+- **Absence vs Presence**: In the end it was simply malnourishment, the absence of a nutrient, that caused the disease, rather than the presence of a pathogen.
 
 ### The Nature of Scientific Progress
 
@@ -44,7 +44,7 @@ In *Kruiden, Kokkels en Kippen*, Dutch scientist Louise O. Fresco uses the lives
 
 ## Personal Reflection
 
-[To be added]
+A very short read but fun for a change of the longer more in depth non-fiction books I usually read. I mostly liked the story of Beriberi and how they were looking for something that wasn't there. A little reminder that something absent can be just as important as something present.
 
 ## Related Books
 

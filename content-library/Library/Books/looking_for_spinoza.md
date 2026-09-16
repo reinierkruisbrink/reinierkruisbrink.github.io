@@ -46,12 +46,12 @@ António Damásio bridges modern neuroscience and 17th-century philosophy to bui
 
 ## Personal Reflection
 
-[To be added]
+Absolutely one of my favourites, as it was the first book by Damásio I read, and on the somatic marker hypothesis in particular, and it completely changed how I saw the neuroscience of emotion. I am also a big fan of Spinoza, so it was a joy to see the philosopher's ideas brought to life in a modern scientific context. It is, however, not an easy read as Damásio's writing is dense and academic. I read the book after having read Being You by Anil Seth, and I read this one with a predictive processing perspective in mind.
 
 ## Related Books
 
 - [[feeling_and_knowing|Feeling & Knowing]] - Damasio's later, more concise statement of the same core thesis
-- [[the_hidden_spring|The Hidden Spring]] - Solms extends Damasio by anchoring affect in the brainstem with free energy maths
+- [[the_hidden_spring|The Hidden Spring]] - Solms extends Damasio by anchoring affect in the brainstem with free energy maths (somatic marker + predictive processing)
 - [[the_strange_order_of_things|The Strange Order of Things]] - Damasio's companion extending feelings into culture and homeostasis
 
 ---

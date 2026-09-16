@@ -53,7 +53,7 @@ How Life Works by Philip Ball is an incredibly interesting book of the principle
 
 ## Personal Reflection
 
-It is wonderfully unfortunate that the answer to the question "How Life Works" is "We don't know exactly, but it is a lot more complex than we thought!". All those mechanisms for diversity on different layers of organization cause the combinatorial possibilities to explode, and these possibilities are pruned through the interplay of environment and organism. This is like seeing the classic nature vs nurture debate as an interaction instead of a dichotomy.
+It is wonderfully unfortunate that the answer to the question "How Life Works" is "We don't know exactly, but it is a lot more complex than we thought!". All those mechanisms for diversity on different layers of organization cause the combinatorial possibilities to explode, and these possibilities are pruned through the interplay of environment and organism. This is like seeing the classic nature vs nurture debate as an interaction instead of a dichotomy. It is thick book and a tough information-dense read, but it is worth it. I am left with a sense of awe and wonder at the complexity of life, and the layers of complexity that create diversity in life.
 
 ## Related Books
 

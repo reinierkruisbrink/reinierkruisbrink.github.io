@@ -55,7 +55,7 @@ Chudler opens with a quote by Ramón y Cajal:
 
 ## Personal Reflection
 
-[To be added]
+Like the other -pedia books, the topics range from basic anatomy and (dys)functions to cultural and academic aspects of neuroscience. It can feel like it jumps from topic to topic if all are unfamiliar but it is a great reference or starting point to learn more about new or adjacent aspects of neuroscience
 
 ## Related Books
 

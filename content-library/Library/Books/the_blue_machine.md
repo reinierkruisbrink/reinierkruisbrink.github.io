@@ -47,7 +47,7 @@ Helen Czerski explains the ocean as a single, interconnected physical engine, a 
 
 ## Personal Reflection
 
-[To be added]
+Quite a dense read, but it helps that it is interspersed with anecdotal and historical stories to make the facts and science more experienced rather than learned. I found the sections on ocean circulation and climate particularly enlightening, as they connected many concepts I had learned in isolation into a coherent picture of how the ocean functions as a global system. I did think that it could have been a bit shorter, as the anecdotes sometimes felt like they were padding out the text rather than adding to the understanding of the science.
 
 ## Related Books
 

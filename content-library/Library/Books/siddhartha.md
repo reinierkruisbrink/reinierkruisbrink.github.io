@@ -45,7 +45,7 @@ Hermann Hesse's novella follows a young Brahmin named Siddhartha through ancient
 
 ## Personal Reflection
 
-[To be added]
+I read the book in German to practice, and it was not at all hard to understand. Ironically or not, while reading I did not understand the phrase "das Om" and I was looking it up but could not find any translation. Then only at the end of the book I spoke it aloud and understood it. I think this is a good example of the book's message: some things cannot be learned through words, but only through experience. Overall I liked the book and definitely not too hard to read in German for practicing, as well as learning something about ancient Indian philosophy and culture.
 
 ## Related Books
 

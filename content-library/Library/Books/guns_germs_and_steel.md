@@ -47,13 +47,12 @@ Jared Diamond asks why Eurasian civilisations came to dominate and displace othe
 
 ## Personal Reflection
 
-[To be added]
+A classic and a fantastic read, although it is rather dense and requires some effort to digest. Diamond's argument is compelling and well-supported, but it also raises questions about the role of human agency, culture, and contingency in history. While geography sets the stage, the choices societies make within those constraints can still lead to vastly different outcomes. Together with The Story of the Human Body, this book provided me with a powerful lens for understanding the deep roots of inequality and the complex interplay between environment, biology, and culture in shaping human history.
 
 ## Related Books
 
-- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman picks up where Diamond leaves off: how agriculture reshaped the human body
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman picks up where Diamond leaves off: how agriculture and modernity reshaped the human body
 - [[the_invention_of_nature|The Invention of Nature]] - Humboldt was among the first to link geography to life distribution, the intellectual precursor to Diamond's argument
-- [[the_extended_selfish_gene|The Extended Selfish Gene]] - Dawkins' gene-level evolution provides the mechanism behind the domestication processes Diamond describes
 
 ---
 

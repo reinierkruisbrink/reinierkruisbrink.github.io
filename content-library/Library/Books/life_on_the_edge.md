@@ -56,7 +56,7 @@ The Coming of Age of Quantum Biology by Johnjoe McFadden and Jim Al-Khalili isn'
 
 ## Personal Reflection
 
-[To be added]
+On the one hand, the book is a fascinating exploration of how quantum mechanics might play a role in biological systems, challenging the classical view of life as purely chemical and thermal. On the other hand, some of the claims are speculative and not universally accepted in the scientific community. The discussion of photosynthesis and magnetoreception is compelling, but the more speculative ideas about quantum consciousness and olfaction should be taken with caution. Overall, it provides a thought-provoking perspective on the intersection of physics and biology.
 
 ## Related Books
 

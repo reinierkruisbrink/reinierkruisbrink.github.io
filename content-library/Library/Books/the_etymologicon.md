@@ -40,13 +40,12 @@ Mark Forsyth follows the hidden threads that connect English words to one anothe
 
 ## Personal Reflection
 
-[To be added]
+An entertaining read with a lot of stories on English words and their origins. The circular structure is clever, but the book sometimes feels like a collection of trivia rather than a cohesive argument. Great companion to other books on language, 
 
 ## Related Books
 
 - [[the_language_instinct|The Language Instinct]] - Pinker explains the biological machinery; Forsyth shows what happens to words once it sets them loose
-- [[the_stuff_of_thought|The Stuff of Thought]] - Pinker probes words as cognitive windows; Forsyth traces them backward through time
-- [[papyrus|Papyrus]] - Vallejo follows the material carriers of language; Forsyth follows the words themselves
+- [[the_unfolding_of_language|The Unfolding of Language]] - Deutscher provides a more systematic and general perspective of language evolution
 
 ---
 

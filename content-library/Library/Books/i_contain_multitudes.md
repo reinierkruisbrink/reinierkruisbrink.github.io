@@ -58,7 +58,7 @@ Ed Yong's "I Contain Multitudes" dives into the fascinating world of microbes li
 ## Related Books
 
 - [[immune|Immune]] - The immune system must negotiate with the microbial multitudes Yong describes
-- [[entangled_life|Entangled Life]] - Extends the symbiosis paradigm from bacteria to fungi
+- [[the_hidden_half_of_nature|The Hidden Half of Nature]] - Extends the symbiosis of microbes to both soil ecology and the human body as well
 - [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman contextualises the microbiome within human evolutionary history
 
 ---

@@ -49,13 +49,12 @@ The Aeneid by Virgil is an epic poem that follows Aeneas, a Trojan warrior, afte
 
 ## Personal Reflection
 
-[To be added]
+I like the inevitability of fate, that even the gods can only delay. What I like even more is the propaganda aspect of the story, that it was written to glorify Augustus and Rome. Rome is seen as some great empire but it was also just tyranny and conquest.
 
 ## Related Books
 
 - [[the_odyssey|The Odyssey]] - Virgil's direct literary model; Aeneas's wandering deliberately echoes Odysseus's
 - [[the_iliad|The Iliad]] - The Trojan War that drives Aeneas into exile
-- [[troy|Troy]] - Fry covers the complete narrative, including the fall that launches Aeneas's story
 
 ---
 

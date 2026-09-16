@@ -47,13 +47,13 @@ Stephen Fry shifts focus from the gods of *Mythos* to the mortal heroes of Greek
 
 ## Personal Reflection
 
-[To be added]
+Fantastic stories, retold in witty Stephen Fry style.
 
 ## Related Books
 
 - [[mythos|Mythos]] - First volume in Fry's trilogy, the divine backstory
 - [[troy|Troy]] - Third volume, where many heroes meet their fates
-- [[the_iliad|The Iliad]] - Homer's original, covering the peak of the heroic tradition
+- [[odyssey|Odyssey]] - Fourth volume, Fry's retelling of Homer's epic poem, which features many of the heroes discussed in this book
 
 ---
 

@@ -46,7 +46,7 @@ Marcia Bjornerud presents an A-to-Z exploration of geological concepts, terms, a
 
 ## Personal Reflection
 
-[To be added]
+Similar to the other -pedia books, this one is a fun collection of entries on a wide range of geology topics. It somehow does not feel like prior knowledge is needed but the topics are still jumping from one to another, which is a bit disorienting. Best read as a reference or as a starting point for further exploration.
 
 ## Related Books
 

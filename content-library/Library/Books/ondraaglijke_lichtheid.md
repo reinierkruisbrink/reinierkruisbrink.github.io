@@ -42,7 +42,7 @@ Pfeijffer argues that while irony can be a powerful tool for wit and critical th
 
 ## Personal Reflection
 
-A short but very insightful read on the role of irony in our society, and how it can be both a powerful tool for critique and a dangerous weapon that can undermine genuine discourse and invite apathy. I conclude that irony has a value in fostering critical thinking and challenging dominant narratives, and in smaller kindred circles, but it must be wielded with care to avoid the pitfalls of cynicism and disengagement.
+A short but very insightful read on the role of irony in our society, and how it can be both a powerful tool for critique and a dangerous weapon that can undermine genuine discourse and invite apathy. I conclude that irony has a value in fostering critical thinking and challenging dominant narratives, and in smaller kindred circles, but it must be wielded with care to avoid the pitfalls of cynicism and disengagement in public discussions.
 
 ## Related Books
 

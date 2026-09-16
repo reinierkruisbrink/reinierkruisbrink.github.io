@@ -47,7 +47,7 @@ Carol Gracie presents nearly 100 entries on plants and plant-related topics, spa
 
 ## Personal Reflection
 
-[To be added]
+Similar to the other -pedia books, this one is a fun collection of entries on a wide range of topics, perhaps a bit too wide-ranging to be a deep dive into any one topic. A fun read nonetheless, and sometimes useful for a quick reference. It somehow does not feel like prior knowledge is needed but the topics are still jumping from one to another, which is a bit disorienting. Best read as a reference or as a starting point for further exploration.
 
 ## Related Books
 

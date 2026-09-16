@@ -46,15 +46,11 @@ Kevin Ahern's open-access textbook provides a systematic introduction to the mol
 - **Transcription and translation**: RNA polymerase transcribes DNA into mRNA, which ribosomes translate into polypeptides using the genetic code (triplet codons → amino acids); this central dogma flow is universal across life
 - **Gene regulation**: transcription factors, enhancers, repressors, and epigenetic marks (DNA methylation, histone modification) control which genes are expressed in which cells at which times, enabling cellular differentiation from a single genome
 
-## Personal Reflection
-
-[To be added]
 
 ## Related Books
 
 - [[transformer|Transformer]] - Lane turns the Krebs cycle from a textbook diagram into the narrative hub of all biochemistry
 - [[what_is_life|What is Life?]] - Nurse contextualises molecular machinery within biology's five big ideas
-- [[the_song_of_the_cell|The Song of the Cell]] - Mukherjee shows how textbook biochemistry plays out in health and disease
 
 ---
 

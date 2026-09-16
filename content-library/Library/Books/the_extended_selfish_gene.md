@@ -44,7 +44,7 @@ In *The Extended Selfish Gene*, Richard Dawkins combines his two foundational wo
 
 ## Personal Reflection
 
-[To be added]
+This was quite a dense read, but worth the interesting perspectives it offered on evolution and the gene-centric view of life. But probably the cultural counterpart and its evolution is the most useful takeaway for me, as I paints a more general picture of evolutionary dynamics rather than just biological ones.
 
 ## Related Books
 

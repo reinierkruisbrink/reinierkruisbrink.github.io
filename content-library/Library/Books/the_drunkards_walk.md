@@ -54,7 +54,7 @@ The central metaphor is the *drunkard's walk* (random walk), the unpredictable z
 
 ## Personal Reflection
 
-[To be added]
+Counterintuitively, trying to understand randomness and probability can make us more comfortable with uncertainty, while we are actually still as bad with it as before. Reading such a book makes us go from "unconsciously incompetent" to "consciously incompetent" in our understanding of randomness. I felt I was trying to understand and learn most of the biases and fallacies Mlodinow describes, but I simply could not internalise them. I think that the outcome of consciously incompetent is good enough. 
 
 ## Related Books
 

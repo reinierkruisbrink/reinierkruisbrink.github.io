@@ -47,7 +47,7 @@ In *Other Minds*, philosopher of science Peter Godfrey-Smith uses the octopus as
 
 ## Personal Reflection
 
-[To be added]
+What comes to mind when thinking of Other Minds is the alien-like nature of octopus intelligence. The book challenges anthropocentric views of consciousness and intelligence, showing that complex cognition can arise in radically different forms. It also raises ethical questions about how we treat these creatures, given their apparent capacity for suffering and individuality.
 
 ## Related Books
 

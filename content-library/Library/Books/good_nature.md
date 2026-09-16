@@ -61,9 +61,11 @@ I found this book perfect, except for the fact that the author did not end with 
 
 ## Related Books
 
-- [[an_immense_world|An Immense World]] - Yong's sensory ecology explains why natural stimuli are biologically potent
 - [[chasing_the_sun|Chasing the Sun]] - Geddes focuses on one specific natural stimulus (sunlight) with the same "nature is medicine" thesis
 - [[in_praise_of_walking|In Praise of Walking]] - O'Mara provides the neuroscience of one specific nature-health pathway Willis's framework encompasses
+- [[the_story_of_the_human_body|The Story of the Human Body]] - Lieberman contextualizes the nature-health connection within human evolutionary history
+- [[an_immense_world|An Immense World]] - Yong's sensory ecology explains why natural stimuli are biologically potent
+
 
 ---
 
