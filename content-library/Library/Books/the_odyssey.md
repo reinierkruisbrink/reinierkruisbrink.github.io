@@ -13,7 +13,6 @@ synopsis: "The Odyssey, Homer's epic poem following Odysseus's journey home afte
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # The Odyssey

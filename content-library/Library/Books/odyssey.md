@@ -13,7 +13,6 @@ synopsis: "In Stephen Fry's retelling of Homer's Odyssey, he follows Odysseus on
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # Odyssey

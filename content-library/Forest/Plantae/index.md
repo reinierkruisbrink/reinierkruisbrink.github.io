@@ -7,6 +7,10 @@ tags:
 
 # Plantae
 
+Plants form the structural skeleton of every landscape I walk through. Without them there is no canopy, no leaf litter, no root system for fungi to colonise, no habitat for anything else. I notice them more slowly than fungi, they do not appear overnight, but that consistency is part of what makes them worth tracking across seasons.
+
+This section covers species I have identified and noted in parks, forests, dunes, and roadsides, primarily in the Netherlands and northwest Europe. The focus is on trees and shrubs I can reliably encounter, with cultivated park specimens included where they deepen my understanding of a genus.
+
 A collection of plant observations organized by taxonomy.
 
 ## Plant-Specific Tags
@@ -50,18 +54,21 @@ Plantae
 │
 └── Tracheophytes (vascular plants)
     │
-    ├── Pteridophytes (free-sporing)
-    │   │
-    │   └── Monilophytes (ferns & horsetails)
+    ├── Lycophytes (clubmosses & spikemosses)    ← free-sporing; few NL species
+    │   └── Lycopodiaceae (Lycopodium, Huperzia)
     │
-    └── Spermatophytes (seed plants)
+    └── Euphyllophytes
         │
-        ├── Gymnosperms (naked seed plants)
-        │   ├── Ginkgo
-        │   ├── Conifers (cone-bearing)
+        ├── Monilophytes (ferns & horsetails)    ← free-sporing
         │
-        └── Angiosperms (flowering seed plants)
-            ├── Magnoliids (magnolia relatives)
-            ├── Monocots (grasses, lilies, palms)
-            └── Eudicots (true dicots)
+        └── Spermatophytes (seed plants)
+            │
+            ├── Gymnosperms (naked seed plants)
+            │   ├── Ginkgo
+            │   └── Conifers (cone-bearing)
+            │
+            └── Angiosperms (flowering seed plants)
+                ├── Magnoliids (magnolia relatives)
+                ├── Monocots (grasses, lilies, palms)
+                └── Eudicots (true dicots)
 ```

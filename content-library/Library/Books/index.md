@@ -28,7 +28,7 @@ High-level fields of knowledge. Each book typically touches one or more of these
 | `physics` | Physical laws, forces, matter/energy | Thermodynamics, mechanics, electromagnetism, relativity |
 | `history` | Historical events, civilizations, cultural development | Empires, revolutions, trade routes, archaeological record |
 | `linguistics` | Language structure, meaning, origins, etymology | Syntax, semantics, language families, word origins |
-| `classics` | Ancient literature, epic poetry, retellings | Greek myth, Roman epic, oral tradition, mythological archetypes |
+| `classics` | Ancient literature, epic poetry, retellings | Greek myth, Roman epic, oral tradition, folklore, mythological archetypes |
 | `fiction` | Novels, literary narratives | Allegory, magical realism, dystopia, coming-of-age |
 
 ---
@@ -53,6 +53,7 @@ More focused disciplines, often nested within a broad domain.
 | `immunology` | biology | Immune system, immune response | Antibodies, T-cells, inflammation, autoimmunity |
 | `metabolism` | biology | Energy transformation, metabolic pathways | ATP, Krebs cycle, fermentation, metabolic regulation |
 | `nutrition` | biology | Food, diet, metabolic health impact | Macronutrients, vitamins, dietary patterns, gut health |
+| `agriculture` | ecology + environmental-science | Farming systems, soil-crop relationships, food production | Soil health, crop rotation, regenerative agriculture, land use |
 | `sleep` | neuroscience | Sleep science, circadian rhythms, sleep disorders | REM cycles, melatonin, insomnia, chronobiology |
 
 #### Mind & Cognition
@@ -93,5 +94,7 @@ Themes that weave across multiple domains, connecting ideas from different field
 | `technology` | society + physics | Tech systems, digital infrastructure, innovation | Internet, algorithms, materials science, automation |
 | `economics` | society + mathematics | Economic models, growth, markets, resource allocation | GDP, externalities, behavioral economics, trade |
 | `conservation` | ecology + environmental-science + society | Biodiversity preservation, ecological restoration | Rewilding, protected areas, species recovery, habitat loss |
+| `energy` | physics + environmental-science + society | Energy systems, thermodynamics, transition | Fossil fuels, renewables, energy policy, thermodynamic laws |
+| `spirituality` | philosophy + society | Spiritual philosophy, personal transformation, meaning-making | Contemplative practice, religious experience, inner life, wisdom traditions |
 
 

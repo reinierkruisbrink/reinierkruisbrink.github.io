@@ -13,7 +13,6 @@ synopsis: "Ovid's Metamorphoses is a sprawling epic poem that recounts a series 
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # Metamorphoses

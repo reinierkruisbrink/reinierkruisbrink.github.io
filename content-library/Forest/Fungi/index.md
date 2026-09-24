@@ -7,6 +7,10 @@ tags:
 
 # Fungi
 
+Fungi are neither plant nor animal, they form their own kingdom, and arguably the most ecologically underappreciated one. The visible fruiting body is only a brief, seasonal signal; the real organism is the mycelium threading silently through soil, deadwood, and living roots year-round. Many of the trees I walk under are chemically entangled with fungal networks they could not survive without.
+
+This section collects fungi I have identified in the field, primarily in the Netherlands and surrounding regions: deciduous and conifer forests, heathlands, dunes, and roadside verges. Identification is always provisional, photographs, ecological context, and spore prints together still leave room for error.
+
 A collection of Fungi observations organized by taxonomy.
 
 ## Fungi-Specific Tags

@@ -13,7 +13,6 @@ synopsis: "The Iliad, by Homer, is an epic poem considered one of the foundation
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # The Iliad

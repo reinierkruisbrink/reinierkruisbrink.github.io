@@ -13,7 +13,6 @@ synopsis: "In Stephen Fry's entertaining book, Heroes, he takes you on a delight
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # Heroes: Mortals and Monsters, Quests and Adventures

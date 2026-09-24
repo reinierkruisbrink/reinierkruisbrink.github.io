@@ -13,7 +13,6 @@ synopsis: "In Stephen Fry's witty and engaging book, Troy, he takes you on a thr
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # Troy

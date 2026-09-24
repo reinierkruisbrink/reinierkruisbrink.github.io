@@ -13,7 +13,6 @@ synopsis: "The Aeneid by Virgil is an epic poem that follows Aeneas, a Trojan wa
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # The Aeneid

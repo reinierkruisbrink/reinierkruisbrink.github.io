@@ -13,25 +13,23 @@ Notes that share botanical or mycological ground with the [[Library/index|Librar
 
 ## Tag Vocabulary
 
-Forest notes carry a `forest/` prefix on all taxonomic and descriptive tags to keep them from flooding the Library tag space. Shared tags that genuinely apply to both pillars have no prefix, those cross-links are the main reason Library and Forest live in one instance.
-
 ### Taxonomic Rank Tags
 
 | Tag | Applies to |
 |---|---|
-| `forest/family` | Family-level index pages |
-| `forest/subfamily` | Subfamily index pages |
-| `forest/genus` | Genus-level pages |
-| `forest/species` | Individual species entries |
-| `forest/variety` | Botanical variety or natural form |
-| `forest/cultivar` | Horticultural selection |
+| `family` | Family-level index pages |
+| `subfamily` | Subfamily index pages |
+| `genus` | Genus-level pages |
+| `species` | Individual species entries |
+| `variety` | Botanical variety or natural form |
+| `cultivar` | Horticultural selection |
 
 ### Descriptive Tags
 
 | Tag | Meaning |
 |---|---|
-| `forest/evergreen` | Retains foliage year-round |
-| `forest/deciduous` | Sheds foliage seasonally |
+| `evergreen` | Retains foliage year-round |
+| `deciduous` | Sheds foliage seasonally |
 
 ### Shared Tags (no prefix)
 

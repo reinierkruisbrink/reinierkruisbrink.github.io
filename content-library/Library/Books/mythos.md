@@ -13,7 +13,6 @@ synopsis: "In Stephen Fry's Mythos, you're in for a treat, a witty and engaging 
 tags:
   - "classics"
   - "fiction"
-  - "mythology"
 ---
 
 # Mythos: The Greek Myths Retold
