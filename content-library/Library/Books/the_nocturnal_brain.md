@@ -55,6 +55,7 @@ The book delves into a range of sleep disorders, moving beyond simple insomnia t
 ## Personal Reflection
 
 Similarly to the books and descriptions by neurologist Oliver Sacks, Leschziner's writing is engaging and accessible, making complex neurological concepts understandable to a general audience. He weaves together personal anecdotes, scientific insights, and patient stories to create a compelling narrative that sheds light on the mysteries of sleep and its disorders. The book serves as a reminder of the importance of sleep for our overall well-being and the intricate workings of the brain during this enigmatic state.
+
 ## Related Books
 
 - [[chasing_the_sun|Chasing the Sun]] - The circadian system Geddes describes is the clock whose disorders Leschziner treats

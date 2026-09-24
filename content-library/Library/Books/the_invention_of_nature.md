@@ -47,7 +47,7 @@ Andrea Wulf reconstructs the life of Alexander von Humboldt (1769–1859), the P
 
 ## Personal Reflection
 
-[To be added]
+This book is a great introduction to ecology, as it does not really present a lot of facts about the natural world but it describes the circumstances in which it arose as scientific thought. Forms of ecology have existed in religious or spiritual settings for ages, but Humboldt helped to formalize it as a scientific discipline, emphasizing empirical observation and the interconnectedness of all living and non-living components of the environment. Perhaps the book should be named *The Reinvention of Nature*. What I like most about the story is that Humboldt, for one, was not even right in his theories and conclusions, yet his approach and vision laid the groundwork for modern ecological science (Lamarck and Lyell are similar examples). 
 
 ## Related Books
 

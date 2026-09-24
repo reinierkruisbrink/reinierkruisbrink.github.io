@@ -47,13 +47,12 @@ James Gleick traces the concept of information from African talking drums and th
 
 ## Personal Reflection
 
-[To be added]
+For a popular science book, *The Information* does an excellent job of making complex concepts in information theory accessible and engaging. Gleick weaves historical anecdotes, scientific explanations, and real-world applications to illustrate how information shapes our understanding of the world. I do have some experience with information theory from my studies, so perhaps I already had a basis but it is a great introduction to understand the circumstances in which information theory emerged and how it permeates various aspects of science and everyday life.
 
 ## Related Books
 
 - [[chaos|Chaos]] - Gleick's earlier book; together they trace deterministic chaos to information entropy
-- [[the_gene|The Gene]] - DNA as an information system, genetics as one instance of Gleick's broader argument
-- [[the_science_of_can_and_cant|The Science of Can and Can't]] - Marletto redefines information as a physical counterfactual property, a radical extension
+- [[active_inference|Active Inference]] - Friston's framework for understanding how agents process information and minimize uncertainty, complementing Gleick's discussion of information theory
 
 ---
 

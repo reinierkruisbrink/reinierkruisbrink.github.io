@@ -74,6 +74,7 @@ The same teleological tension runs through the points on regulation. When scient
 - [[entangled_life|Entangled Life]] - Sheldrake explores fungi as another hidden driver of Earth's chemistry and soil formation, a close complement to Jabr's subterranean microbes
 - [[the_blue_machine|The Blue Machine]] - Czerski covers ocean physics and chemistry in depth, including the biological pump and plankton's role in ocean carbon cycling
 - [[a_brief_history_of_earth|A Brief History of Earth]] - Knoll's deep-time narrative provides the geological backbone that contextualises Jabr's biological actors
+- [[the_invention_of_nature|The Invention of Nature]] - Wulf's biography of Humboldt provides historical context for understanding the deep interconnections between life and Earth's systems
 
 ---
 

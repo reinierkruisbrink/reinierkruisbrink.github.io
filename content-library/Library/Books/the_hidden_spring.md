@@ -33,23 +33,24 @@ In *The Hidden Spring*, neuropsychologist Mark Solms argues that consciousness d
 ### Affect as the Core of Consciousness
 
 - **Feelings first**: Drawing on Panksepp's seven primary affective systems (SEEKING, RAGE, FEAR, LUST, CARE, PANIC/GRIEF, PLAY), Solms argues that raw emotional states, not cognitive representations, are the most basic form of subjective experience.
-- **The valence dimension**: Consciousness at its simplest is a felt sense of *good* or *bad*: an organism's evaluation of whether its current state supports or threatens survival. This valence signal is what makes experience *matter* to the experiencer.
+- **The valence dimension**: Consciousness at its simplest is a felt sense of *good* or *bad*: an organism's evaluation of whether its current state supports or threatens survival. This valence signal is what makes experience *matter* to the experiencer, and is recorded in the brainstem.
 - **Clinical evidence**: Patients with cortical lesions can lose specific cognitive abilities (language, face recognition) while retaining emotional awareness; patients with brainstem damage lose consciousness entirely.
 
 ### The Free Energy Principle Applied
 
-- **Prediction error as feeling**: Solms maps Friston's free energy principle onto his brainstem model. The brainstem monitors homeostatic variables (temperature, blood chemistry, arousal) and generates prediction errors when they deviate from set points. These prediction errors *are* felt as emotions, hunger, thirst, pain, pleasure.
-- **Precision weighting**: The intensity of an emotion reflects the precision (confidence) the brain assigns to a prediction error. High-precision deviations from homeostatic targets produce strong feelings that demand action.
+- **Prediction error as feeling**: Solms maps Friston's free energy principle onto his brainstem model. The brainstem monitors homeostatic variables (temperature, blood chemistry, arousal) and generates prediction errors when they deviate from set points. These prediction errors *are* felt as emotions: hunger, thirst, pain, and pleasure.
+- **Precision weighting**: The intensity of an emotion reflects the precision (confidence) the brain assigns to a prediction error. High-precision deviations from homeostatic targets produce strong feelings that demand action. Trauma, autism, or hypersensitivity could be described as conditions where the brain assigns unusually high precision to certain prediction errors, leading to heightened emotional responses.
 - **Active inference**: The organism acts on the world to resolve prediction errors and return to homeostasis, making consciousness fundamentally action-oriented rather than passive observation.
 
 ### Implications
 
-- **Strike three against humanity**: Solms frames the demotion of cortical consciousness as the third great humiliation, after Galileo (Earth is not the center) and Darwin (humans are not separate from animals), we now learn that the "higher" cortex is not the seat of our innermost experience.
+- **Strike three against humanity**: Solms frames the demotion of cortical consciousness as the third great humiliation, after Galileo (Earth is not the center) and Darwin (humans are not separate from animals or plants), we now learn that the "higher" cortex is not the seat of our innermost experience, so consciousness is more ancient and widespread than we typically assume.
 - **The hard problem reframed**: Rather than asking how physical matter gives rise to subjective experience (Chalmers' hard problem), Solms asks why certain biological states *feel like something*. His answer: feeling is what precision-weighted homeostatic prediction error *is*, viewed from the inside.
 
 ## Personal Reflection
 
-[To be added]
+I found *The Hidden Spring* through a Royal Institution YouTube lecture by Solms, and as it builds heavily on affective neuroscience and the free energy principle, I was immediately interested. I found the book useful as a synthesis of these ideas, but especially valuable for its parts on the neurobiology and physical brain structures related to this process. 
+
 
 ## Related Books
 

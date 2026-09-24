@@ -54,7 +54,6 @@ An absolute must-read for anyone interested in the history and evolution of lang
 ## Related Books
 
 - [[the_language_instinct|The Language Instinct]] by Steven Pinker - Covers the innate biological aspects of language, contrasting with Deutscher's focus on cultural evolution.
-- [[proto|Proto]] by Spindley - Explores the origins of language, mapping back to Deutscher's early "Me Tarzan" stage of human communication.
 - [[the_sense_of_style|The Sense of Style]] by Steven Pinker - Relates to clear communication and how modern language continues to change and function effectively.
 - [[ondraaglijke_lichtheid|Ondraaglijke Lichtheid]] by Ilja Leonard Pfeijffer - How irony changes language and meaning, catching the evolution of language in the act
 

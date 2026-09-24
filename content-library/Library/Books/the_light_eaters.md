@@ -21,34 +21,37 @@ tags:
 
 ## Overview
 
-Zoe Schlanger's The Light Eaters is an interesting and high-level exploration of plants' hidden *intelligence*, communication, and sensory abilities. Although the jury is still out on most of the research, it seems that plants are much more complex than we give them credit for. Unsurprisingly, really, since they have had much longer to evolve while having to find different solutions than animals have.
+Zoë Schlanger's *The Light Eaters* is a science journalism exploration of research into plant sensory biology, arguing that plants are far more responsive to their environment than classical biology has acknowledged. The book surveys findings on photoreception, chemical signaling, mechanosensory responses, and habituation, while acknowledging that many claims remain contested within the scientific community.
 
 ## Key Concepts
 
-### Plants can *see* and respond to light
+### Photoreception beyond photosynthesis
 
-Plants don't just absorb light for photosynthesis; they also use it as an information source. They can detect different wavelengths of light, signaling when to grow, flower, or defend themselves. Some plants, like Boquila trifoliolata, can even mimic the leaves of their surroundings to avoid predation.
+- **Light as an information source**: Plants detect specific wavelengths of light to regulate developmental processes such as germination, growth direction, flowering time, and the production of defensive compounds.
+  - **Leaf mimicry**: *Boquila trifoliolata* produces leaves that morphologically resemble those of neighboring host plants. The mechanism is unknown and the subject of active debate, with hypotheses ranging from volatile chemical cues to, speculatively, photoreceptor-based visual sampling.
 
-### Chemical conversations in the forest
+### Chemical signaling between plants
 
-Trees and plants release airborne chemicals to warn others of danger. For example, it seems that when acacia trees are grazed upon, they release ethylene gas to signal neighboring trees to produce more tannins, making their leaves less palatable. Forests also communicate through mycorrhizal networks, where fungi connect the roots of different plants, allowing them to exchange nutrients and information.
+- **Herbivory-induced volatile compounds**: Some plants produce and release airborne volatile organic compounds in response to tissue damage. When acacia trees are grazed, they produce ethylene, and neighboring trees show increased tannin production, a correlation researchers propose may be mediated by chemical detection, though the causal pathway is not fully established.
+  - **Mycorrhizal networks**: Fungal hyphal networks connect the roots of multiple plants and facilitate bidirectional transfer of carbon, nutrients, and chemical signals. The degree to which this constitutes plant-to-plant "communication" versus passive diffusion is an open research question.
 
-### Picking up vibrations
+### Mechanosensory responses
 
-Many plants can detect vibrations in their environment, such as the sound of insects chewing on leaves or the footsteps of approaching animals. Some plants, like Mimosa pudica, can even respond to touch by folding their leaves—a defense mechanism against herbivores.
+- **Vibration detection**: Experimental studies show that plants can respond differently to mechanical vibrations, including frequencies associated with insect feeding. Some research suggests these responses trigger upregulation of defensive metabolites.
+  - **Touch-induced movement**: *Mimosa pudica* rapidly folds its leaflets in response to mechanical stimulation. This response is proposed as a deterrent to herbivory, and the underlying electrical signaling mechanism has been partially characterized.
 
-### Plants have a form of memory
+### Habituation in plants
 
-Research shows that plants can "remember" environmental stressors. The Mimosa pudica, a plant that folds its leaves when touched, can learn to stop reacting to harmless stimuli over time—suggesting a primitive form of memory.
+- **Reduced response to repeated stimuli**: In studies on *Mimosa pudica*, repeated exposure to a non-damaging mechanical stimulus, such as being gently dropped, resulted in a diminished leaf-folding response over time, even when the plant was otherwise undisturbed. Researchers describe this as habituation, a form of non-associative learning, though whether it constitutes "memory" in any meaningful sense remains debated.
 
 ## Personal Reflection
 
-While plant intelligence is a controversial topic, it is in my opinion even more controversial to assume that plants are passive organisms. I think Schlanger did a fantastic job at introducing the complexity and sensory life of plants. This ties beautifully into "An Immense World" by Ed Yong, which does this for animals and creates an awareness and understanding for non-human perspectives. Similarly, the idea of an *umwelt* by Jakob von Uexküll, which is the idea that every organism has its own subjective reality based on its perceptions and sensory world, is a fascinating concept to think about.
+While plant intelligence is a controversial topic, it is in my opinion even more controversial to assume that plants are passive organisms. I think Schlanger did a fantastic job at introducing the complexity and sensory life of plants. This ties beautifully into "An Immense World" by Ed Yong, which does this for animals and creates an awareness and understanding for non-human perspectives. Similarly, the idea of an *umwelt* by Jakob von Uexküll, which is the idea that every organism has its own subjective reality based on its perceptions and sensory world, is a fascinating concept to think about. However, it is important to remain critical of both the claims and the anthropomorphization of plant behavior.
 
 ## Related Books
 
 - [[planta_sapiens|Planta Sapiens]] - Deeper theoretical exploration of plant intelligence
-- [[good_nature|Good Nature]] - Nature's impact on human well-being
+- [[what_a_plant_knows|What a Plant Knows]] - Explores the sensory world of plants and how they perceive their environment
 - [[an_immense_world|An Immense World]] - Extends the Umwelt concept: if animals perceive hidden realms, plant senses suggest plants do too
 
 ---

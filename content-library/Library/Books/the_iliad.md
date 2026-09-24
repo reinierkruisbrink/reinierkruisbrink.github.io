@@ -44,13 +44,12 @@ The *Iliad*, attributed to Homer, is the foundational epic of Western literature
 
 ## Personal Reflection
 
-[To be added]
+While interesting to have read, I found the translation rather dense. I am aware that literal translations reflect the poem's original structure but calling a god or character by their formal epithets repeatedly can make the narrative feel cumbersome and less fluid than a more interpretive translation might. But it is a good reference and insightful experience nonetheless.
 
 ## Related Books
 
 - [[the_odyssey|The Odyssey]] - Homer's sequel; Odysseus's journey home from the war
 - [[troy|Troy]] - Fry provides the complete arc, prelude and aftermath Homer omits
-- [[heroes|Heroes]] - Achilles, Ajax, and Hector profiled within Fry's broader survey of Greek heroism
 
 ---
 

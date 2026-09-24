@@ -53,7 +53,7 @@ Quite a dense read, but it helps that it is interspersed with anecdotal and hist
 
 - [[the_last_drop|The Last Drop]] - Czerski explains the physical ocean; Smedley explains the freshwater crisis, together they cover Earth's water
 - [[the_secret_world_of_weather|The Secret World of Weather]] - Ocean and atmosphere are coupled systems
-- [[geopedia|Geopedia]] - Bjornerud covers the solid-earth context shaping the ocean basins Czerski describes
+- [[a_brief_history_of_earth|A Brief History of Earth]] - Knoll provides the deep-time geological context that underpins oceanic and atmospheric processes
 
 ---
 

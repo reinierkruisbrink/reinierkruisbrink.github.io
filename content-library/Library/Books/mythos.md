@@ -46,13 +46,13 @@ Stephen Fry retells the Greek myths from the very beginning, the emergence of Ch
 
 ## Personal Reflection
 
-[To be added]
+A witty and engaging retelling. I have heard people find it hard to keep track of all the names and stories, but since I was already somewhat familiar with the myths, I found Fry's narrative both accessible and enjoyable. If you find this hard to follow, the original sources will not get any easier!
 
 ## Related Books
 
-- [[heroes|Heroes]] - Second volume in Fry's trilogy, the mortal successors to the gods
-- [[troy|Troy]] - Third volume, the war that binds gods and heroes
-- [[odyssey|Odyssey]] - Fourth volume, Fry's retelling of Homer's epic journey of Odysseus
+- [[heroes|Heroes]] - Second volume, focusing on the legendary figures and their epic quests
+- [[troy|Troy]] - Third volume, where many heroes meet their fates
+- [[odyssey|Odyssey]] - Fourth volume, Fry's retelling of Homer's epic poem, which features many of the heroes discussed in this book
 - [[metamorphoses|Metamorphoses]] - Ovid's poem is the other great literary compendium of the same myths
 
 ---

@@ -46,13 +46,13 @@ Steven Pinker uses the structure of everyday language, verb constructions, metap
 
 ## Personal Reflection
 
-[To be added]
+I find Pinker's arguments for descriptive rather than prescriptive approaches to language compelling. I think it is especially useful and interesting as intuitive way to understand the "universal grammar" that he describes in his earlier work, *The Language Instinct*. The first chapter is 70 pages on verbs, so you have to find it interesting in some way to get through it, but it sets the stage for the rest of the book by showing how deeply embedded certain structures are in our cognition and languages.
+
 
 ## Related Books
 
 - [[the_language_instinct|The Language Instinct]] - Pinker’s foundational case for innate grammar; this book builds on it by exploring meaning
-- [[ondraaglijke_lichtheid|Ondraaglijke Lichtheid]] - Kundera also probes metaphor and meaning, through literature rather than linguistics
-- [[the_etymologicon|The Etymologicon]] - Forsyth plays with the surprising connections between words that Pinker analyses formally
+- [[the_unfolding_of_language|The Unfolding of Language]] - Traces the historical development of languages, complementing Pinker's focus on the innate biological basis of language
 
 ---
 

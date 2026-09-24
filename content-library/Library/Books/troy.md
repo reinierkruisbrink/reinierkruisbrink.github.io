@@ -45,12 +45,13 @@ Stephen Fry retells the saga of the Trojan War from its mythological origins to 
 
 ## Personal Reflection
 
-[To be added]
+Another engaging retelling by Stephen Fry. The idea I get is less of a literary work and more what I would expect in an ancient Greek theatre: a vivid, character-driven narrative that conveys cultural values, heroic ideals, and the moral complexities of war.
 
 ## Related Books
 
-- [[mythos|Mythos]] - Fry’s Greek-myth overview; Troy zooms in on the war at the centre of those myths
-- [[heroes|Heroes]] - Fry’s character-driven companion; many heroes reach their fate at Troy
+- [[mythos|Mythos]] - First volume in Fry's ancient Greek series, the divine backstory
+- [[heroes|Heroes]] - Second volume, focusing on the legendary figures and their epic quests
+- [[odyssey|Odyssey]] - Fourth volume, Fry's retelling of Homer's epic poem, which features many of the heroes discussed in this book
 - [[the_iliad|The Iliad]] - Homer’s original source for the siege Fry retells
 
 ---

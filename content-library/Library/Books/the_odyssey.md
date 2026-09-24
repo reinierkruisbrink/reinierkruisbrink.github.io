@@ -44,13 +44,12 @@ The *Odyssey*, Homer's second epic, follows Odysseus on his ten-year journey hom
 
 ## Personal Reflection
 
-[To be added]
+While interesting to have read, I found the translation rather dense. I am aware that literal translations reflect the poem's original structure but calling a god or character by their formal epithets repeatedly can make the narrative feel cumbersome and less fluid than a more interpretive translation might. But it is a good reference and insightful experience nonetheless.
 
 ## Related Books
 
 - [[the_iliad|The Iliad]] - Homer's prequel, the war preceding Odysseus's journey
 - [[the_aeneid|The Aeneid]] - Virgil's direct response; Aeneas's voyage mirrors and inverts Odysseus's
-- [[troy|Troy]] - Fry provides the full context surrounding the war
 
 ---
 

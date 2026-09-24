@@ -55,9 +55,9 @@ Considering the book is from 2002, it is interesting to see how they spoke of th
 
 ## Related Books
 
-- [[entangled_life|Entangled Life]] - Mycorrhizal networks are a biological instantiation of scale-free network topology
 - [[the_information|The Information]] - Gleick covers the signals that flow through the networks Barabási maps
 - [[chaos|Chaos]] - Nonlinear dynamics complements network dynamics, together they cover complexity science
+- [[the_secret_network_of_nature|The Secret Network of Nature]] - Explores networks in ecological and biological systems
 
 ---
 

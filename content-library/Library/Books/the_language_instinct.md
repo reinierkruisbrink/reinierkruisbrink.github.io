@@ -46,12 +46,12 @@ Steven Pinker argues that language is not a cultural invention learned purely th
 
 ## Personal Reflection
 
-[To be added]
+I find Pinker's arguments for descriptive rather than prescriptive approaches to language compelling. Even though the idea of "universal grammar" has something prescriptive-ness about it, it is ultimately a scientific hypothesis about the innate structure of the human mind rather than a set of rules dictating how people should speak.
 
 ## Related Books
 
 - [[the_stuff_of_thought|The Stuff of Thought]] - Pinker's companion; *Language Instinct* covers biological basis, *Stuff of Thought* explores cognition
-- [[the_etymologicon|The Etymologicon]] - Forsyth traces historical word drift; Pinker explains the biological machinery producing and processing them
+- [[the_unfolding_of_language|The Unfolding of Language]] - Traces the historical development of languages, complementing Pinker's focus on the innate biological basis of language
 - [[being_you|Being You]] - Seth's predictive brain resonates with Pinker's "mentalese", internal models structuring experience
 
 ---

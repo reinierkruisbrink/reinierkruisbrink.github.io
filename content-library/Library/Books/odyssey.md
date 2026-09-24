@@ -50,9 +50,9 @@ Fry's retelling is as readable and entertaining as his earlier books, though the
 
 ## Related Books
 
-- [[mythos|Mythos]] - First volume in Fry's series, the divine foundations of the Greek world
-- [[heroes|Heroes]] - Second volume; Odysseus appears as the archetypal cunning hero
-- [[troy|Troy]] - Third volume; the war that sets Odysseus's journey in motion
+- [[mythos|Mythos]] - First volume in Fry's ancient Greek series, the divine backstory
+- [[heroes|Heroes]] - Second volume, focusing on the legendary figures and their epic quests
+- [[troy|Troy]] - Third volume, where many heroes meet their fates
 - [[the_odyssey|The Odyssey]] - Homer's original epic; the source text Fry retells
 
 ---
