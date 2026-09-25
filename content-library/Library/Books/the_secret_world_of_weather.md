@@ -44,13 +44,13 @@ Tristan Gooley teaches readers to read weather at the hyper-local scale, not fro
 
 ## Personal Reflection
 
-[To be added]
+I found the topics fascinating and practical, even though I do not often have the need to apply any of these techniques in my life. Yet the book also provides enough explanation of general principles that link to to environmental science broadly. For most of the books I have read on ecology, this is adjacent but the topics themselves are rather new and harder to internalize fully.
 
 ## Related Books
 
 - [[the_blue_machine|The Blue Machine]] - Talley provides the oceanic counterpart to Gooley's atmospheric patterns
 - [[the_primacy_of_doubt|The Primacy of Doubt]] - Palmer explains the physics and chaos behind the weather patterns Gooley reads
-- [[geopedia|Geopedia]] - Marais covers Earth-system concepts that overlap with Gooley's micro-weather
+- [[a_brief_history_of_everything|A Brief History of Everything]] - Provides a broad scientific context that complements Gooley's detailed weather observations
 
 ---
 

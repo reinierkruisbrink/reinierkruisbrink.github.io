@@ -33,17 +33,17 @@ UPFs are hard to classify perfectly but the NOVA classification system is a good
 
 **Harms the Microbiome** Many UPFs contain emulsifiers and preservatives that disrupt gut bacteria, reducing microbial diversity and contributing to digestive and immune-related disorders.
 
-**Drives Obesity &amp; Diabetes** Countries with high UPF consumption show skyrocketing rates of obesity and Type 2 diabetes. These foods are digested more quickly, leading to blood sugar spikes followed by crashes that drive more hunger and cravings.
+**Drives Obesity & Diabetes** Countries with high UPF consumption show skyrocketing rates of obesity and Type 2 diabetes. These foods are digested more quickly, leading to blood sugar spikes followed by crashes that drive more hunger and cravings.
 
-### Aggressive Marketing &amp; Targeting of Marginalized Communities
+### Aggressive Marketing & Targeting of Marginalized Communities
 
 **Cheap and Ubiquitous** UPFs are often cheaper than whole foods, making them more accessible in food deserts where fresh produce is scarce. They take less time to prepare so are generally more accessible for people with less time or money.
 
 **Addictive Formulation** These foods are engineered to maximize *bliss points/hyperpalatiblity* (ideal combinations of sugar, fat, and salt, or artifical flavouring and colouring) that drive repeat and excess consumption, which in turn drives profits.
 
-**Marketing to Children &amp; Low-Income Groups** The food industry spends billions on advertising, disproportionately targeting children (think of colourful happy packaging with animals) and marginalized communities with misleading health claims (see the next points).
+**Marketing to Children & Low-Income Groups** The food industry spends billions on advertising, disproportionately targeting children (think of colourful happy packaging with animals) and marginalized communities with misleading health claims (see the next points).
 
-### Industry-Funded Research &amp; Misinformation
+### Industry-Funded Research & Misinformation
 
 **Conflicts of Interest** Many studies claiming that UPFs are 'not harmful' are backed by food corporations via institutes, similar to how Big Tobacco funded research to obscure the dangers of smoking. This and  this.
 

@@ -49,7 +49,7 @@ In *The Spike*, computational neuroscientist Mark Humphries follows a single mom
 
 ## Personal Reflection
 
-[To be added]
+As the subtitle suggests, the book follows a journey through the brain and passes through various levels of neural organization. This narrative with detailed explanations make it the sweet spot of engagement and information. What I liked was how Humphries pointed out the bottlenecks of neural computation and the clever strategies the brain employs to overcome them, in particular the spike trains and predictive processing mechanisms.
 
 ## Related Books
 

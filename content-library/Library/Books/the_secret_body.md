@@ -57,7 +57,7 @@ In *The Secret Body*, immunologist Daniel M. Davis surveys six frontiers of huma
 
 ## Personal Reflection
 
-[To be added]
+While the topics were very interesting and state of the art techniques, I found the story a bit scattered and lacking a cohesive narrative that ties all these discoveries together. 
 
 ## Related Books
 

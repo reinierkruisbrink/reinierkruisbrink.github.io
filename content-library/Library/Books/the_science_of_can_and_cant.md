@@ -44,12 +44,11 @@ Chiara Marletto introduces "constructor theory," a framework developed with Davi
 
 ## Personal Reflection
 
-[To be added]
+Either I did not understand the real crux of the book, or I just did not like it. The book is interspersed with fictional stories that seem to me to fill pages rather than bring a point across. In most books the difference between dense information and anecdotal and experiental content is useful to make it more intuitive to grasp. I did not have that here.
 
 ## Related Books
 
 - [[the_information|The Information]] - Gleick traces information theory historically; Marletto redefines it from first principles
-- [[transformer|Transformer]] - Lane's thermodynamic account of life connects to Marletto's counterfactual reformulation of irreversibility
 - [[life_on_the_edge|Life on the Edge]] - Both push physics into biology, quantum mechanics vs constructor theory
 
 ---

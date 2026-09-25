@@ -31,9 +31,9 @@ This rapid environmental change has created a "mismatch" where our bodies are il
 
 ### Evolutionary History
 
-**Bidepalism &amp; Endurance** The evolution of bipedalism he argues comes from having to venture further foor food due to historical climate change 6 million years ago. This not only freed our hands but also transformed our ability to walk and run long distances, making us exceptional endurance athletes. This adaptation was crucial for hunting, scavenging, and migration, shaping our metabolism and musculoskeletal structure.
+**Bidepalism & Endurance** The evolution of bipedalism he argues comes from having to venture further foor food due to historical climate change 6 million years ago. This not only freed our hands but also transformed our ability to walk and run long distances, making us exceptional endurance athletes. This adaptation was crucial for hunting, scavenging, and migration, shaping our metabolism and musculoskeletal structure.
 
-**Teeth, Jaws &amp; Brains** Changes in our diet, first weaning off fruits and eating less desirable foods, then the consumption of cooked food, led to smaller teeth and jaws, freeing up energy for the development of larger brains. We basically outsourced part of food processing to tools and cooking. This evolutionary trade-off fueled our cognitive abilities and complex social structures.
+**Teeth, Jaws & Brains** Changes in our diet, first weaning off fruits and eating less desirable foods, then the consumption of cooked food, led to smaller teeth and jaws, freeing up energy for the development of larger brains. We basically outsourced part of food processing to tools and cooking. This evolutionary trade-off fueled our cognitive abilities and complex social structures.
 
 **Fat** The ability to store fat and how it interacts with our metabolism was a crucial adaptation for survival during periods of food scarcity, providing a vital energy reserve.
 
@@ -43,7 +43,7 @@ This rapid environmental change has created a "mismatch" where our bodies are il
 
 **Industry** The Industrial Revolution brought about unprecedented technological progress but also led to more sedentary lifestyles, exposure to new pollutants (air/water quality but also light and noise), and excessive food processing, further exacerbating the mismatch between our evolved hunther-gatherer biology and our modern industrial environment.
 
-### Mistmatch &amp; Dysvolution
+### Mistmatch & Dysvolution
 
 **Too much** A primary mismatch is the overabundance of readily available, energy-dense food, far exceeding our evolved need and capacity for energy expenditure. This surplus leads to a cascade of metabolic disorders like obesity, type 2 diabetes, and cardiovascular diseases. Dysvolution is evident in our reliance on labor-saving devices (e.g. cars and elevators) and the reduced need for physical exertion.
 
@@ -55,7 +55,7 @@ This rapid environmental change has created a "mismatch" where our bodies are il
 
 ## Personal Reflection
 
-[To be added]
+The mismatch theory presented by Lieberman is applicable to almost all aspects of life. It left me with a very simple guideline that we should strive to align our modern behaviors and environments with the conditions our bodies evolved to handle, which is not difficult to imagine in everyday life, as opposed to knowing exact calorie intake, macronutrient ratios, or exercise regimens. By focusing on the broader principle of evolutionary alignment, we can make more intuitive and sustainable choices that promote long-term health and well-being (not that exact measures are bad, just more complex so less effective in everyday life).
 
 ## Related Books
 

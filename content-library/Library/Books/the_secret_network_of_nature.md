@@ -45,13 +45,13 @@ In *The Secret Network of Nature*, forester Peter Wohlleben reveals the hidden w
 
 ## Personal Reflection
 
-[To be added]
+A great introduction to system thinking in ecology because it gives intuitive stories of the cascading effects and hidden networks that shape natural ecosystems.
 
 ## Related Books
 
-- [[entangled_life|Entangled Life]] - Sheldrake dives into the fungal networks Wohlleben describes as hidden connections
 - [[the_invention_of_nature|The Invention of Nature]] - Humboldt first articulated the interconnected web of nature Wohlleben illustrates
 - [[linked|Linked]] - Barabási formalises the network science behind the ecological links Wohlleben narrates
+- [[becoming_earth|Becoming Earth]] - Jabr explores the interconnectedness of Earth's systems and the hidden networks that sustain life
 
 ---
 

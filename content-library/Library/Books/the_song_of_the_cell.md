@@ -47,7 +47,7 @@ Siddhartha Mukherjee traces the history of cell biology from its earliest micros
 
 ## Personal Reflection
 
-[To be added]
+This book hit the sweet spot for me between popular science narrative and rigorous scientific explanation, making complex cellular biology accessible without oversimplifying it. It does also help that I simply find these topics absolutely fascinating. 
 
 ## Related Books
 

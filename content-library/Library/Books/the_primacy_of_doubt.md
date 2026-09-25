@@ -46,7 +46,7 @@ Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamen
 
 ### Fields of Use
 
-**Meteorology &amp; Economics** The book contrasts traditional deterministic models (like Navier-Stokes in weather) and neoclassical equilibrium models in economics with more realistic, uncertainty-aware approaches like ensembles and agent-based models.
+**Meteorology & Economics** The book contrasts traditional deterministic models (like Navier-Stokes in weather) and neoclassical equilibrium models in economics with more realistic, uncertainty-aware approaches like ensembles and agent-based models.
 
 **Policy** The distinction is made between projections (predictions conditioned on policy choices) and pure scientific prediction, highlighting that value judgment is necessary for policy decisions but is not part of the scientific prediction itself.
 
@@ -60,7 +60,7 @@ Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamen
 
 ## Personal Reflection
 
-While very interesting and appealing to some chaotic intuition, the final part remains very speculative. The most valuable takeaway is how to embrace uncertainty and use it in favour of making better predictions rather than fighting it.
+While very interesting and appealing to some chaotic intuition, the final part remains very speculative. Yet, it would make sense that, similar to lab vs field tests in biology and ecology, it is impossible to control for all variables in complex systems. And, the universe and the resulting geometry from its physical laws is quite complex. The most valuable takeaway is how to embrace uncertainty and use it in favour of making better predictions rather than fighting it.
 
 ## Related Books
 

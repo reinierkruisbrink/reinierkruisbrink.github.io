@@ -42,7 +42,7 @@ The book delves into a range of sleep disorders, moving beyond simple insomnia t
 
 **Dreaming** The experience of dreaming is characterized by hallucinogenic activity in the brain, where we perceive vivid sensory experiences, often bizarre and illogical, in the absence of external stimuli. This internally generated reality highlights the brain's capacity for creating complex and immersive worlds during sleep, even without input from our senses. The neurobiological basis of these dream states continues to be an area of active research. 
 
-### Sleep Disorders &amp; Enigmas
+### Sleep Disorders & Enigmas
 
 **Sleepwalking and Sleep Paralysis** Conditions like sleepwalking, involving complex motor behaviors during non-REM sleep with impaired consciousness, and sleep paralysis, characterized by temporary inability to move while being conscious during the transition to or from sleep, illustrate opposite disruptions in the inhibition of movement and levels of consciousness. 
 

@@ -47,11 +47,11 @@ In *The Man Who Mistook His Wife for a Hat*, neurologist Oliver Sacks presents a
 
 ## Personal Reflection
 
-[To be added]
+This book profoundly changed my understanding of the human brain and its relationship to identity and perception. What I liked most is the way that an anecdotal narrative is used to illuminate complex neurological phenomena, making the science both engaging and memorable. It works really well with as a scaffolding of case studies to combine with more theoretical neuroscience books like Being You and The Hidden Spring. Sacks's compassionate storytelling and meticulous clinical observations reveal the delicate balance between neurological function and the sense of self, while at the same time keeping the stories human and relatable.
 
 ## Related Books
 
-- [[a_leg_to_stand_on|A Leg to Stand On]] - Sacks on both sides of the clinical encounter, physician in *Hat*, patient in *Leg*
+- [[a_leg_to_stand_on|A Leg to Stand On]] - Sacks on both sides of the clinical encounter
 - [[the_nocturnal_brain|The Nocturnal Brain]] - Leschziner's case-study approach is explicitly modelled on Sacks's
 - [[being_you|Being You]] - Seth's predictive-processing framework explains many of the perceptual breakdowns Sacks documents
 
