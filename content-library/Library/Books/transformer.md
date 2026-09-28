@@ -47,13 +47,13 @@ Nick Lane argues that the Krebs cycle (citric acid cycle) is not merely a metabo
 
 ## Personal Reflection
 
-[To be added]
+The idea that *life inherited its energy-coupling mechanism from geochemistry rather than inventing it from scratch* is one of the most fascinating and humbling I have come across so far. Reframing life as children of the earth, and ideas like mother earth, become almost literal. Whether life originated information or metabolism first, it is clear that the chemical and energetic context provided by the earth played a foundational role in shaping the earliest forms of life. Another nice aspect is how it connects all of life through this shared biochemical and energetic heritage, highlighting our common ancestry even before life as we know it emerged.
 
 ## Related Books
 
 - [[introductory_biochemistry|Introductory Biochemistry]] - The textbook foundations underlying the energy transformations Lane describes
 - [[how_life_works|How Life Works]] - Ball and Lane converge: life is about energy flow and cellular organisation, not just genes
-- [[what_is_life|What is Life?]] - Schrödinger asks the big question; Lane answers it with proton gradients and thermodynamics
+- [[what_is_life|What is Life?]] - Paul Nurse describes the fundamental questions of what constitutes life; Lane answers one with proton gradients and thermodynamics
 
 ---
 

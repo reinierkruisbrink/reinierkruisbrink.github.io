@@ -47,14 +47,13 @@ Joan Maloof presents an encyclopaedic celebration of trees, covering their biolo
 
 ## Personal Reflection
 
-[To be added]
+A fun read to learn some interesting facts about trees and the people that played a role in studying and conserving them. It is on the one hand not so technical, making it accessible to a broad audience, yet on the other hand rich in detailed information for those with a deeper interest in dendrology, making only all of the details understandable with some more knowledge. It does a good job of starting to cure plant blindness, although someone without prior interest in plants might not have bought it in the first place.
 
 ## Related Books
 
 - [[florapedia|Florapedia]] - Both are encyclopaedic plant references; Florapedia covers wider botany, Treepedia focuses on trees
-- [[the_secret_network_of_nature|The Secret Network of Nature]] - Wohlleben narrates tree ecology; Treepedia provides the species-level knowledge
-- [[entangled_life|Entangled Life]] - Sheldrake explores the fungal partners that underpin every tree in the book
-
+- [[the_secret_network_of_nature|The Secret Network of Nature]] - Wohlleben narrates tree ecology; Treepedia provides some loose stories
+  
 ---
 
 **Parent:** [[Library/Books/index|Books]]

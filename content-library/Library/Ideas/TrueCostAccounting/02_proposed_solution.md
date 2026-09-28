@@ -54,7 +54,7 @@ This vector transforms "cost" from a single number into a structured object that
 
 ### $C_1$: Economic Cost (The Familiar Price)
 
-**What it represents**: The market price we already know—what you pay at the register.
+**What it represents**: The market price we already know, what you pay at the register.
 
 **Why keep it separate**: 
 - Provides continuity with existing accounting systems
@@ -65,7 +65,7 @@ This vector transforms "cost" from a single number into a structured object that
 
 ### $C_2$: Social Externality (Human Dignity & Safety)
 
-**What it represents**: The cost of harms inflicted on people in the supply chain—workers who aren't paid enough to live, children forced to work instead of attending school, unsafe conditions causing injury and disease, discrimination and exploitation.
+**What it represents**: The cost of harms inflicted on people in the supply chain, workers who aren't paid enough to live, children forced to work instead of attending school, unsafe conditions causing injury and disease, discrimination and exploitation.
 
 **Core logic**: If someone is harmed producing a good, what would it cost to:
 - **Remediate**: Pay back wage gaps, provide schooling to child laborers, compensate abuse victims
@@ -84,7 +84,7 @@ This vector transforms "cost" from a single number into a structured object that
 
 ### $C_3$: Environmental Externality (Ecosystem Debt)
 
-**What it represents**: The cost of environmental damage—what it would take to restore ecosystems, remove pollution, or compensate for permanent losses. This includes climate damage, water depletion, biodiversity collapse, and contamination.
+**What it represents**: The cost of environmental damage, what it would take to restore ecosystems, remove pollution, or compensate for permanent losses. This includes climate damage, water depletion, biodiversity collapse, and contamination.
 
 **Core logic**: If production degrades the environment, what would it cost to:
 - **Restore**: Bring ecosystems back to baseline health (reforestation, aquifer replenishment)
@@ -103,7 +103,7 @@ This vector transforms "cost" from a single number into a structured object that
 
 ### $C_4$: Consumer/Public Health Externality (The Health Bill)
 
-**What it represents**: The public health costs borne by consumers and society—diet-related diseases from ultra-processed foods, healthcare burdens from poor nutrition, long-term health impacts from exposure to additives or contaminants.
+**What it represents**: The public health costs borne by consumers and society, diet-related diseases from ultra-processed foods, healthcare burdens from poor nutrition, long-term health impacts from exposure to additives or contaminants.
 
 **Core logic**: If consuming a product increases disease burden, what is the cost of:
 - **Healthcare**: Treating diabetes, cardiovascular disease, obesity linked to poor diet
@@ -163,7 +163,7 @@ $$P_{signal}=C_1+N_{ext}(C)$$
 
 **Problem**: The system only works if we can calculate the cost vector and missing data is not a free strategy.
 
-**Solution**: When a supply-chain attribute is unknown/unverifiable, apply an **unknown penalty**—substitute a conservative high-impact prior (e.g., sector–country 95th percentile).
+**Solution**: When a supply-chain attribute is unknown/unverifiable, apply an **unknown penalty**, substitute a conservative high-impact prior (e.g., sector–country 95th percentile).
 
 **Why this works**:
 - **Incentive for transparency**: Companies are financially incentivized to disclose and verify to avoid penalties

@@ -42,7 +42,7 @@ Tim Palmer's The Primacy of Doubt argues that uncertainty and doubt are fundamen
 
 **Utilizing Noise** Introducing stochastic noise (like stochastic rounding) can be deliberately utilized into models to capture higher-order chaos and better estimate the full range of possibilities.
 
-**Targeting Sensitivity** Identifying singular vectors—small perturbations that lead to large outcomes—helps scientists know where to focus resources for the greatest predictive impact, informing efforts like the Digital Twin of Earth.
+**Targeting Sensitivity** Identifying singular vectors, small perturbations that lead to large outcomes, helps scientists know where to focus resources for the greatest predictive impact, informing efforts like the Digital Twin of Earth.
 
 ### Fields of Use
 

@@ -27,7 +27,7 @@ tags:
 Chudler opens with a quote by Ramón y Cajal:
 
 *Mientras el cerebro sea un arcano, el universo, reflejo de su estructura, será un mistério también.*
-— Santiago Ramón y Cajal
+,  Santiago Ramón y Cajal
 
 ### Neuroanatomy, Structure of the Nervous System
 

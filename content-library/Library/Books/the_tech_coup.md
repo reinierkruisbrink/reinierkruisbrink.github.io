@@ -42,13 +42,13 @@ Marietje Schaake, former Member of European Parliament and Stanford cyber-policy
 
 ## Personal Reflection
 
-[To be added]
+It is quite a different book than what I normally read, yet at the same time more in my own area of formal expertise. The book describes many of the issues that we, as humanity, are aware of, and points out that getting technology governance right is crucial as it is challenging. But that challenge is necessary to ensure that technology serves democratic values rather than undermining them. I think most of the books I mention below share a similar concern with the societal impact of unchecked growth and the need for thoughtful governance, and how the industry itself tries to influence the debate and regulatory landscape.
 
 ## Related Books
 
-- [[er_is_leven_na_de_groei|Er is leven na de groei]] - Both critique unchecked growth, Timmer in tech, Kalshoven in the wider economy
-- [[the_future_of_energy|The Future of Energy]] - Smil supplies the resource constraints behind the tech-driven promises Timmer challenges
-- [[linked|Linked]] - Barabási’s network theory provides the structural lens for the platform dynamics Timmer describes
+- [[ultra_processed_people|Ultra-Processed People]] - Both critique the societal impact of unchecked industrial and technological growth
+- [[the_last_drop|The Last Drop]] & [[clearing_the_air|Clearing the Air]] - Both address environmental and societal consequences of industrial and technological practices
+- [[er_is_leven_na_de_groei|Er is leven na de groei]] - Both critique unchecked growth, Schaake in tech, Schenderling in the wider economy
 
 ---
 

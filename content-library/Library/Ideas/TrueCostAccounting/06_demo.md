@@ -118,7 +118,7 @@ For **Product 5 (Generic Milk Chocolate)**:
 
 $$P_{\text{simple}}(p) = C_1 + C_2 + C_3 + C_4$$
 
-**No weighting, no norm**—just sum all externalities.
+**No weighting, no norm**, just sum all externalities.
 
 ### Calculate TCA with Weighted Norm
 
@@ -257,7 +257,7 @@ Top contributors:
 - Data files (product profiles, intensities, monetization factors)
 - Documentation (reproducibility guide, data sources, assumptions)
 
-**Status**: *(To be created—this is a placeholder for the actual experiment)*
+**Status**: *(To be created, this is a placeholder for the actual experiment)*
 
 ## Next Steps for Full Implementation
 

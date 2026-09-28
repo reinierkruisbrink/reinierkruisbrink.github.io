@@ -52,13 +52,13 @@ Nobel laureate Paul Nurse distils the question "What is life?" into five foundat
 
 ## Personal Reflection
 
-[To be added]
+Nurse's book provides a clear and comprehensive overview of the fundamental principles of life, which is very useful as a generalist view vs many of the highly specialized books and studies focussing on specific molecular mechanisms, cellular processes, or evolutionary details. Both are needed and they complemente each other, which is why I found it valuable to read after having read many of the relatively specialized works first.
 
 ## Related Books
 
 - [[how_life_works|How Life Works]] - Ball’s modern answer to Schrödinger’s question, going beyond genes to process
 - [[transformer|Transformer]] - Lane answers the same question with bioenergetics and proton gradients
-- [[the_gene|The Gene]] - Mukherjee traces the gene concept Schrödinger helped launch
+- [[the_song_of_the_cell|The Song of the Cell]] - Mukherjee explores the cell as a fundamental unit of life, complementing Nurse's focus on the gene and cell cycle
 
 ---
 

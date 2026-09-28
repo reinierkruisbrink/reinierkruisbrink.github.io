@@ -11,7 +11,7 @@ tags:
 
 # Problem Statement: The Unaccounted Hidden Costs
 
-Modern market economies are remarkably efficient at optimizing what they can measure and trade: monetary costs. However, the price mechanism systematically fails when important costs are **externalized**—borne by society, ecosystems, or future generations rather than the producer/consumer. This creates familiar and devastating consequences: climate damage, biodiversity loss, labor exploitation, and preventable disease are treated as "cheap" inputs.
+Modern market economies are remarkably efficient at optimizing what they can measure and trade: monetary costs. However, the price mechanism systematically fails when important costs are **externalized**, borne by society, ecosystems, or future generations rather than the producer/consumer. This creates familiar and devastating consequences: climate damage, biodiversity loss, labor exploitation, and preventable disease are treated as "cheap" inputs.
 
 ## The Core Issue: Externalities
 

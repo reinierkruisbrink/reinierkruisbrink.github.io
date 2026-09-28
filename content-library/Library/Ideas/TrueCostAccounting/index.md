@@ -14,9 +14,9 @@ tags:
 
 ## The Challenge
 
-Markets are extraordinary optimizers—but only of what they can measure. When a €2 chocolate bar is priced, it reflects supply chains, labor, and margins. What it doesn't reflect: child labor harvesting cocoa, deforestation clearing land, or health burdens from excessive sugar. These "externalities" aren't hidden by malice—they're invisible because our accounting systems weren't designed to see them.
+Markets are extraordinary optimizers, but only of what they can measure. When a €2 chocolate bar is priced, it reflects supply chains, labor, and margins. What it doesn't reflect: child labor harvesting cocoa, deforestation clearing land, or health burdens from excessive sugar. These "externalities" aren't hidden by malice, they're invisible because our accounting systems weren't designed to see them.
 
-The result is predictable: if environmental degradation, labor exploitation, and public health harm are "free," profit-seeking firms will rationally choose them. **This isn't a moral failing—it's a systems design flaw.**
+The result is predictable: if environmental degradation, labor exploitation, and public health harm are "free," profit-seeking firms will rationally choose them. **This isn't a moral failing, it's a systems design flaw.**
 
 ## The Solution: Complete the Price Signal
 
@@ -40,7 +40,7 @@ Aggregate externalities using $N_{ext}(C)=\sqrt{w_2C_2^2+w_3C_3^2+w_4C_4^2}$ to 
 
 ### 3. Unknown Penalty
 
-Missing supply-chain data receives a conservative high-impact estimate (95th percentile). This makes transparency valuable and opacity expensive—inverting the current incentive where hiding information is advantageous.
+Missing supply-chain data receives a conservative high-impact estimate (95th percentile). This makes transparency valuable and opacity expensive, inverting the current incentive where hiding information is advantageous.
 
 ### 4. VAT-Like Propagation
 
@@ -50,11 +50,11 @@ Apply an externality tax at each supply chain stage with input credits. Each fir
 
 **Markets work properly** when prices tell the truth. Profit-seeking naturally selects sustainable practices because unsustainable ones become expensive.
 
-**Supply chains become accountable.** Labor exploitation and environmental damage show up in costs—transparency becomes financially rational.
+**Supply chains become accountable.** Labor exploitation and environmental damage show up in costs, transparency becomes financially rational.
 
 **Trade-offs become honest.** No more "carbon neutral" products hiding forced labor. The weighted norm prevents greenwashing through comprehensive accounting.
 
-**Innovation gets directed** toward real solutions—clean energy, regenerative agriculture, safer labor—as competitive advantages rather than cost centers.
+**Innovation gets directed** toward real solutions, clean energy, regenerative agriculture, safer labor, as competitive advantages rather than cost centers.
 
 **Policy becomes coherent.** Replace patchwork regulations with unified framework. Disagreements move to auditable parameters, not vague sustainability claims.
 

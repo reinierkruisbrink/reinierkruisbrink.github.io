@@ -46,8 +46,7 @@ Steven Pinker uses the structure of everyday language, verb constructions, metap
 
 ## Personal Reflection
 
-I find Pinker's arguments for descriptive rather than prescriptive approaches to language compelling. I think it is especially useful and interesting as intuitive way to understand the "universal grammar" that he describes in his earlier work, *The Language Instinct*. The first chapter is 70 pages on verbs, so you have to find it interesting in some way to get through it, but it sets the stage for the rest of the book by showing how deeply embedded certain structures are in our cognition and languages.
-
+I find Pinker's arguments for descriptive rather than prescriptive approaches to language compelling. I think it is especially useful and interesting as intuitive way to understand the "universal grammar" that he describes in his earlier work, *The Language Instinct*. The first chapter is 70 pages on verbs, so you have to find it interesting in some way to get through it, but it sets the stage for the rest of the book by showing how deeply embedded certain structures are in our cognition and languages. The chapter on swear words alone is worth the read for its insights into the intersection of language, emotion, and social norms.
 
 ## Related Books
 

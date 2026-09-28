@@ -234,7 +234,7 @@ DALY per 100g = 0.225 DALY/year ÷ 100 units/year = 0.00225 DALY/100g
 C_4 = 0.00225 DALY × €129,000/DALY = €290.25 per 100g unit
 ```
 
-**Note**: This appears high, which is intentional—reflects true public health burden of ultra-processed, nutrient-poor foods when consumed regularly.
+**Note**: This appears high, which is intentional, reflects true public health burden of ultra-processed, nutrient-poor foods when consumed regularly.
 
 ### Upper Bound for Unknown
 

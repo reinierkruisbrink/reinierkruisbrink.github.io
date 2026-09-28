@@ -22,7 +22,7 @@ tags:
 
 ## Overview
 
-In *Dirt to Soil*, Gabe Brown shares his journey from failing conventional farmer to a pioneer of the regenerative agriculture movement. The core argument is that conventional farming has become an extractive industry—mining the soil rather than stewarding it—leading to degraded landscapes and reliance on chemical inputs. The book proposes a shift towards "regenerative" agriculture, which focuses entirely on rebuilding soil health. By restoring the biological life in the soil, farmers can restore the water cycle, mineral cycle, and energy flow, ultimately creating a profitable and resilient ecosystem.
+In *Dirt to Soil*, Gabe Brown shares his journey from failing conventional farmer to a pioneer of the regenerative agriculture movement. The core argument is that conventional farming has become an extractive industry, mining the soil rather than stewarding it, leading to degraded landscapes and reliance on chemical inputs. The book proposes a shift towards "regenerative" agriculture, which focuses entirely on rebuilding soil health. By restoring the biological life in the soil, farmers can restore the water cycle, mineral cycle, and energy flow, ultimately creating a profitable and resilient ecosystem.
 
 ## Key Concepts
 
