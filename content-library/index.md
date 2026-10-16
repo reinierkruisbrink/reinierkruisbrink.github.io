@@ -10,5 +10,5 @@ The [[Library/index|Library]] collects book notes and ideas across disciplines. 
 
 → [[Library/index|Library]] · [[Forest/index|Forest]]
 
-**Links:** [LinkedIn](https://nl.linkedin.com/in/reinier-kruisbrink-846795153) · [GitHub](https://github.com/reinierkruisbrink) · [Goodreads](https://www.goodreads.com/user/show/157295953-reinier) · [Instagram](https://www.instagram.com/reinierkruisbrink/) · [reinierkruisbrink@gmail.com](mailto:reinierkruisbrink@gmail.com)
+**Links:** [LinkedIn](https://nl.linkedin.com/in/reinier-kruisbrink-846795153) · [GitHub](https://github.com/reinierkruisbrink) · [Goodreads](https://www.goodreads.com/user/show/157295953-reinier) · [Instagram](https://www.instagram.com/reinierkruisbrink/)
 
